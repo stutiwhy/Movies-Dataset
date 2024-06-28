@@ -1,45 +1,73 @@
 import pandas as pd
-from exceptions import DataCleaningError, MissingColumnError
+from exceptions import DataCleaningError, MissingColumnError, FileHandlingError
+from file_handling import load_clean_data, save_clean_data
 
-def clean_data(df):
+def clean_data():
+    try:
+        # Load data
+        df = load_clean_data("combined.csv")
+        print("Data loaded successfully!")
 
-    if df.empty:
-        raise DataCleaningError("Data is empty.") # exception handling for if the data is empty.
+        # Raise exception if data is empty
+        if df.empty:
+            raise DataCleaningError("Data is empty.")
 
-    # list with names of required columns so we can raise exception if all columns are not there
-    required_columns = ["name","year","movie_rated","run_length","genres","release_date","rating","num_raters","num_reviews"]
-    for col in required_columns:
-        if col not in df.columns:
-            raise MissingColumnError(col)
+        # List of required columns
+        required_columns = [
+            "name", "year", "movie_rated", "run_length", "genres", 
+            "release_date", "rating", "num_raters", "num_reviews"
+        ]
+        
+        # Check for missing required columns
+        for col in required_columns:
+            if col not in df.columns:
+                raise MissingColumnError(f"Missing required column: {col}")
+        
+        # Remove duplicates
+        df.drop_duplicates(inplace=True)
+        
+        # Drop unnecessary columns
+        df.drop(['review_url', 'num_reviews'], axis=1, inplace=True, errors='ignore')
+        
+        # Function to convert release_date to datetime with flexible format handling
+        def convert_release_date(date_str):
+            if isinstance(date_str, str):
+                date_part = date_str.split('(')[0].strip()
+                try:
+                    return pd.to_datetime(date_part, errors='coerce')
+                except ValueError as e:
+                    print(f"Error parsing date: {date_part} - {e}")
+                    return pd.NaT  # Return NaT (Not a Time) for invalid dates
+            else:
+                return pd.NaT
+        
+        # Apply the date conversion function
+        df['rel_date'] = df['release_date'].apply(convert_release_date)
+        
+        # Drop rows where date conversion failed (resulting in NaT)
+        df = df.dropna(subset=['rel_date'])
+        
+        # Drop the original release_date column
+        df.drop(['release_date'], axis=1, inplace=True)
+        
+        # Reorder columns to move 'rel_date' next to 'year'
+        new_columns_order = ['name', 'rel_date', 'genres', 'rating', 'movie_rated', 'run_length']
+        df = df.reindex(columns=new_columns_order)
+        
+        # Display the first few rows of the cleaned DataFrame
+        print(df.head())
+        
+        print("Data cleaned successfully!")
 
-    df.drop_duplicates(inplace = True) # removing all the redundant data from the dataset
+        # Save cleaned data to a new file (e.g., clean_movie_data.csv)
+        save_clean_data(df, "clean_movie_data.csv")
+        print("Cleaned data saved successfully!")
+    
+    except FileNotFoundError as e:
+        raise FileHandlingError(f"An error occurred: File not found - {e}")
 
-    df.drop(['review_url'], axis = 1, inplace = True)
+    except Exception as e:
+        raise FileHandlingError(f"An error occurred: {e}")
 
-    print("Data cleaned successfully!")
-
-    return df
-
-# print(df['rating'].value_counts())
-
-# # print(df.groupby('year').index().values())
-# # 1915 - 2020
-
-# print(df.shape)
-# # (1392, 9)
-
-# print(df.describe)
-
-# print(df.genres.describe)
-
-# # agegroup = df.groupby('movie_rated').count()
-
-# # plt.figure(figsize=(10,10))
-# # plt.plot(agegroup, 'g--')
-# # plt.xlabel('Age categories')
-# # plt.ylabel('Number of movies')
-# # st.pyplot(plt)
-
-# yeargroups = df['year'].unique()
-
-# print(yeargroups)
+# Call the function to clean data
+clean_data()
