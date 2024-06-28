@@ -8,6 +8,7 @@ from file_handling import load_clean_data, save_clean_data
 
 
 df = load_clean_data('clean_movie_data.csv')
+st.dataframe(df, hide_index=True)
 
 def get_base64(bin_file):
     with open(bin_file, 'rb') as f:
@@ -104,11 +105,6 @@ def basic_analysis():
     st.write('fig.7 : Number of Movies Growth by Genre Over Time Line Plot ')
 
 def search():
-    # df = load_clean_data('clean_movie_data.csv')
-
-    # g7 = plot_movies_by_genre_over_time(df)
-    # st.pyplot(g7)
-
     st.title('Search For Movies')
 
     st.header('Choose a genre to search for movies')
