@@ -52,7 +52,6 @@ def plot_genre_ratings_bar(df):
     plt.tight_layout()
 
     return plt
-
     
 def plot_ratings_vs_raters(df):
     plt.figure(figsize=(10, 6))
@@ -72,25 +71,58 @@ def plot_ratings_vs_raters(df):
     
     return plt
 
-def plot_genres_vs_runtime(df):
-    # Explode genres if they are in a list or separated by commas
-    df['genres'] = df['genres'].str.split('; ')
-    df_exploded = df.explode('genres')
+def plot_runtime_vs_year(df):
+    # Convert 'rel_date' to datetime if not already
+    df['rel_date'] = pd.to_datetime(df['rel_date'], errors='coerce')
 
-    # Group by genres and calculate mean or sum of run_length
-    genre_stats = df_exploded.groupby('genres')['run_length'].mean()  # Change to .sum() for total runtime
-    
-    # Plotting
+    # Extract year from 'rel_date' column
+    df['year'] = df['rel_date'].dt.year
+
+    # Scatter plot
     plt.figure(figsize=(10, 6))
-    genre_stats.plot(kind='bar', color='skyblue')
+    plt.scatter(df['year'], df['run_length'], alpha=0.5, color='blue')
 
-    plt.title('Average Runtime of Movies by Genre')
-    plt.xlabel('Genre')
-    plt.ylabel('Average Runtime (minutes)')
-    plt.xticks(rotation=45)
+    # Adding titles and labels
+    plt.title('Runtime of Movies Over the Years')
+    plt.xlabel('Year')
+    plt.ylabel('Runtime (minutes)')
+
+    # Tidy up the layout
     plt.tight_layout()
 
     return plt
+
+def plot_ratings_distribution(df):
+    plt.figure(figsize=(10, 6))
+    plt.hist(df['rating'].dropna(), bins=20, color='skyblue', edgecolor='black')
+    plt.title('Distribution of Movie Ratings')
+    plt.xlabel('Rating')
+    plt.ylabel('Frequency')
+    plt.tight_layout()
+    return plt
+
+def plot_runtime_distribution(df):
+    plt.figure(figsize=(10, 6))
+    plt.hist(df['run_length'].dropna(), bins=20, color='skyblue', edgecolor='black')
+    plt.title('Distribution of Movie Runtimes')
+    plt.xlabel('Runtime (minutes)')
+    plt.ylabel('Frequency')
+    plt.tight_layout()
+    return plt
+
+def plot_movies_by_decade(df):
+    plt.figure(figsize=(10, 6))
+    df['year'] = pd.to_datetime(df['rel_date'], errors='coerce').dt.year
+    df['decade'] = (df['year'] // 10) * 10
+    movies_by_decade = df['decade'].value_counts().sort_index()
+    plt.bar(movies_by_decade.index, movies_by_decade, color='skyblue')
+    plt.title('Number of Movies by Decade')
+    plt.xlabel('Decade')
+    plt.ylabel('Number of Movies')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    return plt
+
 
 def main():
     try:
@@ -104,6 +136,14 @@ def main():
         # fig = plot_ratings_vs_raters(df)
         # fig = plot_genres_vs_runtime(df)
         # fig.show()
+        fig1 = plot_runtime_vs_year(df)
+        fig1.show()
+        fig2 = plot_ratings_distribution(df)
+        fig2.show()
+        fig3 = plot_runtime_distribution(df)
+        fig3.show()
+        fig4 = plot_movies_by_decade(df)
+        fig4.show()
 
     except FileNotFoundError:
         raise FileHandlingError("Clean data file not found.")
