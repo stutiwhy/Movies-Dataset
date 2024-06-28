@@ -6,7 +6,7 @@ def clean_data():
     def clean_genre_data(genre_list):
         # Remove any empty strings and strip whitespaces from genres
         cleaned_genres = [genre.strip() for genre in genre_list if genre.strip()]
-        return ';'.join(cleaned_genres)
+        return ', '.join(cleaned_genres)
 
     try:
         # loading raw data

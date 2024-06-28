@@ -16,3 +16,9 @@ class FileHandlingError(Exception):
     def __init__(self, message):
         self.message = message
         super().__init__(self.message)
+
+# creating exception for plotting errors
+class PlottingError(Exception):
+    def __init__(self, message="An error occurred during plotting."):
+        self.message = message
+        super().__init__(self.message)
