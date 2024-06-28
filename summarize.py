@@ -13,9 +13,9 @@ def create_summary_txt(df, file_path):
     most_rated_movie = df.loc[df['num_raters'].idxmax()]['name']
     least_rated_movie = df.loc[df['num_raters'].idxmin()]['name']
 
-    df['genres'] = df['genres'].str.split('; ')
+    df['genres'] = df['genres'].str.strip().str.split(';')
     df_exploded = df.explode('genres')
-    most_common_genre = df_exploded['genres'].value_counts().idxmax()  # Fetch most common genre correctly
+    most_common_genre = df_exploded['genres'].value_counts().idxmax()
     least_common_genre = df_exploded['genres'].value_counts().idxmin()
 
     year_most_movies = df['year'].value_counts().idxmax()

@@ -8,7 +8,8 @@ from file_handling import load_clean_data, save_clean_data
 
 
 df = load_clean_data('clean_movie_data.csv')
-st.dataframe(df, hide_index=True)
+df['rel_date'] = pd.to_datetime(df['rel_date'], errors='coerce') 
+df['year'] = df['rel_date'].dt.year
 
 def get_base64(bin_file):
     with open(bin_file, 'rb') as f:
@@ -56,11 +57,11 @@ def basic_analysis():
     st.subheader('Top 10 Highest Rated Movies :')
     df = pd.read_csv('clean_movie_data.csv')
     top_10 = df.sort_values('rating', axis=0, ascending=False).head(10)
-    st.write(top_10)
+    st.dataframe(top_10, hide_index=True)
 
     st.subheader('Top 10 Lowest Rated Movies :')
     last_10 = df.sort_values('rating', axis=0, ascending=True).head(10)
-    st.write(last_10)
+    st.dataframe(last_10, hide_index=True)
 
     st.markdown('<hr>', unsafe_allow_html = True)
 
@@ -117,10 +118,8 @@ def search():
         st.write(f"No movies found for genre '{selected_genre}.'")
     else:
         st.write(f"Movies in genre '{selected_genre}':")
-        st.write(filtered_df[['name', 'genres']])
+        st.dataframe(filtered_df[['name', 'genres']],hide_index=True)
 
-    df['rel_date'] = pd.to_datetime(df['rel_date'], errors='coerce') 
-    df['year'] = df['rel_date'].dt.year
     unique_years = sorted(df['year'].unique())
     selected_year = st.selectbox('Select Year', unique_years)
 
@@ -134,7 +133,7 @@ def search():
         st.write(f"No movies found for genre '{selected_genre}' in the year {selected_year}.")
     else:
         st.write(f"Movies in genre '{selected_genre}' from {selected_year} :")
-        st.write(filtered_df[['name', 'genres', 'year']])
+        st.dataframe(filtered_df[['name', 'genres', 'year']],hide_index=True)
 
 st.sidebar.title('Make Your Choice')
 ch = st.sidebar.selectbox('Select page :', {'Movie Dataset Analysis', 'Search For Movies'})
