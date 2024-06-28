@@ -1,0 +1,1393 @@
+name,rel_date,genres,rating,movie_rated,run_length
+The Dark Knight,2008-07-18,Action; Crime; Drama; ,9.0,PG-13,2h 32min
+Inception,2010-07-16,Action; Adventure; Sci-Fi; ,8.8,PG-13,2h 28min
+The Matrix,1999-03-31,Action; Sci-Fi; ,8.7,R,2h 16min
+The Lord of the Rings: The Fellowship of the Ring,2001-12-19,Action; Adventure; Drama; ,8.8,PG-13,2h 58min
+The Dark Knight Rises,2012-07-20,Action; Adventure; ,8.4,PG-13,2h 44min
+Gladiator,2000-05-05,Action; Adventure; Drama; ,8.5,R,2h 35min
+Batman Begins,2005-06-15,Action; Adventure; ,8.2,PG-13,2h 20min
+The Avengers,2012-05-04,Action; Adventure; Sci-Fi; ,8.0,PG-13,2h 23min
+Star Wars: Episode IV - A New Hope,1977-05-25,Action; Adventure; Fantasy; ,8.6,PG,2h 1min
+Star Wars: Episode V - The Empire Strikes Back,1980-06-20,Action; Adventure; Fantasy; ,8.7,PG,2h 4min
+Avatar,2009-12-18,Action; Adventure; Fantasy; ,7.8,PG-13,2h 42min
+Guardians of the Galaxy,2014-08-01,Action; Adventure; Comedy; ,8.0,PG-13,2h 1min
+V for Vendetta,2006-03-17,Action; Drama; Sci-Fi; ,8.2,R,2h 12min
+Léon: The Professional,1994-11-18,Action; Crime; Drama; ,8.5,R,1h 50min
+Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,Action; Adventure; Fantasy; ,8.0,PG-13,2h 23min
+Kill Bill: Vol. 1,2003-10-10,Action; Crime; Thriller; ,8.1,R,1h 51min
+Terminator 2: Judgment Day,1991-07-03,Action; Sci-Fi; ,8.5,R,2h 17min
+Star Wars: Episode VI - Return of the Jedi,1983-05-25,Action; Adventure; Fantasy; ,8.3,PG,2h 11min
+Iron Man,2008-05-02,Action; Adventure; Sci-Fi; ,7.9,PG-13,2h 6min
+Deadpool,2016-02-12,Action; Adventure; Comedy; ,8.0,R,1h 48min
+Raiders of the Lost Ark,1981-06-12,Action; Adventure; ,8.4,PG,1h 55min
+Mad Max: Fury Road,2015-05-15,Action; Adventure; Sci-Fi; ,8.1,R,2h
+Star Wars: Episode VII - The Force Awakens,2015-12-18,Action; Adventure; Sci-Fi; ,7.9,PG-13,2h 18min
+Jurassic Park,1993-06-11,Action; Adventure; Sci-Fi; ,8.1,PG-13,2h 7min
+The Hunger Games,2012-03-23,Action; Adventure; Sci-Fi; ,7.2,PG-13,2h 22min
+Avengers: Infinity War,2018-04-27,Action; Adventure; Sci-Fi; ,8.4,PG-13,2h 29min
+The Terminator,1984-10-26,Action; Sci-Fi; ,8.0,R,1h 47min
+Die Hard,1988-07-20,Action; Thriller; ,8.2,R,2h 12min
+Avengers: Endgame,2019-04-26,Action; Adventure; Drama; ,8.4,PG-13,3h 1min
+Iron Man 3,2013-05-03,Action; Adventure; Sci-Fi; ,7.2,PG-13,2h 10min
+Thor,2011-05-06,Action; Adventure; Fantasy; ,7.0,PG-13,1h 55min
+300,2007-03-09,Action; Drama; ,7.6,R,1h 57min
+Captain America: The First Avenger,2011-07-22,Action; Adventure; Sci-Fi; ,6.9,PG-13,2h 4min
+Avengers: Age of Ultron,2015-05-01,Action; Adventure; Sci-Fi; ,7.3,PG-13,2h 21min
+Captain America: The Winter Soldier,2014-04-04,Action; Adventure; Sci-Fi; ,7.7,PG-13,2h 16min
+Star Wars: Episode I - The Phantom Menace,1999-05-19,Action; Adventure; Fantasy; ,6.5,PG,2h 16min
+Iron Man 2,2010-05-07,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 4min
+Star Wars: Episode III - Revenge of the Sith,2005-05-19,Action; Adventure; Fantasy; ,7.5,PG-13,2h 20min
+The Revenant,2016-01-08,Action; Adventure; Drama; ,8.0,R,2h 36min
+Man of Steel,2013-06-14,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 23min
+Blade Runner,1982-06-25,Action; Sci-Fi; Thriller; ,8.1,R,1h 57min
+Indiana Jones and the Last Crusade,1989-05-24,Action; Adventure; ,8.2,PG-13,2h 7min
+Spider-Man,2002-05-03,Action; Adventure; Sci-Fi; ,7.3,PG-13,2h 1min
+I Am Legend,2007-12-14,Action; Adventure; Drama; ,7.2,PG-13,1h 41min
+Kill Bill: Vol. 2,2004-04-16,Action; Crime; Thriller; ,8.0,R,2h 17min
+X-Men: Days of Future Past,2014-05-23,Action; Adventure; Sci-Fi; ,8.0,PG-13,2h 12min
+How to Train Your Dragon,2010-03-26,Animation; Action; Adventure; ,8.1,PG,1h 38min
+Pirates of the Caribbean: Dead Man's Chest,2006-07-07,Action; Adventure; Fantasy; ,7.3,PG-13,2h 31min
+The Incredibles,2004-11-05,Animation; Action; Adventure; ,8.0,PG,1h 55min
+Captain America: Civil War,2016-05-06,Action; Adventure; Sci-Fi; ,7.8,PG-13,2h 27min
+Aliens,1986-07-18,Action; Adventure; Sci-Fi; ,8.3,R,2h 17min
+X-Men: First Class,2011-06-03,Action; Adventure; Sci-Fi; ,7.7,PG-13,2h 11min
+District 9,2009-08-14,Action; Sci-Fi; Thriller; ,7.9,R,1h 52min
+Star Wars: Episode II - Attack of the Clones,2002-05-16,Action; Adventure; Fantasy; ,6.5,PG,2h 22min
+Logan,2017-03-03,Action; Drama; Sci-Fi; ,8.1,R,2h 17min
+Skyfall,2012-11-09,Action; Adventure; Thriller; ,7.7,PG-13,2h 23min
+Batman v Superman: Dawn of Justice,2016-03-25,Action; Adventure; Sci-Fi; ,6.4,PG-13,2h 31min
+The Hunger Games: Catching Fire,2013-11-22,Action; Adventure; Mystery; ,7.5,PG-13,2h 26min
+The Bourne Ultimatum,2007-08-03,Action; Mystery; Thriller; ,8.0,PG-13,1h 55min
+Black Panther,2018-02-16,Action; Adventure; Sci-Fi; ,7.3,PG-13,2h 14min
+Transformers,2007-07-03,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 24min
+World War Z,2013-06-21,Action; Adventure; Horror; ,7.0,PG-13,1h 56min
+Pirates of the Caribbean: At World's End,2007-05-25,Action; Adventure; Fantasy; ,7.1,PG-13,2h 49min
+Suicide Squad,2016-08-05,Action; Adventure; Fantasy; ,6.0,PG-13,2h 3min
+Edge of Tomorrow,2014-06-06,Action; Adventure; Sci-Fi; ,7.9,PG-13,1h 53min
+Thor: The Dark World,2013-11-08,Action; Adventure; Fantasy; ,6.9,PG-13,1h 52min
+Kingsman: The Secret Service,2015-02-13,Action; Adventure; Comedy; ,7.7,R,2h 9min
+Doctor Strange,2016-11-04,Action; Adventure; Fantasy; ,7.5,PG-13,1h 55min
+Sherlock Holmes,2009-12-25,Action; Adventure; Mystery; ,7.6,PG-13,2h 8min
+Star Trek,2009-05-08,Action; Adventure; Sci-Fi; ,7.9,PG-13,2h 7min
+Casino Royale,2006-11-17,Action; Adventure; Thriller; ,8.0,PG-13,2h 24min
+Jurassic World,2015-06-12,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 4min
+X-Men,2000-07-14,Action; Adventure; Sci-Fi; ,7.4,PG-13,1h 44min
+Thor: Ragnarok,2017-11-03,Action; Adventure; Comedy; ,7.9,PG-13,2h 10min
+Taken,2009-01-30,Action; Thriller; ,7.8,PG-13,1h 30min
+Ant-Man,2015-07-17,Action; Adventure; Comedy; ,7.3,PG-13,1h 57min
+The Amazing Spider-Man,2012-07-03,Action; Adventure; Sci-Fi; ,6.9,PG-13,2h 16min
+Guardians of the Galaxy Vol. 2,2017-05-05,Action; Adventure; Comedy; ,7.6,PG-13,2h 16min
+Star Wars: Episode VIII - The Last Jedi,2017-12-15,Action; Adventure; Fantasy; ,7.0,PG-13,2h 32min
+Rogue One: A Star Wars Story,2016-12-16,Action; Adventure; Sci-Fi; ,7.8,PG-13,2h 13min
+Wonder Woman,2017-06-02,Action; Adventure; Fantasy; ,7.4,PG-13,2h 21min
+Spider-Man 2,2004-06-30,Action; Adventure; Sci-Fi; ,7.3,PG-13,2h 7min
+Looper,2012-09-28,Action; Drama; Sci-Fi; ,7.4,R,1h 53min
+Dunkirk,2017-07-21,Action; Drama; History; ,7.9,PG-13,1h 46min
+"Lock, Stock and Two Smoking Barrels",1998-08-28,Action; Comedy; Crime; ,8.2,R,1h 47min
+Independence Day,1996-07-03,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 25min
+Kick-Ass,2010-04-16,Action; Comedy; Crime; ,7.6,R,1h 57min
+John Wick,2014-10-24,Action; Crime; Thriller; ,7.4,R,1h 41min
+Men in Black,1997-07-02,Action; Adventure; Comedy; ,7.3,PG-13,1h 38min
+The Matrix Reloaded,2003-05-15,Action; Sci-Fi; ,7.2,R,2h 18min
+X2: X-Men United,2003-05-02,Action; Sci-Fi; Thriller; ,7.4,PG-13,2h 14min
+21 Jump Street,2012-03-16,Action; Comedy; Crime; ,7.2,R,1h 49min
+Oldboy,2003-11-21,Action; Drama; Mystery; ,8.4,R,1h 41min
+The Bourne Identity,2002-06-14,Action; Mystery; Thriller; ,7.9,PG-13,1h 59min
+Minority Report,2002-06-21,Action; Crime; Mystery; ,7.6,PG-13,2h 25min
+Harry Potter and the Order of the Phoenix,2007-07-11,Action; Adventure; ,7.5,PG-13,2h 18min
+Spider-Man: Homecoming,2017-07-07,Action; Adventure; Sci-Fi; ,7.4,PG-13,2h 13min
+Rise of the Planet of the Apes,2011-08-05,Action; Drama; Sci-Fi; ,7.6,PG-13,1h 45min
+"I, Robot",2004-07-16,Action; Drama; Sci-Fi; ,7.1,PG-13,1h 55min
+Watchmen,2009-03-06,Action; Drama; Mystery; ,7.6,R,2h 42min
+The Lord of the Rings: The Return of the King,2003-12-17,Adventure; Drama; Fantasy; ,8.9,PG-13,3h 21min
+The Lord of the Rings: The Two Towers,2002-12-18,Adventure; Drama; Fantasy; ,8.7,PG-13,2h 59min
+Interstellar,2014-11-07,Adventure; Drama; Sci-Fi; ,8.6,PG-13,2h 49min
+Inglourious Basterds,2009-08-21,Adventure; Drama; War; ,8.3,R,2h 33min
+Back to the Future,1985-07-03,Adventure; Comedy; Sci-Fi; ,8.5,PG,1h 56min
+WALL·E,2008-06-27,Animation; Adventure; ,8.4,G,1h 38min
+Finding Nemo,2003-05-30,Animation; Adventure; Comedy; ,8.1,G,1h 40min
+The Lion King,1994-06-24,Animation; Adventure; Drama; ,8.5,G,1h 28min
+Up,2009-05-29,Animation; Adventure; Comedy; ,8.2,PG,1h 36min
+Toy Story,1995-11-22,Animation; Adventure; Comedy; ,8.3,G,1h 21min
+"Monsters, Inc.",2001-11-02,Animation; Adventure; Comedy; ,8.0,G,1h 32min
+The Hobbit: An Unexpected Journey,2012-12-14,Adventure; Fantasy; ,7.8,PG-13,2h 49min
+Harry Potter and the Deathly Hallows: Part 2,2011-07-15,Adventure; Drama; Fantasy; ,8.1,PG-13,2h 10min
+Toy Story 3,2010-06-18,Animation; Adventure; Comedy; ,8.3,G,1h 43min
+The Martian,2015-10-02,Adventure; Drama; Sci-Fi; ,8.0,PG-13,2h 24min
+The Grand Budapest Hotel,2014-03-28,Adventure; Comedy; Crime; ,8.1,R,1h 39min
+Ratatouille,2007-06-29,Animation; Adventure; Comedy; ,8.0,G,1h 51min
+Harry Potter and the Sorcerer's Stone,2001-11-16,Adventure; Fantasy; ,7.6,PG,2h 32min
+Spirited Away,2003-03-28,Animation; Adventure; ,8.6,PG,2h 5min
+Shrek,2001-05-18,Animation; Adventure; Comedy; ,7.8,PG,1h 30min
+The Hobbit: The Desolation of Smaug,2013-12-13,Adventure; Fantasy; ,7.8,PG-13,2h 41min
+Inside Out,2015-06-19,Animation; Adventure; Comedy; ,8.1,PG,1h 35min
+2001: A Space Odyssey,1968-05-12,Adventure; Sci-Fi; ,8.3,G,2h 29min
+Life of Pi,2012-11-21,Adventure; Drama; Fantasy; ,7.9,PG,2h 7min
+Prometheus,2012-06-08,Adventure; Mystery; Sci-Fi; ,7.0,R,2h 4min
+Frozen,2013-11-27,Animation; Adventure; Comedy; ,7.4,PG,1h 42min
+Into the Wild,2007-10-19,Adventure; Biography; Drama; ,8.1,R,2h 28min
+Jaws,1975-06-20,Adventure; Thriller; ,8.0,PG,2h 4min
+Harry Potter and the Chamber of Secrets,2002-11-15,Adventure; Fantasy; ,7.4,PG,2h 41min
+Harry Potter and the Prisoner of Azkaban,2004-06-04,Adventure; Fantasy; ,7.9,PG,2h 22min
+Harry Potter and the Goblet of Fire,2005-11-18,Adventure; Fantasy; ,7.7,PG-13,2h 37min
+Toy Story 2,1999-11-24,Animation; Adventure; Comedy; ,7.9,G,1h 32min
+Despicable Me,2010-07-09,Animation; Comedy; ,7.6,PG,1h 35min
+Ice Age,2002-03-15,Animation; Adventure; Comedy; ,7.5,PG,1h 21min
+Zootopia,2016-03-04,Animation; Adventure; Comedy; ,8.0,PG,1h 48min
+Beauty and the Beast,1991-11-22,Animation; Fantasy; ,8.0,G,1h 24min
+Shrek 2,2004-05-19,Animation; Adventure; Comedy; ,7.2,PG,1h 33min
+Kung Fu Panda,2008-06-06,Animation; Action; Adventure; ,7.5,PG,1h 32min
+Big Hero 6,2014-11-07,Animation; Action; Adventure; ,7.8,PG,1h 42min
+Tangled,2010-11-24,Animation; Adventure; Comedy; ,7.7,PG,1h 40min
+Wreck-It Ralph,2012-11-02,Animation; Adventure; Comedy; ,7.7,PG,1h 41min
+Brave,2012-06-22,Animation; Adventure; Comedy; ,7.1,PG,1h 33min
+Despicable Me 2,2013-07-03,Animation; Adventure; Comedy; ,7.3,PG,1h 38min
+Aladdin,1992-11-25,Animation; Adventure; Comedy; ,8.0,G,1h 30min
+Madagascar,2005-05-27,Animation; Adventure; Comedy; ,6.9,PG,1h 26min
+Cars,2006-06-09,Animation; Comedy; ,7.1,G,1h 57min
+Coco,2017-11-22,Animation; Adventure; ,8.4,PG,1h 45min
+Princess Mononoke,1997-12-19,Animation; Adventure; Fantasy; ,8.4,PG-13,2h 14min
+Spider-Man: Into the Spider-Verse,2018-12-14,Animation; Action; Adventure; ,8.4,PG,1h 57min
+The Lego Movie,2014-02-07,Animation; Action; Adventure; ,7.7,PG,1h 40min
+Howl's Moving Castle,2005-06-17,Animation; Adventure; ,8.2,PG,1h 59min
+Monsters University,2013-06-21,Animation; Adventure; Comedy; ,7.3,G,1h 44min
+The Simpsons Movie,2007-07-27,Animation; Adventure; Comedy; ,7.3,PG-13,1h 27min
+How to Train Your Dragon 2,2014-06-13,Animation; Action; Adventure; ,7.8,PG,1h 42min
+The Nightmare Before Christmas,1993-10-29,Animation; Fantasy; ,8.0,PG,1h 16min
+My Neighbor Totoro,1990-07-13,Animation; Fantasy; ,8.2,G,1h 26min
+Shrek the Third,2007-05-18,Animation; Adventure; Comedy; ,6.1,PG,1h 33min
+A Bug's Life,1998-11-25,Animation; Adventure; Comedy; ,7.2,G,1h 35min
+Moana,2016-11-23,Animation; Adventure; Comedy; ,7.6,PG,1h 47min
+Ice Age: The Meltdown,2006-03-31,Animation; Adventure; Comedy; ,6.8,PG,1h 31min
+Kung Fu Panda 2,2011-05-26,Animation; Action; Adventure; ,7.2,PG,1h 30min
+Mulan,1998-06-19,Animation; Adventure; ,7.6,G,1h 28min
+Incredibles 2,2018-06-15,Animation; Action; Adventure; ,7.6,PG,1h 58min
+Corpse Bride,2005-09-23,Animation; Drama; ,7.3,PG,1h 17min
+Finding Dory,2016-06-17,Animation; Adventure; Comedy; ,7.3,PG,1h 37min
+The Little Mermaid,1989-11-17,Animation; Fantasy; ,7.6,G,1h 23min
+Rango,2011-03-04,Animation; Adventure; Comedy; ,7.2,PG,1h 47min
+Grave of the Fireflies,1989-07-26,Animation; Drama; War; ,8.5,Not Rated,1h 29min
+Megamind,2010-11-05,Animation; Action; Comedy; ,7.2,PG,1h 35min
+Ice Age: Dawn of the Dinosaurs,2009-07-01,Animation; Adventure; Comedy; ,6.9,PG,1h 34min
+Hotel Transylvania,2012-09-28,Animation; Comedy; ,7.1,PG,1h 31min
+The Adventures of Tintin,2011-12-21,Animation; Action; Adventure; ,7.3,PG,1h 47min
+Minions,2015-07-10,Animation; Adventure; Comedy; ,6.4,PG,1h 31min
+Rio,2011-04-15,Animation; Adventure; Comedy; ,6.9,G,1h 36min
+Cloudy with a Chance of Meatballs,2009-09-18,Animation; Adventure; Comedy; ,6.9,PG,1h 30min
+Hercules,1997-06-27,Animation; Adventure; Comedy; ,7.3,G,1h 33min
+Madagascar: Escape 2 Africa,2008-11-07,Animation; Adventure; Comedy; ,6.6,PG,1h 29min
+Tarzan,1999-06-18,Animation; Adventure; ,7.3,G,1h 28min
+The Lion King,2019-07-19,Animation; Adventure; Drama; ,6.9,PG,1h 58min
+Fantastic Mr. Fox,2009-11-25,Animation; Adventure; Comedy; ,7.9,PG,1h 27min
+Coraline,2009-02-06,Animation; Drama; ,7.7,PG,1h 40min
+"South Park: Bigger, Longer & Uncut",1999-06-30,Animation; Comedy; Fantasy; ,7.7,R,1h 21min
+Ice Age: Continental Drift,2012-07-13,Animation; Adventure; Comedy; ,6.6,PG,1h 28min
+The Croods,2013-03-22,Animation; Action; Adventure; ,7.2,PG,1h 38min
+Bolt,2008-11-21,Animation; Adventure; Comedy; ,6.8,PG,1h 36min
+Toy Story 4,2019-06-21,Animation; Adventure; Comedy; ,7.8,G,1h 40min
+Shrek Forever After,2010-05-21,Animation; Adventure; Comedy; ,6.3,PG,1h 33min
+The Secret Life of Pets,2016-07-08,Animation; Adventure; Comedy; ,6.5,PG,1h 27min
+Who Framed Roger Rabbit,1988-06-22,Animation; Adventure; Comedy; ,7.7,PG,1h 44min
+Snow White and the Seven Dwarfs,1938-02-04,Animation; Fantasy; ,7.6,Approved,1h 23min
+The Emperor's New Groove,2000-12-15,Animation; Adventure; Comedy; ,7.3,G,1h 18min
+Your Name.,2017-04-07,Animation; Drama; Fantasy; ,8.4,PG,1h 46min
+Enchanted,2007-11-21,Animation; Comedy; ,7.0,PG,1h 47min
+Chicken Run,2000-06-23,Animation; Adventure; Comedy; ,7.0,G,1h 24min
+Sausage Party,2016-08-12,Animation; Adventure; Comedy; ,6.1,R,1h 29min
+The Iron Giant,1999-08-06,Animation; Action; Adventure; ,8.0,PG,1h 26min
+The Polar Express,2004-11-10,Animation; Adventure; Comedy; ,6.6,G,1h 40min
+Happy Feet,2006-11-17,Animation; Adventure; Comedy; ,6.4,PG,1h 48min
+Pocahontas,1995-06-23,Animation; Adventure; Drama; ,6.7,G,1h 21min
+Shark Tale,2004-10-01,Animation; Adventure; Comedy; ,6.0,PG,1h 30min
+Lilo & Stitch,2002-06-21,Animation; Adventure; Comedy; ,7.2,PG,1h 25min
+The Jungle Book,1967-10-18,Animation; Adventure; ,7.6,G,1h 18min
+Mary and Max,2009-04-09,Animation; Comedy; Drama; ,8.1,Not Rated,1h 32min
+Beowulf,2007-11-16,Animation; Action; Adventure; ,6.2,PG-13,1h 55min
+Madagascar 3: Europe's Most Wanted,2012-06-08,Animation; Adventure; Comedy; ,6.8,PG,1h 33min
+Akira,1988-07-16,Animation; Drama; Sci-Fi; ,8.0,R,2h 4min
+Space Jam,1996-11-15,Animation; Adventure; Comedy; ,6.4,PG,1h 28min
+Over the Hedge,2006-05-19,Animation; Adventure; Comedy; ,6.7,PG,1h 23min
+Cars 2,2011-06-24,Animation; Adventure; Comedy; ,6.1,G,1h 46min
+Rise of the Guardians,2012-11-21,Animation; Action; Adventure; ,7.3,PG,1h 37min
+One Hundred and One Dalmatians,1961-01-25,Animation; Adventure; Comedy; ,7.2,G,1h 19min
+Antz,1998-10-02,Animation; Adventure; Comedy; ,6.5,PG,1h 23min
+Castle in the Sky,1986-08-02,Animation; Adventure; Drama; ,8.0,PG,2h 5min
+Monsters vs. Aliens,2009-03-27,Animation; Action; Adventure; ,6.4,PG,1h 34min
+Nausicaä of the Valley of the Wind,1987-11-25,Animation; Adventure; Fantasy; ,8.1,PG,1h 57min
+Cinderella,1950-03-04,Animation; Fantasy; ,7.3,G,1h 14min
+Puss in Boots,2011-10-28,Animation; Adventure; Comedy; ,6.6,PG,1h 30min
+Schindler's List,1994-02-04,Biography; Drama; History; ,8.9,R,3h 15min
+The Wolf of Wall Street,2013-12-25,Biography; Crime; Drama; ,8.2,R,3h
+Goodfellas,1990-09-21,Biography; Crime; Drama; ,8.7,R,2h 26min
+Braveheart,1995-05-24,Biography; Drama; History; ,8.3,R,2h 58min
+A Beautiful Mind,2002-01-04,Biography; Drama; ,8.2,PG-13,2h 15min
+Catch Me If You Can,2002-12-25,Biography; Crime; Drama; ,8.1,PG-13,2h 21min
+The Intouchables,2012-07-13,Biography; Comedy; Drama; ,8.5,R,1h 52min
+The Pianist,2003-03-28,Biography; Drama; Music; ,8.5,R,2h 30min
+The Imitation Game,2014-12-25,Biography; Drama; Thriller; ,8.0,PG-13,1h 54min
+The King's Speech,2010-12-25,Biography; Drama; History; ,8.0,R,1h 58min
+12 Years a Slave,2013-11-08,Biography; Drama; History; ,8.1,R,2h 14min
+The Social Network,2010-10-01,Biography; Drama; ,7.7,PG-13,2h
+Argo,2012-10-12,Biography; Drama; Thriller; ,7.7,R,2h
+The Pursuit of Happyness,2006-12-15,Biography; Drama; ,8.0,PG-13,1h 57min
+Bohemian Rhapsody,2018-11-02,Biography; Drama; Music; ,8.0,PG-13,2h 14min
+Dallas Buyers Club,2013-11-22,Biography; Drama; ,8.0,R,1h 57min
+American Sniper,2015-01-16,Action; Biography; Drama; ,7.3,R,2h 13min
+Rush,2013-09-27,Biography; Drama; Sport; ,8.1,R,2h 3min
+Hacksaw Ridge,2016-11-04,Biography; Drama; History; ,8.1,R,2h 19min
+Captain Phillips,2013-10-11,Biography; Crime; Drama; ,7.8,PG-13,2h 14min
+Spotlight,2015-11-20,Biography; Crime; Drama; ,8.1,R,2h 9min
+The Theory of Everything,2014-11-26,Biography; Drama; Romance; ,7.7,PG-13,2h 3min
+American Gangster,2007-11-02,Biography; Crime; Drama; ,7.8,R,2h 37min
+Amadeus,1984-09-19,Biography; Drama; History; ,8.3,R,2h 40min
+Moneyball,2011-09-23,Biography; Drama; Sport; ,7.6,PG-13,2h 13min
+The Big Short,2015-12-23,Biography; Comedy; Drama; ,7.8,R,2h 10min
+127 Hours,2011-01-28,Biography; Drama; ,7.6,R,1h 34min
+Green Book,2018-11-16,Biography; Comedy; Drama; ,8.2,PG-13,2h 10min
+The Fighter,2010-12-17,Biography; Drama; Sport; ,7.8,R,1h 56min
+Hotel Rwanda,2005-02-04,Biography; Drama; History; ,8.1,PG-13,2h 1min
+The Aviator,2004-12-25,Biography; Drama; ,7.5,PG-13,2h 50min
+Downfall,2005-04-08,Biography; Drama; History; ,8.2,R,2h 36min
+Raging Bull,1980-12-19,Biography; Drama; Sport; ,8.2,R,2h 9min
+The Irishman,2019-11-27,Biography; Crime; Drama; ,7.9,R,3h 29min
+The Blind Side,2009-11-20,Biography; Drama; Sport; ,7.6,PG-13,2h 9min
+Public Enemies,2009-07-01,Biography; Crime; Drama; ,7.0,R,2h 20min
+Donnie Brasco,1997-02-28,Biography; Crime; Drama; ,7.7,R,2h 7min
+Lone Survivor,2014-01-10,Action; Biography; Drama; ,7.5,R,2h 1min
+Lawrence of Arabia,1962-12-11,Adventure; Biography; Drama; ,8.3,Approved,3h 48min
+Lincoln,2012-11-16,Biography; Drama; History; ,7.3,PG-13,2h 30min
+Blow,2001-04-06,Biography; Crime; Drama; ,7.6,R,2h 4min
+Changeling,2008-10-31,Biography; Crime; Drama; ,7.7,R,2h 21min
+Ford v Ferrari,2019-11-15,Action; Biography; Drama; ,8.1,PG-13,2h 32min
+Dog Day Afternoon,1975-12-25,Biography; Crime; Drama; ,8.0,R,2h 5min
+Walk the Line,2005-11-18,Biography; Drama; Music; ,7.8,PG-13,2h 16min
+Sully,2016-09-09,Biography; Drama; ,7.4,PG-13,1h 36min
+The Greatest Showman,2017-12-20,Biography; Drama; ,7.6,PG,1h 45min
+Gandhi,1983-02-25,Biography; Drama; History; ,8.0,PG,3h 11min
+The Elephant Man,1980-10-10,Biography; Drama; ,8.1,PG,2h 4min
+Ip Man,2008-12-12,Action; Biography; Drama; ,8.0,R,1h 46min
+Lion,2017-01-06,Biography; Drama; ,8.0,PG-13,1h 58min
+BlacKkKlansman,2018-08-10,Biography; Crime; Drama; ,7.5,R,2h 15min
+Butch Cassidy and the Sundance Kid,1969-09-24,Biography; Crime; Drama; ,8.0,PG,1h 50min
+The Sound of Music,1965-04-01,Biography; Drama; ,8.0,G,2h 52min
+Finding Neverland,2004-12-17,Biography; Drama; ,7.7,PG,1h 46min
+Remember the Titans,2000-09-29,Biography; Drama; Sport; ,7.8,PG,1h 53min
+Everest,2015-09-25,Action; Adventure; Biography; ,7.1,PG-13,2h 1min
+Hidden Figures,2017-01-06,Biography; Drama; History; ,7.8,PG,2h 7min
+Straight Outta Compton,2015-08-14,Biography; Drama; History; ,7.9,R,2h 27min
+Cinderella Man,2005-06-03,Biography; Drama; History; ,8.0,PG-13,2h 24min
+Jarhead,2005-11-04,Action; Biography; Drama; ,7.0,R,2h 5min
+The Last King of Scotland,2007-01-19,Biography; Drama; History; ,7.7,R,2h 3min
+"I, Tonya",2018-01-19,Biography; Comedy; Drama; ,7.5,R,1h 59min
+War Dogs,2016-08-19,Biography; Comedy; Crime; ,7.1,R,1h 54min
+Erin Brockovich,2000-03-17,Biography; Drama; ,7.3,R,2h 11min
+The Assassination of Jesse James by the Coward Robert Ford,2007-10-19,Biography; Crime; Drama; ,7.5,R,2h 40min
+Black Mass,2015-09-18,Biography; Crime; Drama; ,6.9,R,2h 3min
+Darkest Hour,2017-12-22,Biography; Drama; ,7.4,PG-13,2h 5min
+Ed Wood,1994-10-07,Biography; Comedy; Drama; ,7.8,R,2h 7min
+Milk,2009-01-30,Biography; Drama; ,7.5,R,2h 8min
+The Favourite,2018-12-21,Biography; Comedy; Drama; ,7.5,R,1h 59min
+Alexander,2004-11-24,Action; Biography; Drama; ,5.6,R,2h 55min
+"Girl, Interrupted",2000-01-14,Biography; Drama; ,7.3,R,2h 7min
+The Danish Girl,2016-01-22,Biography; Drama; Romance; ,7.1,R,1h 59min
+The Insider,1999-11-05,Biography; Drama; Thriller; ,7.8,R,2h 37min
+First Man,2018-10-12,Biography; Drama; History; ,7.3,PG-13,2h 21min
+Legend,2015-11-20,Biography; Crime; Drama; ,6.9,R,2h 12min
+American Made,2017-09-29,Action; Biography; Comedy; ,7.2,R,1h 55min
+In the Name of the Father,1994-02-25,Biography; Drama; ,8.1,R,2h 13min
+Steve Jobs,2015-10-23,Biography; Drama; ,7.2,R,2h 2min
+Saving Mr. Banks,2013-12-20,Biography; Comedy; Drama; ,7.5,PG-13,2h 5min
+Invictus,2009-12-11,Biography; Drama; History; ,7.3,PG-13,2h 14min
+Dangal,2016-12-21,Action; Biography; Drama; ,8.4,Not Rated,2h 41min
+Unbroken,2014-12-25,Biography; Drama; Sport; ,7.2,PG-13,2h 17min
+Ray,2004-10-29,Biography; Drama; Music; ,7.7,PG-13,2h 32min
+Monster,2004-01-30,Biography; Crime; Drama; ,7.3,R,1h 49min
+Foxcatcher,2015-01-16,Biography; Drama; Sport; ,7.0,R,2h 14min
+The Disaster Artist,2017-12-08,Biography; Comedy; Drama; ,7.4,R,1h 44min
+Molly's Game,2018-01-05,Biography; Crime; Drama; ,7.4,R,2h 20min
+Snowden,2016-09-16,Biography; Crime; Drama; ,7.3,R,2h 14min
+Joy,2015-12-25,Biography; Drama; ,6.6,PG-13,2h 4min
+Seven Years in Tibet,1997-10-10,Adventure; Biography; Drama; ,7.1,PG-13,2h 16min
+"Good Morning, Vietnam",1988-01-15,Biography; Comedy; Drama; ,7.3,R,2h 1min
+Capote,2006-02-03,Biography; Crime; Drama; ,7.3,R,1h 54min
+Coach Carter,2005-01-14,Biography; Drama; Sport; ,7.3,PG-13,2h 16min
+Tombstone,1993-12-25,Action; Biography; Drama; ,7.8,R,2h 10min
+Man on the Moon,1999-12-22,Biography; Comedy; Drama; ,7.4,R,1h 58min
+Spartacus,1960-11-17,Adventure; Biography; Drama; ,7.9,PG-13,3h 17min
+Rocketman,2019-05-31,Biography; Drama; Music; ,7.3,R,2h 1min
+Guardians of the Galaxy,2014-08-01,Comedy; ,8.0,PG-13,2h 1min
+Back to the Future,1985-07-03,Comedy; ,8.5,PG,1h 56min
+Finding Nemo,2003-05-30,Comedy; ,8.1,G,1h 40min
+Up,2009-05-29,Comedy; ,8.2,PG,1h 36min
+The Truman Show,1998-06-05,Comedy; ,8.1,PG,1h 43min
+Deadpool,2016-02-12,Comedy; ,8.0,R,1h 48min
+Toy Story,1995-11-22,Comedy; ,8.3,G,1h 21min
+"Monsters, Inc.",2001-11-02,Comedy; ,8.0,G,1h 32min
+Snatch,2001-01-19,Comedy; ,8.3,R,1h 42min
+Toy Story 3,2010-06-18,Comedy; ,8.3,G,1h 43min
+The Intouchables,2012-07-13,Comedy; ,8.5,R,1h 52min
+The Big Lebowski,1998-03-06,Comedy; ,8.1,R,1h 57min
+The Hangover,2009-06-05,Comedy; ,7.7,R,1h 40min
+Amélie,2002-02-08,Comedy; Romance; ,8.3,R,2h 2min
+The Grand Budapest Hotel,2014-03-28,Comedy; ,8.1,R,1h 39min
+Silver Linings Playbook,2012-12-25,Comedy; Romance; ,7.7,R,2h 2min
+Ratatouille,2007-06-29,Comedy; ,8.0,G,1h 51min
+Life Is Beautiful,1999-02-12,Comedy; Romance; ,8.6,PG-13,1h 56min
+Shrek,2001-05-18,Comedy; ,7.8,PG,1h 30min
+Inside Out,2015-06-19,Comedy; ,8.1,PG,1h 35min
+Kingsman: The Secret Service,2015-02-13,Comedy; ,7.7,R,2h 9min
+Groundhog Day,1993-02-12,Comedy; Romance; ,8.0,PG,1h 41min
+Birdman or (The Unexpected Virtue of Ignorance),2014-11-14,Comedy; ,7.7,R,1h 59min
+Ted,2012-06-29,Comedy; ,6.9,R,1h 46min
+Thor: Ragnarok,2017-11-03,Comedy; ,7.9,PG-13,2h 10min
+Frozen,2013-11-27,Comedy; ,7.4,PG,1h 42min
+Ant-Man,2015-07-17,Comedy; ,7.3,PG-13,1h 57min
+Guardians of the Galaxy Vol. 2,2017-05-05,Comedy; ,7.6,PG-13,2h 16min
+"Lock, Stock and Two Smoking Barrels",1998-08-28,Comedy; ,8.2,R,1h 47min
+Kick-Ass,2010-04-16,Comedy; ,7.6,R,1h 57min
+Toy Story 2,1999-11-24,Comedy; ,7.9,G,1h 32min
+Superbad,2007-08-17,Comedy; ,7.6,R,1h 53min
+Zombieland,2009-10-02,Comedy; ,7.6,R,1h 28min
+Men in Black,1997-07-02,Comedy; ,7.3,PG-13,1h 38min
+21 Jump Street,2012-03-16,Comedy; ,7.2,R,1h 49min
+Shaun of the Dead,2004-09-24,Comedy; ,7.9,R,1h 39min
+Despicable Me,2010-07-09,Comedy; ,7.6,PG,1h 35min
+Monty Python and the Holy Grail,1979-12-06,Comedy; ,8.2,PG,1h 31min
+Once Upon a Time... in Hollywood,2019-07-26,Comedy; ,7.7,R,2h 41min
+La La Land,2016-12-25,Comedy; ,8.0,PG-13,2h 8min
+Juno,2007-12-25,Comedy; ,7.4,PG-13,1h 36min
+American Psycho,2000-04-14,Comedy; ,7.6,R,1h 41min
+Back to the Future Part II,1989-11-22,Comedy; ,7.8,PG,1h 48min
+500 Days of Summer,2009-08-07,Comedy; Romance; ,7.7,PG-13,1h 35min
+"Crazy, Stupid, Love",2011-07-29,Comedy; Romance; ,7.4,PG-13,1h 58min
+Deadpool 2,2018-05-18,Comedy; ,7.7,R,1h 59min
+The Hangover Part II,2011-05-26,Comedy; ,6.4,R,1h 42min
+Hot Fuzz,2007-04-20,Comedy; ,7.8,R,2h 1min
+Home Alone,1990-11-16,Comedy; ,7.6,PG,1h 43min
+Parasite,2019-11-08,Comedy; ,8.6,R,2h 12min
+Mr. & Mrs. Smith,2005-06-10,Comedy; ,6.5,PG-13,2h
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-01-29,Comedy; ,8.4,PG,1h 35min
+Little Miss Sunshine,2006-08-18,Comedy; ,7.8,R,1h 41min
+Ice Age,2002-03-15,Comedy; ,7.5,PG,1h 21min
+Zootopia,2016-03-04,Comedy; ,8.0,PG,1h 48min
+Horrible Bosses,2011-07-08,Comedy; ,6.9,R,1h 38min
+Love Actually,2003-11-14,Comedy; Romance; ,7.6,R,2h 15min
+Charlie and the Chocolate Factory,2005-07-15,Comedy; ,6.6,PG,1h 55min
+Shrek 2,2004-05-19,Comedy; ,7.2,PG,1h 33min
+Dead Poets Society,1989-06-09,Comedy; ,8.1,PG,2h 8min
+"Three Billboards Outside Ebbing, Missouri",2017-12-01,Comedy; ,8.2,R,1h 55min
+Lost in Translation,2003-10-03,Comedy; ,7.7,R,1h 42min
+Tangled,2010-11-24,Comedy; ,7.7,PG,1h 40min
+The Terminal,2004-06-18,Comedy; Romance; ,7.4,PG-13,2h 8min
+We're the Millers,2013-08-07,Comedy; ,7.0,R,1h 50min
+Back to the Future Part III,1990-05-25,Comedy; ,7.4,PG,1h 58min
+The 40-Year-Old Virgin,2005-08-19,Comedy; Romance; ,7.1,R,1h 56min
+In Bruges,2008-02-29,Comedy; ,7.9,R,1h 47min
+Midnight in Paris,2011-06-10,Comedy; Romance; ,7.7,PG-13,1h 34min
+This Is the End,2013-06-12,Comedy; ,6.6,R,1h 47min
+Tropic Thunder,2008-08-13,Comedy; ,7.0,R,1h 47min
+Wreck-It Ralph,2012-11-02,Comedy; ,7.7,PG,1h 41min
+American Pie,1999-07-09,Comedy; ,7.0,R,1h 35min
+Scott Pilgrim vs. the World,2010-08-13,Comedy; ,7.5,PG-13,1h 52min
+Bruce Almighty,2003-05-23,Comedy; ,6.8,PG-13,1h 41min
+Brave,2012-06-22,Comedy; ,7.1,PG,1h 33min
+Despicable Me 2,2013-07-03,Comedy; ,7.3,PG,1h 38min
+Aladdin,1992-11-25,Comedy; ,8.0,G,1h 30min
+The Devil Wears Prada,2006-06-30,Comedy; ,6.9,PG-13,1h 49min
+Monty Python's Life of Brian,1979-08-17,Comedy; ,8.1,R,1h 34min
+Madagascar,2005-05-27,Comedy; ,6.9,PG,1h 26min
+Cars,2006-06-09,Comedy; ,7.1,G,1h 57min
+Easy A,2010-09-17,Comedy; Romance; ,7.0,PG-13,1h 32min
+Dumb and Dumber,1994-12-16,Comedy; ,7.3,PG-13,1h 47min
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-03,Comedy; ,7.3,R,1h 24min
+Ghostbusters,1984-06-08,Comedy; ,7.8,PG,1h 45min
+The Big Short,2015-12-23,Comedy; ,7.8,R,2h 10min
+The Breakfast Club,1985-02-15,Comedy; ,7.9,R,1h 37min
+Knocked Up,2007-06-01,Comedy; Romance; ,6.9,R,2h 9min
+Knives Out,2019-11-27,Comedy; ,7.9,PG-13,2h 10min
+22 Jump Street,2014-06-13,Comedy; ,7.0,R,1h 52min
+The Mask,1994-07-29,Comedy; ,6.9,PG-13,1h 41min
+Men in Black II,2002-07-03,Comedy; ,6.2,PG-13,1h 28min
+Green Book,2018-11-16,Comedy; ,8.2,PG-13,2h 10min
+Friends with Benefits,2011-07-22,Comedy; Romance; ,6.5,R,1h 49min
+3 Idiots,2009-12-25,Comedy; ,8.4,PG-13,2h 50min
+Yes Man,2008-12-19,Comedy; Romance; ,6.8,PG-13,1h 44min
+Men in Black 3,2012-05-25,Comedy; ,6.8,PG-13,1h 46min
+Wedding Crashers,2005-07-15,Comedy; Romance; ,6.9,R,1h 59min
+Anchorman: The Legend of Ron Burgundy,2004-07-09,Comedy; ,7.2,PG-13,1h 34min
+Pulp Fiction,1994-10-14,Crime; Drama; ,8.9,R,2h 34min
+The Godfather,1972-03-24,Crime; Drama; ,9.2,R,2h 55min
+Se7en,1995-09-22,Crime; Drama; Mystery; ,8.6,R,2h 7min
+The Silence of the Lambs,1991-02-14,Crime; Drama; Thriller; ,8.6,R,1h 58min
+The Departed,2006-10-06,Crime; Drama; Thriller; ,8.5,R,2h 31min
+The Green Mile,1999-12-10,Crime; Drama; Fantasy; ,8.6,R,3h 9min
+The Godfather: Part II,1974-12-18,Crime; Drama; ,9.0,R,3h 22min
+The Usual Suspects,1995-08-16,Crime; Mystery; Thriller; ,8.5,R,1h 46min
+Reservoir Dogs,1992-09-02,Crime; Drama; Thriller; ,8.3,R,1h 39min
+No Country for Old Men,2007-11-21,Crime; Drama; Thriller; ,8.1,R,2h 2min
+Joker,2019-10-04,Crime; Drama; Thriller; ,8.5,R,2h 2min
+Snatch,2001-01-19,Comedy; Crime; ,8.3,R,1h 42min
+A Clockwork Orange,1972-02-02,Crime; Drama; Sci-Fi; ,8.3,R,2h 16min
+Sin City,2005-04-01,Crime; Thriller; ,8.0,R,2h 4min
+Scarface,1983-12-09,Crime; Drama; ,8.3,R,2h 50min
+The Big Lebowski,1998-03-06,Comedy; Crime; Sport; ,8.1,R,1h 57min
+Taxi Driver,1976-02-09,Crime; Drama; ,8.3,R,1h 54min
+City of God,2004-02-13,Crime; Drama; ,8.6,R,2h 10min
+12 Angry Men,1957-04-10,Crime; Drama; ,8.9,Approved,1h 36min
+Fargo,1996-04-05,Crime; Drama; Thriller; ,8.1,R,1h 38min
+Now You See Me,2013-05-31,Crime; Mystery; Thriller; ,7.3,PG-13,1h 55min
+Prisoners,2013-09-20,Crime; Drama; Mystery; ,8.1,R,2h 33min
+Heat,1995-12-15,Crime; Drama; Thriller; ,8.2,R,2h 50min
+Drive,2011-09-16,Crime; Drama; ,7.8,R,1h 40min
+L.A. Confidential,1997-09-19,Crime; Drama; Mystery; ,8.2,R,2h 18min
+Ocean's Eleven,2001-12-07,Crime; Thriller; ,7.7,PG-13,1h 56min
+The Hateful Eight,2015-12-30,Crime; Drama; Mystery; ,7.8,R,2h 48min
+American Psycho,2000-04-14,Comedy; Crime; Drama; ,7.6,R,1h 41min
+Casino,1995-11-22,Crime; Drama; ,8.2,R,2h 58min
+Nightcrawler,2014-10-31,Crime; Drama; Thriller; ,7.9,R,1h 57min
+Mr. & Mrs. Smith,2005-06-10,Action; Comedy; Crime; ,6.5,PG-13,2h
+American Hustle,2013-12-20,Crime; Drama; ,7.2,R,2h 18min
+Zodiac,2007-03-02,Crime; Drama; Mystery; ,7.7,R,2h 37min
+Baby Driver,2017-06-28,Action; Crime; Drama; ,7.6,R,1h 53min
+Horrible Bosses,2011-07-08,Comedy; Crime; ,6.9,R,1h 38min
+Crash,2005-05-06,Crime; Drama; Thriller; ,7.7,R,1h 52min
+Mystic River,2003-10-15,Crime; Drama; Mystery; ,7.9,R,2h 18min
+The Girl with the Dragon Tattoo,2011-12-21,Crime; Drama; Mystery; ,7.8,R,2h 38min
+"Three Billboards Outside Ebbing, Missouri",2017-12-01,Comedy; Crime; Drama; ,8.2,R,1h 55min
+Gangs of New York,2002-12-20,Crime; Drama; ,7.5,R,2h 47min
+We're the Millers,2013-08-07,Comedy; Crime; ,7.0,R,1h 50min
+In Bruges,2008-02-29,Comedy; Crime; Drama; ,7.9,R,1h 47min
+Training Day,2001-10-05,Crime; Drama; Thriller; ,7.7,R,2h 2min
+Sicario,2015-10-02,Action; Crime; Drama; ,7.6,R,2h 1min
+Wanted,2008-06-27,Action; Crime; Fantasy; ,6.7,R,1h 50min
+Collateral,2004-08-06,Crime; Drama; Thriller; ,7.5,R,2h
+Ocean's Twelve,2004-12-10,Crime; Thriller; ,6.5,PG-13,2h 5min
+The Godfather: Part III,1990-12-25,Crime; Drama; ,7.6,R,2h 42min
+John Wick: Chapter 2,2017-02-10,Action; Crime; Thriller; ,7.5,R,2h 2min
+Fast Five,2011-04-29,Action; Adventure; Crime; ,7.3,PG-13,2h 10min
+Face_Off,1997-06-27,Action; Crime; Sci-Fi; ,7.3,R,2h 18min
+Knives Out,2019-11-27,Comedy; Crime; Drama; ,7.9,PG-13,2h 10min
+The Town,2010-09-17,Crime; Drama; Thriller; ,7.5,R,2h 5min
+The Fast and the Furious,2001-06-22,Action; Crime; Thriller; ,6.8,PG-13,1h 46min
+22 Jump Street,2014-06-13,Action; Comedy; Crime; ,7.0,R,1h 52min
+The Italian Job,2003-05-30,Action; Crime; Thriller; ,7.0,PG-13,1h 51min
+The Mask,1994-07-29,Action; Comedy; Crime; ,6.9,PG-13,1h 41min
+Inside Man,2006-03-24,Crime; Drama; Mystery; ,7.6,R,2h 9min
+The Equalizer,2014-09-26,Action; Crime; Thriller; ,7.2,R,2h 12min
+Man on Fire,2004-04-23,Action; Crime; Drama; ,7.7,R,2h 26min
+Ocean's Thirteen,2007-06-08,Action; Crime; Thriller; ,6.9,PG-13,2h 2min
+Pineapple Express,2008-08-06,Action; Comedy; Crime; ,6.9,R,1h 51min
+Jackie Brown,1997-12-25,Crime; Drama; Thriller; ,7.5,R,2h 34min
+Burn After Reading,2008-09-12,Comedy; Crime; Drama; ,7.0,R,1h 36min
+Once Upon a Time in America,1984-06-01,Crime; Drama; ,8.4,R,3h 49min
+Lucky Number Slevin,2006-04-07,Crime; Drama; Mystery; ,7.7,R,1h 50min
+Home Alone 2: Lost in New York,1992-11-20,Adventure; Comedy; Crime; ,6.8,PG,2h
+Lord of War,2005-09-16,Action; Crime; Drama; ,7.6,R,2h 2min
+Deja Vu,2006-11-22,Action; Crime; Sci-Fi; ,7.0,PG-13,2h 6min
+To Kill a Mockingbird,1963-03-16,Crime; Drama; ,8.2,Approved,2h 9min
+The Hangover Part III,2013-05-23,Comedy; Crime; ,5.8,R,1h 40min
+RED,2010-10-15,Action; Comedy; Crime; ,7.0,PG-13,1h 51min
+3:10 to Yuma,2007-09-07,Action; Crime; Drama; ,7.7,R,2h 2min
+The Transporter,2002-10-11,Action; Crime; Thriller; ,6.8,PG-13,1h 32min
+From Dusk Till Dawn,1996-01-19,Action; Crime; Horror; ,7.2,R,1h 48min
+"O Brother, Where Art Thou?",2001-02-02,Adventure; Comedy; Crime; ,7.7,PG-13,1h 47min
+The Untouchables,1987-06-03,Crime; Drama; Thriller; ,7.9,R,1h 59min
+Con Air,1997-06-06,Action; Crime; Thriller; ,6.9,R,1h 55min
+Batman Returns,1992-06-19,Action; Crime; Fantasy; ,7.0,PG-13,2h 6min
+The Nice Guys,2016-05-20,Action; Comedy; Crime; ,7.4,R,1h 56min
+Law Abiding Citizen,2009-10-16,Action; Crime; Drama; ,7.4,R,1h 49min
+The Shawshank Redemption,1994-10-14,Drama; ,9.3,R,2h 22min
+Fight Club,1999-10-15,Drama; ,8.8,R,2h 19min
+Forrest Gump,1994-07-06,Drama; Romance; ,8.8,PG-13,2h 22min
+Django Unchained,2012-12-25,Drama; Western; ,8.4,R,2h 45min
+Saving Private Ryan,1998-07-24,Drama; War; ,8.6,R,2h 49min
+The Prestige,2006-10-20,Drama; Mystery; Sci-Fi; ,8.5,PG-13,2h 10min
+American Beauty,1999-10-01,Drama; ,8.3,R,2h 2min
+Titanic,1997-12-19,Drama; Romance; ,7.8,PG-13,3h 14min
+American History X,1998-11-20,Drama; ,8.5,R,1h 59min
+The Truman Show,1998-06-05,Comedy; Drama; Sci-Fi; ,8.1,PG,1h 43min
+The Sixth Sense,1999-08-06,Drama; Mystery; Thriller; ,8.1,PG-13,1h 47min
+One Flew Over the Cuckoo's Nest,1975-11-19,Drama; ,8.7,R,2h 13min
+Eternal Sunshine of the Spotless Mind,2004-03-19,Drama; Romance; Sci-Fi; ,8.3,R,1h 48min
+The Shining,1980-06-13,Drama; Horror; ,8.4,R,2h 26min
+Good Will Hunting,1998-01-09,Drama; Romance; ,8.3,R,2h 6min
+Gone Girl,2014-10-03,Drama; Mystery; Thriller; ,8.1,R,2h 29min
+Slumdog Millionaire,2008-12-25,Drama; Romance; ,8.0,R,2h
+Gravity,2013-10-04,Drama; Sci-Fi; Thriller; ,7.7,PG-13,1h 31min
+Requiem for a Dream,2000-12-15,Drama; ,8.3,R,1h 42min
+Donnie Darko,2002-01-30,Drama; Mystery; Sci-Fi; ,8.0,R,1h 53min
+Gran Torino,2009-01-09,Drama; ,8.1,R,1h 56min
+Whiplash,2015-02-20,Drama; Music; ,8.5,R,1h 46min
+Black Swan,2010-12-17,Drama; Thriller; ,8.0,R,1h 48min
+Full Metal Jacket,1987-07-10,Drama; War; ,8.3,R,1h 56min
+Silver Linings Playbook,2012-12-25,Comedy; Drama; Romance; ,7.7,R,2h 2min
+Trainspotting,1996-08-09,Drama; ,8.1,R,1h 33min
+Million Dollar Baby,2005-01-28,Drama; Sport; ,8.1,PG-13,2h 12min
+Pan's Labyrinth,2007-01-19,Drama; Fantasy; War; ,8.2,R,1h 58min
+Life Is Beautiful,1999-02-12,Comedy; Drama; Romance; ,8.6,PG-13,1h 56min
+Apocalypse Now,1979-08-15,Drama; Mystery; War; ,8.4,R,2h 27min
+The Curious Case of Benjamin Button,2008-12-25,Drama; Fantasy; Romance; ,7.8,PG-13,2h 46min
+Arrival,2016-11-11,Drama; Mystery; Sci-Fi; ,7.9,PG-13,1h 56min
+Birdman or (The Unexpected Virtue of Ignorance),2014-11-14,Comedy; Drama; ,7.7,R,1h 59min
+Her,2014-01-10,Drama; Romance; Sci-Fi; ,8.0,R,2h 6min
+Cast Away,2000-12-22,Adventure; Drama; Romance; ,7.8,PG-13,2h 23min
+Casablanca,1943-01-23,Drama; Romance; War; ,8.5,PG,1h 42min
+The Notebook,2004-06-25,Drama; Romance; ,7.8,PG-13,2h 3min
+Rocky,1976-12-03,Drama; Sport; ,8.1,PG,2h
+There Will Be Blood,2008-01-25,Drama; ,8.2,R,2h 38min
+Once Upon a Time... in Hollywood,2019-07-26,Comedy; Drama; ,7.7,R,2h 41min
+Blood Diamond,2006-12-08,Adventure; Drama; Thriller; ,8.0,R,2h 23min
+Groundhog Day,1993-02-12,Comedy; Fantasy; Romance; ,8.0,PG,1h 41min
+Zombieland,2009-10-02,Adventure; Comedy; Fantasy; ,7.6,R,1h 28min
+Monty Python and the Holy Grail,1979-12-06,Adventure; Comedy; Fantasy; ,8.2,PG,1h 31min
+Pirates of the Caribbean: On Stranger Tides,2011-05-20,Action; Adventure; Fantasy; ,6.6,PG-13,2h 16min
+The Hobbit: The Battle of the Five Armies,2014-12-17,Adventure; Fantasy; ,7.4,PG-13,2h 24min
+Harry Potter and the Deathly Hallows: Part 1,2010-11-19,Adventure; Fantasy; ,7.7,PG-13,2h 26min
+Edward Scissorhands,1990-12-14,Drama; Fantasy; Romance; ,7.9,PG-13,1h 45min
+Hancock,2008-07-02,Action; Fantasy; ,6.4,PG-13,1h 32min
+Twilight,2008-11-21,Drama; Fantasy; Romance; ,5.2,PG-13,2h 2min
+Big Fish,2004-01-09,Adventure; Drama; Fantasy; ,8.0,PG-13,2h 5min
+Fantastic Beasts and Where to Find Them,2016-11-18,Adventure; Fantasy; ,7.3,PG-13,2h 12min
+It's a Wonderful Life,1947-01-07,Drama; Fantasy; ,8.6,Passed,2h 10min
+The Mummy,1999-05-07,Action; Adventure; Fantasy; ,7.0,PG-13,2h 4min
+The Princess Bride,1987-10-09,Adventure; Fantasy; ,8.1,PG,1h 38min
+Midnight in Paris,2011-06-10,Comedy; Fantasy; Romance; ,7.7,PG-13,1h 34min
+Alice in Wonderland,2010-03-05,Adventure; Fantasy; ,6.4,PG,1h 48min
+Justice League,2017-11-17,Action; Adventure; Fantasy; ,6.4,PG-13,2h
+The Wizard of Oz,1939-08-25,Adventure; Fantasy; ,8.0,PG,1h 42min
+Scott Pilgrim vs. the World,2010-08-13,Action; Comedy; Fantasy; ,7.5,PG-13,1h 52min
+Bruce Almighty,2003-05-23,Comedy; Drama; Fantasy; ,6.8,PG-13,1h 41min
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-09,Adventure; Fantasy; ,6.9,PG,2h 23min
+The Shape of Water,2017-12-22,Adventure; Drama; Fantasy; ,7.3,R,2h 3min
+The Illusionist,2006-09-01,Drama; Fantasy; History; ,7.6,PG-13,1h 50min
+Ghostbusters,1984-06-08,Action; Comedy; Fantasy; ,7.8,PG,1h 45min
+Aquaman,2018-12-21,Action; Adventure; Fantasy; ,7.0,PG-13,2h 23min
+Star Wars: Episode IX - The Rise of Skywalker,2019-12-20,Action; Adventure; Fantasy; ,6.7,PG-13,2h 22min
+Sleepy Hollow,1999-11-19,Fantasy; Horror; Mystery; ,7.3,R,1h 45min
+Fantastic Four,2005-07-08,Action; Adventure; Fantasy; ,5.7,PG-13,1h 46min
+Being John Malkovich,1999-12-03,Comedy; Drama; Fantasy; ,7.7,R,1h 53min
+Hellboy,2004-04-02,Action; Fantasy; Horror; ,6.8,PG-13,2h 2min
+Click,2006-06-23,Comedy; Drama; Fantasy; ,6.4,PG-13,1h 47min
+Hugo,2011-11-23,Drama; Fantasy; ,7.5,PG,2h 6min
+Constantine,2005-02-18,Action; Fantasy; Horror; ,7.0,R,2h 1min
+The Mummy Returns,2001-05-04,Action; Adventure; Fantasy; ,6.3,PG-13,2h 10min
+About Time,2013-11-08,Comedy; Drama; Fantasy; ,7.8,R,2h 3min
+The Secret Life of Walter Mitty,2013-12-25,Comedy; Drama; Fantasy; ,7.3,PG,1h 54min
+Liar Liar,1997-03-21,Comedy; Fantasy; ,6.9,PG-13,1h 26min
+Prince of Persia: The Sands of Time,2010-05-28,Action; Adventure; Fantasy; ,6.6,PG-13,1h 56min
+Clash of the Titans,2010-04-02,Action; Adventure; Fantasy; ,5.8,PG-13,1h 46min
+Beauty and the Beast,2017-03-17,Fantasy; ,7.1,PG,2h 9min
+Kong: Skull Island,2017-03-10,Action; Adventure; Fantasy; ,6.6,PG-13,1h 58min
+The Twilight Saga: New Moon,2009-11-20,Adventure; Drama; Fantasy; ,4.7,PG-13,2h 10min
+Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-26,Action; Adventure; Fantasy; ,6.6,PG-13,2h 9min
+Hellboy II: The Golden Army,2008-07-11,Action; Adventure; Fantasy; ,7.0,PG-13,2h
+1408,2007-06-22,Fantasy; Horror; Mystery; ,6.8,PG-13,1h 44min
+Beetlejuice,1988-03-30,Comedy; Fantasy; ,7.5,PG,1h 32min
+"Crouching Tiger, Hidden Dragon",2001-01-12,Action; Adventure; Fantasy; ,7.8,PG-13,2h
+Stardust,2007-08-10,Adventure; Fantasy; ,7.6,PG-13,2h 7min
+Underworld,2003-09-19,Action; Fantasy; Thriller; ,7.0,R,2h 1min
+Fantastic 4: Rise of the Silver Surfer,2007-06-15,Action; Adventure; Fantasy; ,5.6,PG,1h 32min
+Vanilla Sky,2001-12-14,Fantasy; Mystery; Romance; ,6.9,R,2h 16min
+Dark Shadows,2012-05-11,Comedy; Fantasy; Horror; ,6.2,PG-13,1h 53min
+Van Helsing,2004-05-07,Action; Adventure; Fantasy; ,6.1,PG-13,2h 11min
+Warcraft,2016-06-10,Action; Adventure; Fantasy; ,6.8,PG-13,2h 3min
+Sucker Punch,2011-03-25,Action; Adventure; Fantasy; ,6.0,PG-13,1h 50min
+The Twilight Saga: Breaking Dawn - Part 2,2012-11-16,Adventure; Drama; Fantasy; ,5.5,PG-13,1h 55min
+The Twilight Saga: Eclipse,2010-06-30,Adventure; Drama; Fantasy; ,5.0,PG-13,2h 4min
+Ender's Game,2013-11-01,Action; Adventure; Fantasy; ,6.6,PG-13,1h 54min
+Ghost Rider,2007-02-16,Action; Fantasy; Thriller; ,5.2,PG-13,1h 50min
+The Twilight Saga: Breaking Dawn - Part 1,2011-11-18,Adventure; Drama; Fantasy; ,4.9,PG-13,1h 57min
+Stranger Than Fiction,2006-11-10,Comedy; Drama; Fantasy; ,7.5,PG-13,1h 53min
+Elf,2003-11-07,Comedy; Fantasy; ,6.9,PG,1h 37min
+Aladdin,2019-05-24,Adventure; Fantasy; ,7.0,PG,2h 8min
+Mr. Nobody,2013-09-26,Drama; Fantasy; Romance; ,7.8,R,2h 21min
+Troy,2004-05-14,Drama; History; ,7.2,R,2h 43min
+Black Hawk Down,2002-01-18,Drama; History; War; ,7.7,R,2h 24min
+Pearl Harbor,2001-05-25,Action; Drama; History; ,6.2,PG-13,3h 3min
+Les Misérables,2012-12-25,Drama; History; ,7.6,PG-13,2h 38min
+Gone with the Wind,1940-01-17,Drama; History; Romance; ,8.1,Passed,3h 58min
+Bridge of Spies,2015-10-16,Drama; History; Thriller; ,7.6,PG-13,2h 22min
+Zero Dark Thirty,2013-01-11,Drama; History; Thriller; ,7.4,R,2h 37min
+Apollo 13,1995-06-30,Adventure; Drama; History; ,7.6,PG,2h 20min
+The Patriot,2000-06-28,Action; Drama; History; ,7.2,R,2h 45min
+Enemy at the Gates,2001-03-16,Drama; History; War; ,7.6,R,2h 11min
+21,2008-03-28,Crime; Drama; History; ,6.8,PG-13,2h 3min
+Valkyrie,2008-12-25,Drama; History; Thriller; ,7.1,PG-13,2h 1min
+The Great Escape,1963-07-04,Adventure; Drama; History; ,8.2,Not Rated,2h 52min
+Ben-Hur,1960-01-29,Adventure; Drama; History; ,8.1,G,3h 32min
+Shakespeare in Love,1999-01-08,Comedy; Drama; History; ,7.1,R,2h 3min
+Munich,2006-01-06,Action; Drama; History; ,7.5,R,2h 44min
+The Impossible,2013-01-04,Drama; History; Thriller; ,7.6,PG-13,1h 54min
+Hero,2004-08-27,Action; Adventure; History; ,7.9,PG-13,2h
+Deepwater Horizon,2016-09-30,Action; Drama; History; ,7.1,PG-13,1h 47min
+Barry Lyndon,1975-12-18,Adventure; Drama; History; ,8.1,PG,3h 5min
+JFK,1991-12-20,Drama; History; Thriller; ,8.0,R,3h 9min
+Cold Mountain,2003-12-25,Adventure; Drama; History; ,7.2,R,2h 34min
+Defiance,2009-01-16,Action; Drama; History; ,7.2,R,2h 17min
+We Were Soldiers,2002-03-01,Action; Drama; History; ,7.2,R,2h 18min
+The Monuments Men,2014-02-07,Comedy; Drama; History; ,6.1,PG-13,1h 58min
+Glory,1990-02-16,Biography; Drama; History; ,7.8,R,2h 2min
+The 13th Warrior,1999-08-27,Action; Adventure; History; ,6.6,R,1h 42min
+Empire of the Sun,1987-12-25,Action; Drama; History; ,7.7,PG,2h 33min
+Rang De Basanti,2006-01-26,Comedy; Drama; History; ,8.2,Not Rated,2h 47min
+The Way Back,2011-01-21,Adventure; Drama; History; ,7.3,PG-13,2h 13min
+Across the Universe,2007-10-12,Drama; Fantasy; History; ,7.3,PG-13,2h 13min
+The Queen,2006-11-17,Biography; Drama; History; ,7.3,PG-13,1h 43min
+The Other Boleyn Girl,2008-02-29,Biography; Drama; History; ,6.7,PG-13,1h 55min
+Frost_Nixon,2009-01-23,Biography; Drama; History; ,7.7,R,2h 2min
+All the President's Men,1976-04-09,Biography; Drama; History; ,8.0,PG,2h 18min
+Marie Antoinette,2006-10-20,Biography; Drama; History; ,6.4,PG-13,2h 3min
+The Good Shepherd,2006-12-22,Drama; History; Thriller; ,6.7,R,2h 47min
+United 93,2006-04-28,Drama; History; Sci-Fi; ,7.5,R,1h 51min
+Silence,2017-01-13,Drama; History; ,7.2,R,2h 41min
+"Good Night, and Good Luck.",2005-11-04,Biography; Drama; History; ,7.4,PG,1h 33min
+The Last Emperor,1988-04-15,Biography; Drama; History; ,7.7,PG-13,2h 43min
+Elizabeth,1999-02-19,Biography; Drama; History; ,7.4,R,2h 4min
+Mississippi Burning,1989-01-27,Crime; Drama; History; ,7.8,R,2h 8min
+The Grapes of Wrath,1940-03-15,Drama; History; ,8.0,Passed,2h 9min
+Selma,2015-01-09,Biography; Drama; History; ,7.5,PG-13,2h 8min
+Malcolm X,1992-11-18,Biography; Drama; History; ,7.7,PG-13,3h 22min
+The New World,2006-01-20,Biography; Drama; History; ,6.7,PG-13,2h 15min
+The Death of Stalin,2018-03-09,Comedy; Drama; History; ,7.2,R,1h 47min
+Centurion,2010-07-30,Action; Drama; History; ,6.4,R,1h 37min
+The Duchess,2008-10-10,Biography; Drama; History; ,6.9,PG-13,1h 50min
+World Trade Center,2006-08-09,Drama; Fantasy; History; ,5.9,PG-13,2h 9min
+The King,2019-11-01,Biography; Drama; History; ,7.2,R,2h 20min
+The Lost City of Z,2017-04-21,Biography; Drama; History; ,6.6,PG-13,2h 21min
+Jackie,2016-12-02,Biography; Drama; History; ,6.7,R,1h 40min
+The Water Diviner,2015-04-17,Drama; History; War; ,7.0,R,1h 51min
+Amistad,1997-12-25,Biography; Drama; History; ,7.3,R,2h 35min
+The White Ribbon,2010-03-05,Drama; History; Mystery; ,7.8,R,2h 24min
+Elizabeth: The Golden Age,2007-10-12,Biography; Drama; History; ,6.8,PG-13,1h 54min
+Seabiscuit,2003-07-25,Drama; History; Sport; ,7.3,PG-13,2h 20min
+Child 44,2016-05-09,Crime; Drama; History; ,6.5,R,2h 17min
+12 Strong,2018-01-19,Action; Drama; History; ,6.6,R,2h 10min
+Quiz Show,1994-10-07,Biography; Drama; History; ,7.5,PG-13,2h 13min
+The Finest Hours,2016-01-29,Action; Drama; History; ,6.8,PG-13,1h 57min
+K-19: The Widowmaker,2002-07-19,Drama; History; Thriller; ,6.7,PG-13,2h 18min
+The Young Victoria,2010-01-08,Biography; Drama; History; ,7.3,PG,1h 45min
+Conquest 1453,2012-04-25,Action; Drama; History; ,6.7,Not Rated,2h 42min
+The Mission,1986-10-31,Adventure; Drama; History; ,7.4,PG,2h 5min
+Thirteen Days,2001-01-12,Drama; History; Thriller; ,7.3,PG-13,2h 25min
+Woman in Gold,2015-04-10,Biography; Drama; History; ,7.3,PG-13,1h 49min
+Macbeth,2015-12-11,Drama; History; War; ,6.6,R,1h 53min
+Battleship Potemkin,1925-12-24,Drama; History; Thriller; ,8.0,Not Rated,1h 6min
+Airlift,2016-01-22,Drama; History; ,8.0,Not Rated,2h 10min
+The Longest Day,1962-10-04,Action; Drama; History; ,7.8,G,2h 58min
+Midway,2019-11-08,Action; Drama; History; ,6.7,PG-13,2h 18min
+A Bridge Too Far,1977-06-15,Drama; History; War; ,7.4,PG,2h 55min
+The Killing Fields,1985-02-01,Biography; Drama; History; ,7.8,R,2h 21min
+The Flowers of War,2011-12-16,Drama; History; Romance; ,7.6,R,2h 26min
+Hotel Mumbai,2019-03-29,Action; Drama; History; ,7.6,R,2h 3min
+Miracle,2004-02-06,Biography; Drama; History; ,7.5,PG,2h 15min
+Detroit,2017-08-04,Crime; Drama; History; ,7.3,R,2h 23min
+The Passion of Joan of Arc,1928-10-25,Biography; Drama; History; ,8.1,Passed,1h 54min
+Cold War,2018-06-08,Drama; History; Music; ,7.6,R,1h 29min
+Alien,1979-06-22,Horror; Sci-Fi; ,8.4,R,1h 57min
+Psycho,1960-09-08,Horror; Mystery; Thriller; ,8.5,R,1h 49min
+Shaun of the Dead,2004-09-24,Comedy; Horror; ,7.9,R,1h 39min
+Get Out,2017-02-24,Horror; Mystery; Thriller; ,7.7,R,1h 44min
+It,2017-09-08,Horror; ,7.3,R,2h 15min
+The Conjuring,2013-07-19,Horror; Mystery; Thriller; ,7.5,R,1h 52min
+Split,2017-01-20,Horror; Thriller; ,7.3,PG-13,1h 57min
+A Quiet Place,2018-04-06,Drama; Horror; Sci-Fi; ,7.5,PG-13,1h 30min
+Saw,2004-10-29,Horror; Mystery; ,7.6,R,1h 43min
+28 Days Later...,2003-06-27,Drama; Horror; Sci-Fi; ,7.6,R,1h 53min
+Cloverfield,2008-01-18,Action; Adventure; Horror; ,7.0,PG-13,1h 25min
+The Cabin in the Woods,2012-04-13,Horror; ,7.0,R,1h 35min
+The Thing,1982-06-25,Horror; Mystery; Sci-Fi; ,8.1,R,1h 49min
+The Exorcist,1973-12-26,Horror; ,8.0,R,2h 2min
+Sweeney Todd: The Demon Barber of Fleet Street,2007-12-21,Drama; Horror; ,7.3,R,1h 56min
+The Others,2001-08-10,Horror; Mystery; Thriller; ,7.6,PG-13,1h 44min
+The Ring,2002-10-18,Horror; Mystery; ,7.1,PG-13,1h 55min
+Interview with the Vampire: The Vampire Chronicles,1994-11-11,Drama; Horror; ,7.6,R,2h 3min
+10 Cloverfield Lane,2016-03-11,Drama; Horror; Mystery; ,7.2,PG-13,1h 43min
+Scream,1996-12-20,Horror; Mystery; ,7.2,R,1h 51min
+The Mist,2007-11-21,Horror; Sci-Fi; ,7.1,R,2h 6min
+Alien 3,1992-05-22,Action; Horror; Sci-Fi; ,6.5,R,1h 54min
+Insidious,2011-04-01,Horror; Mystery; Thriller; ,6.8,PG-13,1h 43min
+Annihilation,2018-02-23,Adventure; Drama; Horror; ,6.9,R,1h 55min
+Bird Box,2018-12-21,Drama; Horror; Sci-Fi; ,6.6,R,2h 4min
+28 Weeks Later,2007-05-11,Horror; Sci-Fi; ,7.0,R,1h 40min
+Alien: Covenant,2017-05-19,Horror; Sci-Fi; Thriller; ,6.4,R,2h 2min
+Resident Evil,2002-03-15,Action; Horror; Sci-Fi; ,6.7,R,1h 40min
+Blade,1998-08-21,Action; Horror; Sci-Fi; ,7.1,R,2h
+Dawn of the Dead,2004-03-19,Action; Horror; ,7.3,R,1h 41min
+Saw II,2005-10-28,Horror; Mystery; ,6.6,R,1h 33min
+The Blair Witch Project,1999-07-30,Horror; Mystery; ,6.5,R,1h 21min
+Final Destination,2000-03-17,Horror; Thriller; ,6.7,R,1h 38min
+Alien: Resurrection,1997-11-26,Action; Horror; Sci-Fi; ,6.2,R,1h 49min
+Pitch Black,2000-02-18,Action; Horror; Sci-Fi; ,7.1,R,1h 49min
+Halloween,1978-10-27,Horror; Thriller; ,7.8,R,1h 31min
+Paranormal Activity,2009-10-16,Horror; Mystery; Thriller; ,6.3,R,1h 26min
+The Conjuring 2,2016-06-10,Horror; Mystery; Thriller; ,7.3,R,2h 14min
+Warm Bodies,2013-02-01,Comedy; Horror; Romance; ,6.9,PG-13,1h 38min
+Hereditary,2018-06-08,Drama; Horror; Mystery; ,7.3,R,2h 7min
+Sinister,2012-10-12,Horror; Mystery; Thriller; ,6.8,R,1h 50min
+Silent Hill,2006-04-21,Horror; ,6.5,R,2h 5min
+Don't Breathe,2016-08-26,Crime; Horror; Thriller; ,7.1,R,1h 28min
+Us,2019-03-22,Horror; Mystery; Thriller; ,6.9,R,1h 56min
+It Follows,2015-03-13,Horror; Mystery; Thriller; ,6.8,R,1h 40min
+Life,2017-03-24,Horror; Sci-Fi; Thriller; ,6.6,R,1h 44min
+A Nightmare on Elm Street,1984-11-16,Horror; ,7.5,R,1h 31min
+The Purge,2013-06-07,Horror; Thriller; ,5.7,R,1h 25min
+The Descent,2006-08-04,Adventure; Horror; Thriller; ,7.2,R,1h 39min
+Blade II,2002-03-22,Action; Fantasy; Horror; ,6.7,R,1h 57min
+Hansel & Gretel: Witch Hunters,2013-01-25,Action; Fantasy; Horror; ,6.1,R,1h 28min
+Gremlins,1984-06-08,Comedy; Fantasy; Horror; ,7.3,PG,1h 46min
+The Babadook,2014-11-28,Drama; Horror; ,6.8,Not Rated,1h 34min
+Orphan,2009-07-24,Horror; Mystery; Thriller; ,6.9,R,2h 3min
+The Witch,2016-02-19,Drama; Horror; Mystery; ,6.9,R,1h 32min
+Bram Stoker's Dracula,1992-11-13,Horror; ,7.4,R,2h 8min
+Rosemary's Baby,1968-10-17,Drama; Horror; ,8.0,R,2h 17min
+Drag Me to Hell,2009-05-29,Horror; Thriller; ,6.5,PG-13,1h 39min
+It Chapter Two,2019-09-06,Drama; Fantasy; Horror; ,6.6,R,2h 49min
+Resident Evil: Apocalypse,2004-09-10,Action; Horror; Sci-Fi; ,6.2,R,1h 34min
+Mother!,2017-09-15,Drama; Horror; Mystery; ,6.6,R,2h 1min
+Alien vs. Predator,2004-08-13,Action; Adventure; Horror; ,5.6,PG-13,1h 41min
+The Evil Dead,1983-04-15,Horror; ,7.5,NC-17,1h 25min
+Resident Evil: Extinction,2007-09-21,Action; Horror; Sci-Fi; ,6.3,R,1h 34min
+Grindhouse,2007-04-06,Action; Horror; Thriller; ,7.5,R,3h 11min
+Saw III,2006-10-27,Horror; Mystery; Thriller; ,6.2,R,1h 48min
+The Woman in Black,2012-02-03,Drama; Fantasy; Horror; ,6.4,PG-13,1h 35min
+Pi,1998-07-10,Drama; Horror; Mystery; ,7.4,R,1h 24min
+Hostel,2006-01-06,Horror; ,5.9,R,1h 34min
+Mama,2013-01-18,Horror; Thriller; ,6.2,PG-13,1h 40min
+The Birds,1963-03-29,Drama; Horror; Mystery; ,7.7,PG-13,1h 59min
+Midsommar,2019-07-03,Drama; Horror; Mystery; ,7.1,R,2h 28min
+Carrie,1976-11-16,Horror; ,7.4,R,1h 38min
+Tucker and Dale vs Evil,2010-12-09,Comedy; Horror; ,7.5,R,1h 29min
+30 Days of Night,2007-10-19,Action; Horror; Thriller; ,6.6,R,1h 53min
+Resident Evil: Afterlife,2010-09-10,Action; Adventure; Horror; ,5.8,R,1h 36min
+Army of Darkness,1993-02-19,Comedy; Horror; ,7.5,R,1h 21min
+The Hills Have Eyes,2006-03-10,Horror; Thriller; ,6.4,R,1h 47min
+The Fly,1986-08-15,Drama; Horror; Sci-Fi; ,7.6,R,1h 36min
+Event Horizon,1997-08-15,Horror; Sci-Fi; Thriller; ,6.7,R,1h 36min
+Evil Dead,2013-04-05,Fantasy; Horror; Thriller; ,6.5,R,1h 31min
+Scream 2,1997-12-12,Horror; Mystery; ,6.2,R,2h
+Insidious: Chapter 2,2013-09-13,Horror; Mystery; Thriller; ,6.6,PG-13,1h 46min
+Final Destination 2,2003-01-31,Horror; Thriller; ,6.2,R,1h 30min
+What We Do in the Shadows,2015-02-13,Comedy; Horror; ,7.7,R,1h 26min
+Abraham Lincoln: Vampire Hunter,2012-06-22,Action; Fantasy; Horror; ,5.9,R,1h 45min
+Scary Movie 2,2001-07-04,Comedy; Horror; ,5.3,R,1h 23min
+From Hell,2001-10-19,Horror; Mystery; Thriller; ,6.8,R,2h 2min
+The Orphanage,2008-01-11,Drama; Fantasy; Horror; ,7.4,R,1h 45min
+Train to Busan,2016-10-21,Action; Horror; Thriller; ,7.5,TV-MA,1h 58min
+Evil Dead II,1987-03-13,Comedy; Horror; ,7.8,R,1h 24min
+Underworld Awakening,2012-01-20,Action; Fantasy; Horror; ,6.4,R,1h 28min
+La La Land,2016-12-25,Comedy; Drama; Music; ,8.0,PG-13,2h 8min
+A Star Is Born,2018-10-05,Drama; Music; Romance; ,7.7,R,2h 16min
+Pitch Perfect,2012-10-05,Comedy; Music; Romance; ,7.2,PG-13,1h 52min
+School of Rock,2003-10-03,Comedy; Music; ,7.1,PG-13,1h 49min
+8 Mile,2002-11-08,Drama; Music; ,7.1,R,1h 50min
+Some Like It Hot,1959-03-19,Comedy; Music; Romance; ,8.2,Not Rated,2h 1min
+Dirty Dancing,1987-08-21,Drama; Music; Romance; ,7.0,PG-13,1h 40min
+Get Him to the Greek,2010-06-04,Comedy; Music; ,6.4,R,1h 49min
+High Fidelity,2000-03-31,Comedy; Drama; Music; ,7.5,R,1h 53min
+Wayne's World,1992-02-14,Comedy; Music; ,7.0,PG-13,1h 34min
+Begin Again,2014-07-11,Comedy; Drama; Music; ,7.4,R,1h 44min
+Pitch Perfect 2,2015-05-15,Comedy; Music; ,6.4,PG-13,1h 55min
+Inside Llewyn Davis,2014-01-10,Comedy; Drama; Music; ,7.5,R,1h 44min
+The Wedding Singer,1998-02-13,Comedy; Music; Romance; ,6.8,PG-13,1h 37min
+This Is Spinal Tap,1984-03-02,Comedy; Music; ,7.9,R,1h 22min
+Billy Elliot,2000-11-10,Drama; Music; ,7.7,R,1h 50min
+Rocketman,2019-05-31,Biography; Drama; Music; ,7.3,R,2h 1min
+"Hail, Caesar!",2016-02-05,Comedy; Drama; Music; ,6.3,PG-13,1h 46min
+The Bodyguard,1992-11-25,Action; Drama; Music; ,6.3,R,2h 9min
+If I Stay,2014-08-22,Drama; Fantasy; Music; ,6.7,PG-13,1h 47min
+Once,2007-06-15,Drama; Music; Romance; ,7.8,R,1h 26min
+Step Up,2006-08-11,Crime; Drama; Music; ,6.5,PG-13,1h 44min
+Bill & Ted's Excellent Adventure,1989-02-17,Adventure; Comedy; Music; ,6.9,PG,1h 30min
+Pirate Radio,2009-11-13,Comedy; Drama; Music; ,7.4,R,1h 57min
+Coyote Ugly,2000-08-04,Comedy; Drama; Music; ,5.7,PG-13,1h 40min
+Green Room,2016-05-13,Horror; Music; Thriller; ,7.0,R,1h 35min
+August Rush,2007-11-21,Drama; Music; ,7.5,PG,1h 54min
+Yesterday,2019-06-28,Comedy; Fantasy; Music; ,6.8,PG-13,1h 56min
+Tenacious D in the Pick of Destiny,2006-11-22,Adventure; Comedy; Music; ,6.8,R,1h 33min
+Music and Lyrics,2007-02-14,Comedy; Music; Romance; ,6.5,PG-13,1h 44min
+Nick and Norah's Infinite Playlist,2008-10-03,Comedy; Drama; Music; ,6.6,PG-13,1h 30min
+Three Colors: Blue,1993-09-08,Drama; Music; Mystery; ,7.9,R,1h 34min
+To Rome With Love,2012-07-06,Comedy; Music; Romance; ,6.3,R,1h 52min
+Crazy Heart,2010-02-05,Drama; Music; Romance; ,7.2,R,1h 52min
+Sing Street,2016-03-17,Comedy; Drama; Music; ,7.9,PG-13,1h 46min
+The Doors,1991-03-01,Biography; Drama; Music; ,7.2,R,2h 20min
+La Vie En Rose,2007-07-20,Biography; Drama; Music; ,7.6,PG-13,2h 20min
+The Last Song,2010-03-31,Drama; Music; Romance; ,6.0,PG,1h 47min
+Step Up 2: The Streets,2008-02-14,Drama; Music; Romance; ,6.2,PG-13,1h 38min
+The Piano,1994-02-11,Drama; Music; Romance; ,7.6,R,2h 1min
+Burlesque,2010-11-24,Drama; Music; ,6.4,PG-13,1h 59min
+Frank,2014-09-05,Comedy; Drama; Music; ,7.0,R,1h 35min
+Youth,2015-12-04,Comedy; Drama; Music; ,7.3,R,2h 4min
+Saturday Night Fever,1977-12-16,Drama; Music; ,6.8,R,1h 58min
+Footloose,1984-02-17,Drama; Music; Romance; ,6.6,PG,1h 47min
+Dreamgirls,2006-12-25,Drama; Music; ,6.5,PG-13,2h 10min
+Walk Hard: The Dewey Cox Story,2007-12-21,Comedy; Drama; Music; ,6.8,R,1h 36min
+That Thing You Do!,1996-10-04,Comedy; Drama; Music; ,6.9,PG,1h 48min
+Control,2007-09-26,Biography; Drama; Music; ,7.7,R,2h 2min
+Black Snake Moan,2007-03-02,Drama; Music; ,6.9,R,1h 56min
+Coffee and Cigarettes,2004-06-11,Comedy; Drama; Music; ,7.1,R,1h 35min
+Top Secret!,1984-06-08,Comedy; Music; ,7.2,PG,1h 30min
+The Legend of 1900,1998-10-28,Drama; Music; Romance; ,8.1,R,2h 49min
+Save the Last Dance,2001-01-12,Drama; Music; Romance; ,6.2,PG-13,1h 52min
+A Night at the Roxbury,1998-10-02,Comedy; Music; Romance; ,6.3,PG-13,1h 22min
+The Chorus,2004-03-17,Drama; Music; ,7.9,PG-13,1h 37min
+I'm Not There,2007-12-07,Biography; Drama; Music; ,6.9,R,2h 15min
+Pitch Perfect 3,2017-12-22,Comedy; Music; ,5.8,PG-13,1h 33min
+Popstar: Never Stop Never Stopping,2016-06-03,Comedy; Music; ,6.7,R,1h 27min
+Magic Mike XXL,2015-07-01,Comedy; Drama; Music; ,5.6,R,1h 55min
+The Soloist,2009-04-24,Biography; Drama; Music; ,6.7,PG-13,1h 57min
+Shine,1997-02-14,Biography; Drama; Music; ,7.7,PG-13,1h 45min
+The Producers,1968-11-10,Comedy; Music; ,7.6,PG,1h 28min
+Empire Records,1995-10-20,Comedy; Drama; Music; ,6.7,PG-13,1h 30min
+Departures,2009-06-19,Drama; Music; ,8.1,PG-13,2h 10min
+Flashdance,1983-04-15,Drama; Music; Romance; ,6.2,R,1h 35min
+The Runaways,2010-04-08,Biography; Drama; Music; ,6.5,R,1h 46min
+"The Adventures of Priscilla, Queen of the Desert",1994-08-10,Comedy; Music; ,7.4,R,1h 44min
+Footloose,2011-10-14,Comedy; Drama; Music; ,5.9,PG-13,1h 53min
+Climax,2018-09-19,Drama; Horror; Music; ,7.1,R,1h 37min
+Honey,2003-12-05,Drama; Music; Romance; ,5.4,PG-13,1h 34min
+Shall We Dance,2004-10-15,Comedy; Drama; Music; ,6.1,PG-13,1h 46min
+Rab Ne Bana Di Jodi,2008-12-12,Comedy; Drama; Music; ,7.2,Not Rated,2h 47min
+Rock Star,2001-09-07,Drama; Music; ,6.3,R,1h 45min
+The Double Life of Véronique,1991-11-22,Drama; Fantasy; Music; ,7.8,R,1h 38min
+Behind The Candelabra,2013-06-07,Biography; Drama; Music; ,7.0,TV-MA,1h 58min
+A Hard Day's Night,1964-07-07,Comedy; Music; ,7.6,G,1h 27min
+Hustle & Flow,2005-07-22,Crime; Drama; Music; ,7.3,R,1h 56min
+Rockstar,2011-11-11,Drama; Music; ,7.7,Not Rated,2h 39min
+Eurovision Song Contest: The Story of Fire Saga,2020-06-26,Comedy; Music; ,6.6,PG-13,2h 3min
+The Rocker,2008-08-20,Comedy; Music; ,6.2,PG-13,1h 42min
+Love & Mercy,2015-06-19,Biography; Drama; Music; ,7.4,PG-13,2h 1min
+Mr. Holland's Opus,1996-01-19,Drama; Music; ,7.3,PG,2h 23min
+Detroit Rock City,1999-08-13,Comedy; Music; ,6.9,R,1h 35min
+Velvet Goldmine,1998-10-23,Drama; Music; ,7.0,R,1h 58min
+Happy New Year,2014-10-24,Action; Comedy; Music; ,5.0,Not Rated,3h
+Spice World,1998-01-23,Comedy; Music; ,3.5,PG,1h 33min
+Captain Corelli's Mandolin,2001-08-17,Drama; Music; Romance; ,5.9,R,2h 11min
+Jersey Boys,2014-06-20,Biography; Drama; Music; ,6.8,R,2h 14min
+Sweet and Lowdown,2000-03-10,Comedy; Drama; Music; ,7.2,PG-13,1h 35min
+The Commitments,1991-09-13,Comedy; Drama; Music; ,7.6,R,1h 58min
+Hedwig and the Angry Inch,2001-08-31,Comedy; Drama; Music; ,7.7,R,1h 35min
+The Red Violin,1999-06-11,Drama; Music; Mystery; ,7.6,R,2h 10min
+54,1998-08-28,Drama; Music; ,5.9,R,1h 33min
+The Prestige,2006-10-20,Drama; Mystery; Sci-Fi; ,8.5,PG-13,2h 10min
+Memento,2001-05-25,Mystery; Thriller; ,8.4,R,1h 53min
+Shutter Island,2010-02-19,Mystery; Thriller; ,8.1,R,2h 18min
+The Usual Suspects,1995-08-16,Crime; Mystery; Thriller; ,8.5,R,1h 46min
+The Sixth Sense,1999-08-06,Drama; Mystery; Thriller; ,8.1,PG-13,1h 47min
+Donnie Darko,2002-01-30,Drama; Mystery; Sci-Fi; ,8.0,R,1h 53min
+The Hunger Games: Catching Fire,2013-11-22,Action; Adventure; Mystery; ,7.5,PG-13,2h 26min
+The Bourne Ultimatum,2007-08-03,Action; Mystery; Thriller; ,8.0,PG-13,1h 55min
+Now You See Me,2013-05-31,Crime; Mystery; Thriller; ,7.3,PG-13,1h 55min
+Prisoners,2013-09-20,Crime; Drama; Mystery; ,8.1,R,2h 33min
+12 Monkeys,1996-01-05,Mystery; Sci-Fi; Thriller; ,8.0,R,2h 9min
+Prometheus,2012-06-08,Adventure; Mystery; Sci-Fi; ,7.0,R,2h 4min
+Minority Report,2002-06-21,Action; Crime; Mystery; ,7.6,PG-13,2h 25min
+The Hateful Eight,2015-12-30,Crime; Drama; Mystery; ,7.8,R,2h 48min
+Source Code,2011-04-01,Action; Drama; Mystery; ,7.5,PG-13,1h 33min
+Ex Machina,2015-04-24,Drama; Mystery; Sci-Fi; ,7.7,R,1h 48min
+Hot Fuzz,2007-04-20,Action; Comedy; Mystery; ,7.8,R,2h 1min
+Zodiac,2007-03-02,Crime; Drama; Mystery; ,7.7,R,2h 37min
+Blade Runner 2049,2017-10-06,Action; Drama; Mystery; ,8.0,R,2h 44min
+Rear Window,1954-09-01,Mystery; Thriller; ,8.4,PG,1h 52min
+The Conjuring,2013-07-19,Horror; Mystery; Thriller; ,7.5,R,1h 52min
+The Bourne Supremacy,2004-07-23,Action; Mystery; Thriller; ,7.7,PG-13,1h 48min
+Divergent,2014-03-21,Action; Adventure; Mystery; ,6.7,PG-13,2h 19min
+Sherlock Holmes: A Game of Shadows,2011-12-16,Action; Adventure; Mystery; ,7.5,PG-13,2h 9min
+Mystic River,2003-10-15,Crime; Drama; Mystery; ,7.9,R,2h 18min
+The Maze Runner,2014-09-19,Action; Mystery; Sci-Fi; ,6.8,PG-13,1h 53min
+The Da Vinci Code,2006-05-19,Mystery; Thriller; ,6.6,PG-13,2h 29min
+Citizen Kane,1941-09-05,Drama; Mystery; ,8.3,PG,1h 59min
+Unbreakable,2000-11-22,Drama; Mystery; Sci-Fi; ,7.3,PG-13,1h 46min
+Vertigo,1958-05-22,Mystery; Romance; Thriller; ,8.3,PG,2h 8min
+The Lives of Others,2007-03-30,Drama; Mystery; Thriller; ,8.4,R,2h 17min
+Cloud Atlas,2012-10-26,Action; Drama; Mystery; ,7.4,R,2h 52min
+The Game,1997-09-12,Drama; Mystery; Thriller; ,7.8,R,2h 9min
+Super 8,2011-06-10,Mystery; Sci-Fi; Thriller; ,7.0,PG-13,1h 52min
+Signs,2002-08-02,Drama; Mystery; Sci-Fi; ,6.7,PG-13,1h 46min
+Inside Man,2006-03-24,Crime; Drama; Mystery; ,7.6,R,2h 9min
+The Others,2001-08-10,Horror; Mystery; Thriller; ,7.6,PG-13,1h 44min
+Moon,2009-07-10,Drama; Mystery; Sci-Fi; ,7.9,R,1h 37min
+Sleepy Hollow,1999-11-19,Fantasy; Horror; Mystery; ,7.3,R,1h 45min
+The Devil's Advocate,1997-10-17,Drama; Mystery; Thriller; ,7.5,R,2h 24min
+Mulholland Drive,2001-10-19,Drama; Mystery; Thriller; ,8.0,R,2h 27min
+National Treasure,2004-11-19,Action; Adventure; Mystery; ,6.9,PG,2h 11min
+Eyes Wide Shut,1999-07-16,Drama; Mystery; Thriller; ,7.4,R,2h 39min
+Salt,2010-07-23,Action; Mystery; Thriller; ,6.4,PG-13,1h 40min
+North by Northwest,1959-09-26,Adventure; Mystery; Thriller; ,8.3,Approved,2h 16min
+Chinatown,1974-06-20,Drama; Mystery; Thriller; ,8.2,R,2h 10min
+10 Cloverfield Lane,2016-03-11,Drama; Horror; Mystery; ,7.2,PG-13,1h 43min
+Scream,1996-12-20,Horror; Mystery; ,7.2,R,1h 51min
+Insidious,2011-04-01,Horror; Mystery; Thriller; ,6.8,PG-13,1h 43min
+Insomnia,2002-05-24,Drama; Mystery; Thriller; ,7.2,R,1h 58min
+Angels & Demons,2009-05-15,Action; Mystery; Thriller; ,6.7,PG-13,2h 18min
+Contact,1997-07-11,Drama; Mystery; Sci-Fi; ,7.4,PG,2h 30min
+Non-Stop,2014-02-28,Action; Mystery; Thriller; ,6.9,PG-13,1h 46min
+Gone Baby Gone,2007-10-19,Crime; Drama; Mystery; ,7.6,R,1h 54min
+Unknown,2011-02-18,Action; Mystery; Thriller; ,6.8,PG-13,1h 53min
+Vanilla Sky,2001-12-14,Fantasy; Mystery; Romance; ,6.9,R,2h 16min
+Atonement,2008-01-11,Drama; Mystery; Romance; ,7.8,R,2h 3min
+The Village,2004-07-30,Drama; Mystery; Thriller; ,6.5,PG-13,1h 48min
+Saw II,2005-10-28,Horror; Mystery; ,6.6,R,1h 33min
+The Blair Witch Project,1999-07-30,Horror; Mystery; ,6.5,R,1h 21min
+The Fountain,2006-11-22,Drama; Mystery; Romance; ,7.2,PG-13,1h 37min
+Identity,2003-04-25,Mystery; Thriller; ,7.3,R,1h 30min
+Knowing,2009-03-20,Action; Drama; Mystery; ,6.2,PG-13,2h 1min
+Paranormal Activity,2009-10-16,Horror; Mystery; Thriller; ,6.3,R,1h 26min
+Disturbia,2007-04-13,Crime; Drama; Mystery; ,6.8,PG-13,1h 45min
+The Conjuring 2,2016-06-10,Horror; Mystery; Thriller; ,7.3,R,2h 14min
+Hereditary,2018-06-08,Drama; Horror; Mystery; ,7.3,R,2h 7min
+National Treasure: Book of Secrets,2007-12-21,Action; Adventure; Mystery; ,6.5,PG,2h 4min
+The Girl with the Dragon Tattoo,2010-04-30,Crime; Drama; Mystery; ,7.8,R,2h 32min
+Cube,1998-07-11,Drama; Mystery; Sci-Fi; ,7.2,R,1h 30min
+Us,2019-03-22,Horror; Mystery; Thriller; ,6.9,R,1h 56min
+It Follows,2015-03-13,Horror; Mystery; Thriller; ,6.8,R,1h 40min
+Murder on the Orient Express,2017-11-10,Crime; Drama; Mystery; ,6.5,PG-13,1h 54min
+Wind River,2017-08-18,Crime; Drama; Mystery; ,7.7,R,1h 47min
+The Happening,2008-06-13,Drama; Mystery; Sci-Fi; ,5.0,R,1h 31min
+The Number 23,2007-02-23,Crime; Mystery; Thriller; ,6.4,R,1h 38min
+The Secret in Their Eyes,2010-05-21,Drama; Mystery; Romance; ,8.2,R,2h 9min
+Orphan,2009-07-24,Horror; Mystery; Thriller; ,6.9,R,2h 3min
+Dark City,1998-02-27,Mystery; Sci-Fi; Thriller; ,7.6,R,1h 40min
+Tinker Tailor Soldier Spy,2012-01-06,Drama; Mystery; Thriller; ,7.1,R,2h 2min
+Forrest Gump,1994-07-06,Romance; ,8.8,PG-13,2h 22min
+Titanic,1997-12-19,Romance; ,7.8,PG-13,3h 14min
+Eternal Sunshine of the Spotless Mind,2004-03-19,Romance; ,8.3,R,1h 48min
+Good Will Hunting,1998-01-09,Romance; ,8.3,R,2h 6min
+Slumdog Millionaire,2008-12-25,Romance; ,8.0,R,2h
+The Curious Case of Benjamin Button,2008-12-25,Romance; ,7.8,PG-13,2h 46min
+Her,2014-01-10,Romance; ,8.0,R,2h 6min
+Cast Away,2000-12-22,Romance; ,7.8,PG-13,2h 23min
+Casablanca,1943-01-23,Romance; ,8.5,PG,1h 42min
+The Notebook,2004-06-25,Romance; ,7.8,PG-13,2h 3min
+The Great Gatsby,2013-05-10,Romance; ,7.2,PG-13,2h 23min
+The Perks of Being a Wallflower,2012-10-12,Romance; ,8.0,PG-13,1h 43min
+Edward Scissorhands,1990-12-14,Romance; ,7.9,PG-13,1h 45min
+Twilight,2008-11-21,Romance; ,5.2,PG-13,2h 2min
+The Theory of Everything,2014-11-26,Romance; ,7.7,PG-13,2h 3min
+Vertigo,1958-05-22,Romance; ,8.3,PG,2h 8min
+Passengers,2016-12-21,Romance; ,7.0,PG-13,1h 56min
+The Fault in Our Stars,2014-06-06,Romance; ,7.7,PG-13,2h 6min
+50 First Dates,2004-02-13,Comedy; Romance; ,6.8,PG-13,1h 39min
+Brokeback Mountain,2006-01-13,Romance; ,7.7,R,2h 14min
+A Star Is Born,2018-10-05,Romance; ,7.7,R,2h 16min
+Up in the Air,2009-12-23,Comedy; Romance; ,7.4,R,1h 49min
+50_50,2011-09-30,Comedy; Romance; ,7.6,R,1h 40min
+Moonrise Kingdom,2012-06-29,Comedy; Romance; ,7.8,PG-13,1h 34min
+Meet the Parents,2000-10-06,Comedy; Romance; ,7.0,PG-13,1h 48min
+Fifty Shades of Grey,2015-02-13,Romance; ,4.1,R,2h 5min
+Hitch,2005-02-11,Comedy; Romance; ,6.6,PG-13,1h 58min
+10 Things I Hate About You,1999-03-31,Comedy; Romance; ,7.3,PG-13,1h 37min
+The Proposal,2009-06-19,Comedy; Romance; ,6.7,PG-13,1h 48min
+There's Something About Mary,1998-07-15,Comedy; Romance; ,7.1,R,1h 59min
+Gone with the Wind,1940-01-17,Romance; ,8.1,Passed,3h 58min
+Pretty Woman,1990-03-23,Comedy; Romance; ,7.0,R,1h 59min
+Pitch Perfect,2012-10-05,Comedy; Romance; ,7.2,PG-13,1h 52min
+As Good as It Gets,1997-12-25,Comedy; Romance; ,7.7,PG-13,2h 19min
+Notting Hill,1999-05-28,Comedy; Romance; ,7.1,PG-13,2h 4min
+Moulin Rouge!,2001-06-01,Romance; ,7.6,PG-13,2h 7min
+Bridesmaids,2011-05-13,Comedy; Romance; ,6.8,R,2h 5min
+Before Sunrise,1995-01-27,Romance; ,8.1,R,1h 41min
+Forgetting Sarah Marshall,2008-04-18,Comedy; Romance; ,7.1,R,1h 51min
+The Graduate,1967-12-21,Comedy; Romance; ,8.0,PG,1h 46min
+Meet the Fockers,2004-12-22,Comedy; Romance; ,6.3,PG-13,1h 55min
+Annie Hall,1977-04-20,Comedy; Romance; ,8.0,PG,1h 33min
+Pride & Prejudice,2005-11-23,Romance; ,7.8,PG,2h 9min
+Vanilla Sky,2001-12-14,Romance; ,6.9,R,2h 16min
+Atonement,2008-01-11,Romance; ,7.8,R,2h 3min
+The Adjustment Bureau,2011-03-04,Romance; ,7.0,PG-13,1h 46min
+Vicky Cristina Barcelona,2008-08-15,Comedy; Romance; ,7.1,PG-13,1h 36min
+Some Like It Hot,1959-03-19,Comedy; Romance; ,8.2,Not Rated,2h 1min
+Jerry Maguire,1996-12-13,Comedy; Romance; ,7.3,R,2h 19min
+The Holiday,2006-12-08,Comedy; Romance; ,6.9,PG-13,2h 16min
+Grease,1978-06-16,Romance; ,7.2,PG,1h 50min
+The Reader,2009-01-30,Romance; ,7.6,R,2h 4min
+Before Sunset,2004-07-30,Romance; ,8.0,R,1h 20min
+The Artist,2012-01-20,Comedy; Romance; ,7.9,PG-13,1h 40min
+Don Jon,2013-09-27,Comedy; Romance; ,6.5,R,1h 30min
+The Fountain,2006-11-22,Romance; ,7.2,PG-13,1h 37min
+Marriage Story,2019-12-06,Comedy; Romance; ,8.0,R,2h 17min
+Bridget Jones's Diary,2001-04-13,Comedy; Romance; ,6.7,R,1h 37min
+The Beach,2000-02-11,Romance; ,6.7,R,1h 59min
+Warm Bodies,2013-02-01,Comedy; Romance; ,6.9,PG-13,1h 38min
+Just Go with It,2011-02-11,Comedy; Romance; ,6.4,PG-13,1h 57min
+Singin' in the Rain,1952-04-11,Comedy; Romance; ,8.3,G,1h 43min
+Mr. Nobody,2013-09-26,Romance; ,7.8,R,2h 21min
+Meet Joe Black,1998-11-13,Romance; ,7.2,PG-13,2h 58min
+Mamma Mia!,2008-07-18,Comedy; Romance; ,6.4,PG-13,1h 48min
+No Strings Attached,2011-01-21,Comedy; Romance; ,6.2,R,1h 48min
+The Lobster,2015-10-16,Comedy; Romance; ,7.2,R,1h 59min
+Romeo + Juliet,1996-11-01,Romance; ,6.7,PG-13,2h
+Garden State,2004-08-20,Comedy; Romance; ,7.4,R,1h 42min
+How to Lose a Guy in 10 Days,2003-02-07,Comedy; Romance; ,6.4,PG-13,1h 56min
+Match Point,2006-01-20,Romance; ,7.6,R,2h 4min
+True Romance,1993-09-10,Romance; ,7.9,R,1h 59min
+The Ugly Truth,2009-07-24,Comedy; Romance; ,6.4,R,1h 36min
+Closer,2004-12-03,Romance; ,7.2,R,1h 44min
+The Girl Next Door,2004-04-09,Comedy; Romance; ,6.7,R,1h 49min
+Me Before You,2016-06-03,Romance; ,7.4,PG-13,1h 46min
+P.S. I Love You,2007-12-21,Comedy; Romance; ,7.0,PG-13,2h 6min
+Call Me by Your Name,2018-01-19,Romance; ,7.9,R,2h 12min
+A Walk to Remember,2002-01-25,Romance; ,7.4,PG,1h 41min
+Dirty Dancing,1987-08-21,Romance; ,7.0,PG-13,1h 40min
+"I Love You, Man",2009-03-20,Comedy; Romance; ,7.0,R,1h 45min
+Ghost,1990-07-13,Romance; ,7.0,PG-13,2h 7min
+Revolutionary Road,2009-01-23,Romance; ,7.3,R,1h 59min
+When Harry Met Sally...,1989-07-21,Comedy; Romance; ,7.6,R,1h 35min
+Bad Teacher,2011-06-24,Comedy; Romance; ,5.6,R,1h 32min
+Inception,2010-07-16,Action; Adventure; Sci-Fi; ,8.8,PG-13,2h 28min
+The Matrix,1999-03-31,Action; Sci-Fi; ,8.7,R,2h 16min
+Interstellar,2014-11-07,Adventure; Drama; Sci-Fi; ,8.6,PG-13,2h 49min
+The Avengers,2012-05-04,Action; Adventure; Sci-Fi; ,8.0,PG-13,2h 23min
+Back to the Future,1985-07-03,Adventure; Comedy; Sci-Fi; ,8.5,PG,1h 56min
+V for Vendetta,2006-03-17,Action; Drama; Sci-Fi; ,8.2,R,2h 12min
+Terminator 2: Judgment Day,1991-07-03,Action; Sci-Fi; ,8.5,R,2h 17min
+Iron Man,2008-05-02,Action; Adventure; Sci-Fi; ,7.9,PG-13,2h 6min
+The Truman Show,1998-06-05,Comedy; Drama; Sci-Fi; ,8.1,PG,1h 43min
+Eternal Sunshine of the Spotless Mind,2004-03-19,Drama; Romance; Sci-Fi; ,8.3,R,1h 48min
+Mad Max: Fury Road,2015-05-15,Action; Adventure; Sci-Fi; ,8.1,R,2h
+Star Wars: Episode VII - The Force Awakens,2015-12-18,Action; Adventure; Sci-Fi; ,7.9,PG-13,2h 18min
+Jurassic Park,1993-06-11,Action; Adventure; Sci-Fi; ,8.1,PG-13,2h 7min
+The Hunger Games,2012-03-23,Action; Adventure; Sci-Fi; ,7.2,PG-13,2h 22min
+Avengers: Infinity War,2018-04-27,Action; Adventure; Sci-Fi; ,8.4,PG-13,2h 29min
+The Terminator,1984-10-26,Action; Sci-Fi; ,8.0,R,1h 47min
+Alien,1979-06-22,Horror; Sci-Fi; ,8.4,R,1h 57min
+Gravity,2013-10-04,Drama; Sci-Fi; Thriller; ,7.7,PG-13,1h 31min
+Iron Man 3,2013-05-03,Action; Adventure; Sci-Fi; ,7.2,PG-13,2h 10min
+A Clockwork Orange,1972-02-02,Crime; Drama; Sci-Fi; ,8.3,R,2h 16min
+The Martian,2015-10-02,Adventure; Drama; Sci-Fi; ,8.0,PG-13,2h 24min
+Avengers: Age of Ultron,2015-05-01,Action; Adventure; Sci-Fi; ,7.3,PG-13,2h 21min
+Captain America: The Winter Soldier,2014-04-04,Action; Adventure; Sci-Fi; ,7.7,PG-13,2h 16min
+Iron Man 2,2010-05-07,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 4min
+Man of Steel,2013-06-14,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 23min
+Blade Runner,1982-06-25,Action; Sci-Fi; Thriller; ,8.1,R,1h 57min
+Spider-Man,2002-05-03,Action; Adventure; Sci-Fi; ,7.3,PG-13,2h 1min
+X-Men: Days of Future Past,2014-05-23,Action; Adventure; Sci-Fi; ,8.0,PG-13,2h 12min
+Captain America: Civil War,2016-05-06,Action; Adventure; Sci-Fi; ,7.8,PG-13,2h 27min
+Aliens,1986-07-18,Action; Adventure; Sci-Fi; ,8.3,R,2h 17min
+X-Men: First Class,2011-06-03,Action; Adventure; Sci-Fi; ,7.7,PG-13,2h 11min
+District 9,2009-08-14,Action; Sci-Fi; Thriller; ,7.9,R,1h 52min
+Logan,2017-03-03,Action; Drama; Sci-Fi; ,8.1,R,2h 17min
+Batman v Superman: Dawn of Justice,2016-03-25,Action; Adventure; Sci-Fi; ,6.4,PG-13,2h 31min
+Black Panther,2018-02-16,Action; Adventure; Sci-Fi; ,7.3,PG-13,2h 14min
+Transformers,2007-07-03,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 24min
+2001: A Space Odyssey,1968-05-12,Adventure; Sci-Fi; ,8.3,G,2h 29min
+Edge of Tomorrow,2014-06-06,Action; Adventure; Sci-Fi; ,7.9,PG-13,1h 53min
+Star Trek,2009-05-08,Action; Adventure; Sci-Fi; ,7.9,PG-13,2h 7min
+Arrival,2016-11-11,Drama; Mystery; Sci-Fi; ,7.9,PG-13,1h 56min
+Jurassic World,2015-06-12,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 4min
+X-Men,2000-07-14,Action; Adventure; Sci-Fi; ,7.4,PG-13,1h 44min
+Rogue One: A Star Wars Story,2016-12-16,Action; Adventure; Sci-Fi; ,7.8,PG-13,2h 13min
+Spider-Man 2,2004-06-30,Action; Adventure; Sci-Fi; ,7.3,PG-13,2h 7min
+Looper,2012-09-28,Action; Drama; Sci-Fi; ,7.4,R,1h 53min
+Her,2014-01-10,Drama; Romance; Sci-Fi; ,8.0,R,2h 6min
+Independence Day,1996-07-03,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 25min
+Limitless,2011-03-18,Sci-Fi; Thriller; ,7.4,PG-13,1h 45min
+The Matrix Reloaded,2003-05-15,Action; Sci-Fi; ,7.2,R,2h 18min
+X2: X-Men United,2003-05-02,Action; Sci-Fi; Thriller; ,7.4,PG-13,2h 14min
+Spider-Man: Homecoming,2017-07-07,Action; Adventure; Sci-Fi; ,7.4,PG-13,2h 13min
+Rise of the Planet of the Apes,2011-08-05,Action; Drama; Sci-Fi; ,7.6,PG-13,1h 45min
+"I, Robot",2004-07-16,Action; Drama; Sci-Fi; ,7.1,PG-13,1h 55min
+Spider-Man 3,2007-05-04,Action; Adventure; Sci-Fi; ,6.2,PG-13,2h 19min
+Oblivion,2013-04-19,Action; Adventure; Sci-Fi; ,7.0,PG-13,2h 4min
+X-Men: The Last Stand,2006-05-26,Action; Adventure; Sci-Fi; ,6.7,PG-13,1h 44min
+Back to the Future Part II,1989-11-22,Adventure; Comedy; Sci-Fi; ,7.8,PG,1h 48min
+Pacific Rim,2013-07-12,Action; Adventure; Sci-Fi; ,6.9,PG-13,2h 11min
+X-Men Origins: Wolverine,2009-05-01,Action; Adventure; Sci-Fi; ,6.6,PG-13,1h 47min
+Star Trek Into Darkness,2013-05-16,Action; Adventure; Sci-Fi; ,7.7,PG-13,2h 12min
+Children of Men,2007-01-05,Drama; Sci-Fi; Thriller; ,7.9,R,1h 49min
+The Butterfly Effect,2004-01-23,Drama; Sci-Fi; Thriller; ,7.6,R,1h 53min
+The Matrix Revolutions,2003-11-05,Action; Sci-Fi; ,6.8,R,2h 9min
+Lucy,2014-07-25,Action; Sci-Fi; Thriller; ,6.4,R,1h 29min
+The Incredible Hulk,2008-06-13,Action; Adventure; Sci-Fi; ,6.7,PG-13,1h 52min
+The Fifth Element,1997-05-09,Action; Adventure; Sci-Fi; ,7.7,PG-13,2h 6min
+The Wolverine,2013-07-26,Action; Adventure; Sci-Fi; ,6.7,PG-13,2h 6min
+Captain Marvel,2019-03-08,Action; Adventure; Sci-Fi; ,6.9,PG-13,2h 3min
+Elysium,2013-08-09,Action; Drama; Sci-Fi; ,6.6,R,1h 49min
+The Amazing Spider-Man 2,2014-05-02,Action; Adventure; Sci-Fi; ,6.6,PG-13,2h 22min
+War of the Worlds,2005-06-29,Adventure; Sci-Fi; Thriller; ,6.5,PG-13,1h 56min
+The Day After Tomorrow,2004-05-28,Action; Adventure; Sci-Fi; ,6.4,PG-13,2h 4min
+The Hunger Games: Mockingjay - Part 1,2014-11-21,Action; Adventure; Sci-Fi; ,6.6,PG-13,2h 3min
+Back to the Future Part III,1990-05-25,Adventure; Comedy; Sci-Fi; ,7.4,PG,1h 58min
+Armageddon,1998-07-01,Action; Adventure; Sci-Fi; ,6.7,PG-13,2h 31min
+A Quiet Place,2018-04-06,Drama; Horror; Sci-Fi; ,7.5,PG-13,1h 30min
+X-Men: Apocalypse,2016-05-27,Action; Adventure; Sci-Fi; ,6.9,PG-13,2h 24min
+Transformers: Dark of the Moon,2011-06-29,Action; Adventure; Sci-Fi; ,6.2,PG-13,2h 34min
+Transformers: Revenge of the Fallen,2009-06-24,Action; Adventure; Sci-Fi; ,6.0,PG-13,2h 29min
+Terminator 3: Rise of the Machines,2003-07-02,Action; Sci-Fi; ,6.3,R,1h 49min
+Godzilla,2014-05-16,Action; Adventure; Sci-Fi; ,6.4,PG-13,2h 3min
+The Lost World: Jurassic Park,1997-05-23,Action; Adventure; Sci-Fi; ,6.6,PG-13,2h 9min
+Predator,1987-06-12,Action; Adventure; Sci-Fi; ,7.8,R,1h 47min
+In Time,2011-10-28,Action; Sci-Fi; Thriller; ,6.7,PG-13,1h 49min
+E.T. the Extra-Terrestrial,1982-06-11,Sci-Fi; ,7.8,PG,1h 55min
+The Thing,1982-06-25,Horror; Mystery; Sci-Fi; ,8.1,R,1h 49min
+Ready Player One,2018-03-29,Action; Adventure; Sci-Fi; ,7.5,PG-13,2h 20min
+2012,2009-11-13,Action; Adventure; Sci-Fi; ,5.8,PG-13,2h 38min
+Face_Off,1997-06-27,Action; Crime; Sci-Fi; ,7.3,R,2h 18min
+Terminator Salvation,2009-05-21,Action; Adventure; Sci-Fi; ,6.5,PG-13,1h 55min
+The Big Lebowski,1998-03-06,Comedy; Crime; Sport; ,8.1,R,1h 57min
+Million Dollar Baby,2005-01-28,Drama; Sport; ,8.1,PG-13,2h 12min
+Rocky,1976-12-03,Drama; Sport; ,8.1,PG,2h
+Warrior,2011-09-09,Action; Drama; Sport; ,8.2,PG-13,2h 20min
+Rush,2013-09-27,Biography; Drama; Sport; ,8.1,R,2h 3min
+Moneyball,2011-09-23,Biography; Drama; Sport; ,7.6,PG-13,2h 13min
+The Fighter,2010-12-17,Biography; Drama; Sport; ,7.8,R,1h 56min
+Raging Bull,1980-12-19,Biography; Drama; Sport; ,8.2,R,2h 9min
+The Wrestler,2009-01-30,Drama; Sport; ,7.9,R,1h 49min
+The Blind Side,2009-11-20,Biography; Drama; Sport; ,7.6,PG-13,2h 9min
+Creed,2015-11-25,Drama; Sport; ,7.6,PG-13,2h 13min
+Dodgeball,2004-06-18,Comedy; Sport; ,6.7,PG-13,1h 32min
+Southpaw,2015-07-24,Drama; Sport; ,7.4,R,2h 4min
+Remember the Titans,2000-09-29,Biography; Drama; Sport; ,7.8,PG,1h 53min
+Happy Gilmore,1996-02-16,Comedy; Sport; ,7.0,PG-13,1h 32min
+Rocky II,1979-06-15,Drama; Sport; ,7.3,PG,1h 59min
+Rocky IV,1985-11-27,Drama; Sport; ,6.9,PG,1h 31min
+Rocky III,1982-05-28,Drama; Sport; ,6.8,PG,1h 39min
+Talladega Nights: The Ballad of Ricky Bobby,2006-08-04,Comedy; Sport; ,6.6,PG-13,1h 48min
+The Longest Yard,2005-05-27,Comedy; Crime; Sport; ,6.4,PG-13,1h 53min
+Blades of Glory,2007-03-30,Comedy; Sport; ,6.3,PG-13,1h 33min
+The Waterboy,1998-11-06,Comedy; Sport; ,6.1,PG-13,1h 30min
+She's the Man,2006-03-17,Comedy; Romance; Sport; ,6.3,PG-13,1h 45min
+Unbroken,2014-12-25,Biography; Drama; Sport; ,7.2,PG-13,2h 17min
+Green Street Hooligans,2005-09-09,Crime; Drama; Sport; ,7.5,R,1h 49min
+Foxcatcher,2015-01-16,Biography; Drama; Sport; ,7.0,R,2h 14min
+Rocky V,1990-11-16,Drama; Sport; ,5.3,PG-13,1h 44min
+Coach Carter,2005-01-14,Biography; Drama; Sport; ,7.3,PG-13,2h 16min
+Any Given Sunday,1999-12-22,Drama; Sport; ,6.9,R,2h 42min
+Caddyshack,1980-07-25,Comedy; Sport; ,7.3,R,1h 38min
+Creed II,2018-11-21,Drama; Sport; ,7.1,PG-13,2h 10min
+Never Back Down,2008-03-14,Action; Drama; Sport; ,6.6,PG-13,1h 53min
+Ali,2001-12-25,Biography; Drama; Sport; ,6.8,R,2h 37min
+The Hurricane,2000-01-14,Biography; Drama; Sport; ,7.6,R,2h 26min
+Bring It On,2000-08-25,Comedy; Romance; Sport; ,6.0,PG-13,1h 38min
+Here Comes the Boom,2012-10-12,Action; Comedy; Sport; ,6.4,PG,1h 45min
+Concussion,2015-12-25,Biography; Drama; Sport; ,7.1,PG-13,2h 3min
+Goon,2012-02-24,Comedy; Drama; Sport; ,6.8,R,1h 32min
+42,2013-04-12,Biography; Drama; Sport; ,7.5,PG-13,2h 8min
+Nacho Libre,2006-06-16,Comedy; Sport; ,5.7,PG,1h 32min
+Semi-Pro,2008-02-29,Comedy; Sport; ,5.8,R,1h 31min
+Days of Thunder,1990-06-27,Action; Drama; Sport; ,6.0,PG-13,1h 47min
+Kingpin,1996-07-26,Comedy; Sport; ,6.9,PG-13,1h 54min
+Hot Rod,2007-08-03,Comedy; Sport; ,6.7,PG-13,1h 28min
+The Hustler,1961-09-25,Drama; Sport; ,8.0,Not Rated,2h 14min
+The Color of Money,1986-10-17,Drama; Sport; ,7.0,R,1h 59min
+Chak de! India,2007-08-10,Drama; Sport; ,8.2,Not Rated,2h 33min
+Seabiscuit,2003-07-25,Drama; History; Sport; ,7.3,PG-13,2h 20min
+"Run, Fat Boy, Run",2008-03-28,Comedy; Romance; Sport; ,6.6,PG-13,1h 40min
+Invincible,2006-08-25,Biography; Drama; Sport; ,7.1,PG,1h 45min
+Whip It,2009-10-02,Drama; Sport; ,6.9,PG-13,1h 51min
+Children of Heaven,1999-01-22,Drama; Sport; ,8.3,PG,1h 29min
+Major League,1989-04-07,Comedy; Sport; ,7.2,R,1h 47min
+Trouble with the Curve,2012-09-21,Drama; Sport; ,6.8,PG-13,1h 51min
+Bhaag Milkha Bhaag,2013-07-12,Biography; Drama; Sport; ,8.2,Not Rated,3h 6min
+Wimbledon,2004-09-17,Comedy; Romance; Sport; ,6.3,PG-13,1h 38min
+Friday Night Lights,2004-10-08,Action; Drama; Sport; ,7.2,PG-13,1h 58min
+Point Break,2015-12-25,Action; Crime; Sport; ,5.3,PG-13,1h 54min
+The Replacements,2000-08-11,Comedy; Sport; ,6.6,PG-13,1h 58min
+Grudge Match,2013-12-25,Comedy; Drama; Sport; ,6.4,PG-13,1h 53min
+We Are Marshall,2006-12-22,Drama; Sport; ,7.1,PG,2h 11min
+BASEketball,1998-07-31,Comedy; Sport; ,6.5,R,1h 43min
+Rudy,1993-10-22,Biography; Drama; Sport; ,7.5,PG,1h 54min
+Chariots of Fire,1982-04-09,Biography; Drama; Sport; ,7.2,PG,2h 5min
+The Legend of Bagger Vance,2000-11-03,Drama; Fantasy; Sport; ,6.7,PG-13,2h 6min
+Win Win,2011-04-15,Comedy; Drama; Sport; ,7.1,R,1h 46min
+Draft Day,2014-04-11,Drama; Sport; ,6.8,PG-13,1h 50min
+Lords of Dogtown,2005-06-03,Biography; Drama; Sport; ,7.1,PG-13,1h 47min
+The World's Fastest Indian,2006-03-24,Biography; Drama; Sport; ,7.8,PG-13,2h 7min
+The Love Guru,2008-06-20,Comedy; Romance; Sport; ,3.8,PG-13,1h 27min
+Over the Top,1987-02-13,Action; Drama; Sport; ,5.8,PG,1h 33min
+Kickboxer,1989-09-08,Action; Sport; Thriller; ,6.5,R,1h 37min
+The Benchwarmers,2006-04-07,Comedy; Sport; ,5.5,PG-13,1h 25min
+The Big Blue,1988-08-19,Adventure; Drama; Sport; ,7.6,PG,2h 48min
+Bull Durham,1988-06-15,Comedy; Romance; Sport; ,7.1,R,1h 48min
+The Fan,1996-08-16,Action; Drama; Sport; ,5.9,R,1h 56min
+He Got Game,1998-05-01,Drama; Sport; ,6.9,R,2h 16min
+The Natural,1984-05-11,Drama; Sport; ,7.5,PG,2h 18min
+Million Dollar Arm,2014-05-16,Biography; Drama; Sport; ,7.0,PG,2h 4min
+Two for the Money,2005-10-07,Crime; Drama; Sport; ,6.3,R,2h 2min
+Glory Road,2006-01-13,Biography; Drama; Sport; ,7.2,PG,1h 58min
+Hoosiers,1987-02-27,Drama; Sport; ,7.5,PG,1h 54min
+Balls of Fury,2007-08-29,Comedy; Crime; Sport; ,5.3,PG-13,1h 30min
+Driven,2001-04-27,Action; Drama; Sport; ,4.6,PG-13,1h 56min
+Pawn Sacrifice,2015-09-25,Biography; Drama; Sport; ,7.0,PG-13,1h 55min
+Radio,2003-10-24,Biography; Drama; Sport; ,6.9,PG,1h 49min
+Sultan,2016-07-06,Action; Drama; Sport; ,7.0,Not Rated,2h 50min
+The Ringer,2005-12-23,Comedy; Sport; ,5.8,PG-13,1h 34min
+"McFarland, USA",2015-02-20,Biography; Drama; Sport; ,7.4,PG,2h 9min
+Slap Shot,1977-02-25,Comedy; Drama; Sport; ,7.3,R,2h 3min
+M.S. Dhoni: The Untold Story,2016-09-30,Biography; Drama; Sport; ,7.7,Not Rated,3h 4min
+The Cannonball Run,1981-06-19,Action; Comedy; Sport; ,6.3,PG,1h 35min
+The Rookie,2002-03-29,Drama; Sport; ,6.9,G,2h 7min
+For Love of the Game,1999-09-17,Drama; Romance; Sport; ,6.6,PG-13,2h 17min
+Blue Crush,2002-08-16,Drama; Romance; Sport; ,5.6,PG-13,1h 44min
+The Football Factory,2004-05-14,Crime; Drama; Sport; ,6.8,R,1h 31min
+Hardball,2001-09-14,Drama; Sport; ,6.4,PG-13,1h 46min
+The Greatest Game Ever Played,2005-09-30,Biography; Drama; Sport; ,7.4,PG,2h
+Victory,1981-07-31,Drama; Sport; War; ,6.7,PG,1h 56min
+Peaceful Warrior,2006-06-23,Drama; Romance; Sport; ,7.3,PG-13,2h
+The Silence of the Lambs,1991-02-14,Crime; Drama; Thriller; ,8.6,R,1h 58min
+The Departed,2006-10-06,Crime; Drama; Thriller; ,8.5,R,2h 31min
+Kill Bill: Vol. 1,2003-10-10,Action; Crime; Thriller; ,8.1,R,1h 51min
+Reservoir Dogs,1992-09-02,Crime; Drama; Thriller; ,8.3,R,1h 39min
+Gone Girl,2014-10-03,Drama; Mystery; Thriller; ,8.1,R,2h 29min
+No Country for Old Men,2007-11-21,Crime; Drama; Thriller; ,8.1,R,2h 2min
+Joker,2019-10-04,Crime; Drama; Thriller; ,8.5,R,2h 2min
+Die Hard,1988-07-20,Action; Thriller; ,8.2,R,2h 12min
+Sin City,2005-04-01,Crime; Thriller; ,8.0,R,2h 4min
+Black Swan,2010-12-17,Drama; Thriller; ,8.0,R,1h 48min
+Kill Bill: Vol. 2,2004-04-16,Action; Crime; Thriller; ,8.0,R,2h 17min
+The Imitation Game,2014-12-25,Biography; Drama; Thriller; ,8.0,PG-13,1h 54min
+Skyfall,2012-11-09,Action; Adventure; Thriller; ,7.7,PG-13,2h 23min
+Psycho,1960-09-08,Horror; Mystery; Thriller; ,8.5,R,1h 49min
+Casino Royale,2006-11-17,Action; Adventure; Thriller; ,8.0,PG-13,2h 24min
+Argo,2012-10-12,Biography; Drama; Thriller; ,7.7,R,2h
+Heat,1995-12-15,Crime; Drama; Thriller; ,8.2,R,2h 50min
+Taken,2009-01-30,Action; Thriller; ,7.8,PG-13,1h 30min
+Jaws,1975-06-20,Adventure; Thriller; ,8.0,PG,2h 4min
+John Wick,2014-10-24,Action; Crime; Thriller; ,7.4,R,1h 41min
+Ocean's Eleven,2001-12-07,Crime; Thriller; ,7.7,PG-13,1h 56min
+The Bourne Identity,2002-06-14,Action; Mystery; Thriller; ,7.9,PG-13,1h 59min
+Blood Diamond,2006-12-08,Adventure; Drama; Thriller; ,8.0,R,2h 23min
+Get Out,2017-02-24,Horror; Mystery; Thriller; ,7.7,R,1h 44min
+Mission: Impossible - Ghost Protocol,2011-12-21,Action; Adventure; Thriller; ,7.4,PG-13,2h 12min
+Nightcrawler,2014-10-31,Crime; Drama; Thriller; ,7.9,R,1h 57min
+Parasite,2019-11-08,Comedy; Drama; Thriller; ,8.6,R,2h 12min
+Rear Window,1954-09-01,Mystery; Thriller; ,8.4,PG,1h 52min
+The Bourne Supremacy,2004-07-23,Action; Mystery; Thriller; ,7.7,PG-13,1h 48min
+Crash,2005-05-06,Crime; Drama; Thriller; ,7.7,R,1h 52min
+The Hurt Locker,2009-07-31,Drama; Thriller; War; ,7.6,R,2h 11min
+Split,2017-01-20,Horror; Thriller; ,7.3,PG-13,1h 57min
+Quantum of Solace,2008-11-14,Action; Adventure; Thriller; ,6.6,PG-13,1h 46min
+Live Free or Die Hard,2007-06-27,Action; Thriller; ,7.1,PG-13,2h 8min
+Training Day,2001-10-05,Crime; Drama; Thriller; ,7.7,R,2h 2min
+Mission: Impossible,1996-05-22,Action; Adventure; Thriller; ,7.1,PG-13,1h 50min
+Spectre,2015-11-06,Action; Adventure; Thriller; ,6.8,PG-13,2h 28min
+Fast & Furious 6,2013-05-24,Action; Adventure; Thriller; ,7.1,PG-13,2h 10min
+Die Hard with a Vengeance,1995-05-19,Action; Adventure; Thriller; ,7.6,R,2h 8min
+Room,2016-01-22,Drama; Thriller; ,8.1,R,1h 58min
+Furious 7,2015-04-03,Action; Adventure; Thriller; ,7.1,PG-13,2h 17min
+Collateral,2004-08-06,Crime; Drama; Thriller; ,7.5,R,2h
+Ocean's Twelve,2004-12-10,Crime; Thriller; ,6.5,PG-13,2h 5min
+The Machinist,2004-12-03,Drama; Thriller; ,7.7,R,1h 41min
+John Wick: Chapter 2,2017-02-10,Action; Crime; Thriller; ,7.5,R,2h 2min
+The Town,2010-09-17,Crime; Drama; Thriller; ,7.5,R,2h 5min
+The Italian Job,2003-05-30,Action; Crime; Thriller; ,7.0,PG-13,1h 51min
+Mission: Impossible - Rogue Nation,2015-07-31,Action; Adventure; Thriller; ,7.4,PG-13,2h 11min
+Die Hard 2,1990-07-03,Action; Thriller; ,7.2,R,2h 4min
+The Equalizer,2014-09-26,Action; Crime; Thriller; ,7.2,R,2h 12min
+Mission: Impossible III,2006-05-05,Action; Adventure; Thriller; ,6.9,PG-13,2h 6min
+Speed,1994-06-10,Action; Adventure; Thriller; ,7.2,R,1h 56min
+The Expendables,2010-08-13,Action; Adventure; Thriller; ,6.5,R,1h 43min
+Flight,2012-11-02,Drama; Thriller; ,7.3,R,2h 18min
+Ocean's Thirteen,2007-06-08,Action; Crime; Thriller; ,6.9,PG-13,2h 2min
+Jackie Brown,1997-12-25,Crime; Drama; Thriller; ,7.5,R,2h 34min
+Mission: Impossible II,2000-05-24,Action; Adventure; Thriller; ,6.1,PG-13,2h 3min
+The Rock,1996-06-07,Action; Adventure; Thriller; ,7.4,R,2h 16min
+Shooter,2007-03-23,Action; Drama; Thriller; ,7.2,R,2h 4min
+Jack Reacher,2012-12-21,Action; Thriller; ,7.0,PG-13,2h 10min
+The Island,2005-07-22,Action; Sci-Fi; Thriller; ,6.8,PG-13,2h 16min
+Total Recall,1990-06-01,Action; Sci-Fi; Thriller; ,7.5,R,1h 53min
+Fifty Shades of Grey,2015-02-13,Drama; Romance; Thriller; ,4.1,R,2h 5min
+North by Northwest,1959-09-26,Adventure; Mystery; Thriller; ,8.3,Approved,2h 16min
+The Expendables 2,2012-08-17,Action; Adventure; Thriller; ,6.6,R,1h 43min
+Taken 2,2012-10-05,Action; Thriller; ,6.3,PG-13,1h 32min
+Chinatown,1974-06-20,Drama; Mystery; Thriller; ,8.2,R,2h 10min
+The Transporter,2002-10-11,Action; Crime; Thriller; ,6.8,PG-13,1h 32min
+The Bourne Legacy,2012-08-10,Action; Adventure; Thriller; ,6.7,PG-13,2h 15min
+Bridge of Spies,2015-10-16,Drama; History; Thriller; ,7.6,PG-13,2h 22min
+Inglourious Basterds,2009-08-21,Adventure; Drama; War; ,8.3,R,2h 33min
+Saving Private Ryan,1998-07-24,Drama; War; ,8.6,R,2h 49min
+Full Metal Jacket,1987-07-10,Drama; War; ,8.3,R,1h 56min
+Pan's Labyrinth,2007-01-19,Drama; Fantasy; War; ,8.2,R,1h 58min
+Apocalypse Now,1979-08-15,Drama; Mystery; War; ,8.4,R,2h 27min
+Casablanca,1943-01-23,Drama; Romance; War; ,8.5,PG,1h 42min
+Fury,2014-10-17,Action; Drama; War; ,7.6,R,2h 14min
+The Last Samurai,2003-12-05,Action; Drama; War; ,7.7,R,2h 34min
+Platoon,1987-02-06,Drama; War; ,8.1,R,2h
+Tropic Thunder,2008-08-13,Action; Comedy; War; ,7.0,R,1h 47min
+Black Hawk Down,2002-01-18,Drama; History; War; ,7.7,R,2h 24min
+1917,2020-01-10,Drama; War; ,8.3,R,1h 59min
+The Deer Hunter,1979-02-23,Drama; War; ,8.1,R,3h 3min
+Enemy at the Gates,2001-03-16,Drama; History; War; ,7.6,R,2h 11min
+Jojo Rabbit,2019-11-08,Comedy; Drama; War; ,7.9,PG-13,1h 48min
+Grave of the Fireflies,1989-07-26,Animation; Drama; War; ,8.5,Not Rated,1h 29min
+The Bridge on the River Kwai,1957-12-14,Adventure; Drama; War; ,8.1,PG,2h 41min
+The Great Dictator,1941-03-07,Comedy; Drama; War; ,8.4,Passed,2h 5min
+The Boy in the Striped Pajamas,2008-11-26,Drama; War; ,7.8,PG-13,1h 34min
+The English Patient,1996-12-06,Drama; Romance; War; ,7.4,R,2h 42min
+Paths of Glory,1957-12-25,Drama; War; ,8.4,Approved,1h 28min
+The Thin Red Line,1999-01-15,Drama; War; ,7.6,R,2h 50min
+Legends of the Fall,1995-01-13,Drama; Romance; War; ,7.6,R,2h 13min
+Incendies,2011-01-12,Drama; Mystery; War; ,8.3,R,2h 11min
+Dear John,2010-02-05,Drama; Romance; War; ,6.3,PG-13,1h 48min
+The Men Who Stare at Goats,2009-11-06,Comedy; War; ,6.2,R,1h 34min
+The Book Thief,2013-11-27,Drama; War; ,7.6,PG-13,2h 11min
+13 Hours,2016-01-15,Action; Drama; War; ,7.3,R,2h 24min
+Ran,1985-06-01,Action; Drama; War; ,8.2,R,2h 42min
+The Mountain II,2016-11-04,Action; Drama; War; ,8.9,Null,2h 15min
+Born on the Fourth of July,1990-01-05,Biography; Drama; War; ,7.2,R,2h 25min
+Patton,1970-04-02,Biography; Drama; War; ,7.9,GP,2h 52min
+U-571,2000-04-21,Action; War; ,6.6,PG-13,1h 56min
+G.I. Jane,1997-08-22,Action; Drama; War; ,5.9,R,2h 5min
+Black Book,2007-05-18,Drama; Thriller; War; ,7.7,R,2h 25min
+Beasts of No Nation,2015-10-16,Drama; War; ,7.7,Not Rated,2h 17min
+Doctor Zhivago,1965-12-31,Drama; Romance; War; ,8.0,PG-13,3h 17min
+Judgment at Nuremberg,1961-12-18,Drama; War; ,8.2,Approved,2h 59min
+MASH,1970-03-18,Comedy; Drama; War; ,7.5,R,1h 56min
+The Dirty Dozen,1967-10-22,Action; Adventure; War; ,7.7,Not Rated,2h 30min
+Windtalkers,2002-06-14,Action; Drama; War; ,6.1,R,2h 14min
+Stripes,1981-06-26,Comedy; War; ,6.9,R,1h 46min
+All Quiet on the Western Front,1930-08-24,Drama; War; ,8.0,Not Rated,2h 32min
+The Best Years of Our Lives,1947-05-29,Drama; Romance; War; ,8.0,Approved,2h 50min
+Duck Soup,1933-11-17,Comedy; War; ,7.8,Not Rated,1h 9min
+Underground,1997-06-20,Comedy; Drama; War; ,8.1,Not Rated,2h 47min
+"Salò, or the 120 Days of Sodom",1976-05-19,Drama; Horror; War; ,5.9,Not Rated,1h 57min
+Come and See,1985-10-17,Drama; War; ,8.3,Not Rated,2h 22min
+Macbeth,2015-12-11,Drama; History; War; ,6.6,R,1h 53min
+The Battle of Algiers,1967-09-20,Drama; War; ,8.1,Not Rated,2h 1min
+Where Eagles Dare,1969-03-12,Action; Adventure; War; ,7.7,M/PG,2h 38min
+A Bridge Too Far,1977-06-15,Drama; History; War; ,7.4,PG,2h 55min
+Stalag 17,1953-08-10,Comedy; Drama; War; ,8.0,Not Rated,2h
+Hart's War,2002-02-15,Drama; War; ,6.3,R,2h 5min
+The Wind that Shakes the Barley,2007-03-23,Drama; War; ,7.5,Not Rated,2h 7min
+Kelly's Heroes,1970-06-23,Adventure; Comedy; War; ,7.6,GP,2h 24min
+No Man's Land,2001-09-19,Comedy; Drama; War; ,7.9,R,1h 38min
+Rules of Engagement,2000-04-07,Drama; Thriller; War; ,6.4,R,2h 8min
+Son of Saul,2015-06-11,Drama; War; ,7.5,R,1h 47min
+The Man Who Would Be King,1975-12-19,Adventure; History; War; ,7.8,PG,2h 9min
+From Here to Eternity,1953-08-28,Drama; Romance; War; ,7.6,Passed,1h 58min
+Uri: The Surgical Strike,2019-01-11,Action; Drama; War; ,8.3,Not Rated,2h 18min
+Mudbound,2017-11-17,Drama; War; ,7.4,R,2h 14min
+Casualties of War,1989-08-18,Crime; Drama; War; ,7.1,R,1h 53min
+War Machine,2017-05-26,Comedy; Drama; War; ,6.0,TV-MA,2h 2min
+Heartbreak Ridge,1986-12-05,Drama; War; ,6.9,R,2h 10min
+Tigerland,2001-05-24,Drama; War; ,7.0,R,1h 41min
+Tae Guk Gi: The Brotherhood of War,2004-09-24,Action; Drama; War; ,8.1,R,2h 20min
+Love and Death,1975-07-18,Comedy; War; ,7.7,PG,1h 25min
+Zulu,1964-06-17,Drama; History; War; ,7.7,Not Rated,2h 18min
+The Last Legion,2007-08-17,Action; Adventure; War; ,5.4,PG-13,1h 41min
+In the Land of Blood and Honey,2012-02-16,Drama; Romance; War; ,4.5,R,2h 7min
+La Grande Illusion,1938-09-12,Drama; War; ,8.1,Not Rated,1h 53min
+Kagemusha,1980-10-10,Drama; History; War; ,8.0,PG,2h 42min
+The Guernsey Literary and Potato Peel Pie Society,2018-08-10,Drama; Romance; War; ,7.4,TV-14,2h 4min
+1941,1979-12-14,Action; Comedy; War; ,5.8,PG,1h 58min
+Coriolanus,2012-01-20,Drama; Thriller; War; ,6.1,R,2h 3min
+Au Revoir les Enfants,1988-02-12,Drama; War; ,8.0,PG,1h 44min
+Stalingrad,1993-01-21,Drama; War; ,7.5,Not Rated,2h 14min
+Duck You Sucker,1972-07-07,Drama; War; Western; ,7.6,PG,2h 18min
+To Be or Not to Be,1942-03-06,Comedy; War; ,8.2,Passed,1h 39min
+Lifeboat,1944-01-28,Drama; War; ,7.6,Not Rated,1h 37min
+Gettysburg,1993-10-08,Drama; History; War; ,7.6,PG,4h 31min
+Cross of Iron,1977-05-20,Drama; War; ,7.5,R,1h 59min
+The Caine Mutiny,1954-06-24,Drama; War; ,7.7,Not Rated,2h 4min
+The Ottoman Lieutenant,2017-03-10,Drama; War; ,6.6,R,1h 46min
+Da 5 Bloods,2020-06-12,Adventure; Drama; War; ,6.6,R,2h 34min
+Bloody Sunday,2002-04-19,Drama; History; War; ,7.6,R,1h 47min
+Saboteur,1942-04-24,Thriller; War; ,7.2,Passed,1h 49min
+The Birth of a Nation,1915-03-21,Drama; History; War; ,6.3,TV-PG,3h 15min
+Little Boy,2015-04-24,Drama; History; War; ,7.4,PG-13,1h 46min
+Last Flag Flying,2017-11-03,Comedy; Drama; War; ,6.9,R,2h 5min
+Catch-22,1970-06-24,Comedy; Drama; War; ,7.1,R,2h 2min
+The Great Raid,2005-08-12,Action; Drama; War; ,6.7,R,2h 12min
+Saints and Soldiers,2005-03-25,Action; Drama; War; ,6.7,PG-13,1h 30min
+Stop-Loss,2008-03-28,Drama; War; ,6.4,R,1h 52min
+The Alamo,2004-04-09,Drama; History; War; ,6.0,PG-13,2h 17min
