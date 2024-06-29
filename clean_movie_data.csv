@@ -1,1391 +1,1363 @@
-name,year,rel_date,genres,rating,run_length,num_raters
-The Dark Knight,2008,2008-07-18,Action; Crime; Drama; ,9.0,152,2224522
-Inception,2010,2010-07-16,Action; Adventure; Sci-Fi; ,8.8,148,1981675
-The Matrix,1999,1999-03-31,Action; Sci-Fi; ,8.7,136,1619761
-The Lord of the Rings: The Fellowship of the Ring,2001,2001-12-19,Action; Adventure; Drama; ,8.8,178,1609165
-The Dark Knight Rises,2012,2012-07-20,Action; Adventure; ,8.4,164,1470329
-Gladiator,2000,2000-05-05,Action; Adventure; Drama; ,8.5,155,1297718
-Batman Begins,2005,2005-06-15,Action; Adventure; ,8.2,140,1269027
-The Avengers,2012,2012-05-04,Action; Adventure; Sci-Fi; ,8.0,143,1236048
-Star Wars: Episode IV - A New Hope,1977,1977-05-25,Action; Adventure; Fantasy; ,8.6,121,1197132
-Star Wars: Episode V - The Empire Strikes Back,1980,1980-06-20,Action; Adventure; Fantasy; ,8.7,124,1124834
-Avatar,2009,2009-12-18,Action; Adventure; Fantasy; ,7.8,162,1096125
-Guardians of the Galaxy,2014,2014-08-01,Action; Adventure; Comedy; ,8.0,121,1017405
-V for Vendetta,2005,2006-03-17,Action; Drama; Sci-Fi; ,8.2,132,1002944
-Léon: The Professional,1994,1994-11-18,Action; Crime; Drama; ,8.5,110,999596
-Pirates of the Caribbean: The Curse of the Black Pearl,2003,2003-07-09,Action; Adventure; Fantasy; ,8.0,143,997264
-Kill Bill: Vol. 1,2003,2003-10-10,Action; Crime; Thriller; ,8.1,111,970439
-Terminator 2: Judgment Day,1991,1991-07-03,Action; Sci-Fi; ,8.5,137,968504
-Star Wars: Episode VI - Return of the Jedi,1983,1983-05-25,Action; Adventure; Fantasy; ,8.3,131,922278
-Iron Man,2008,2008-05-02,Action; Adventure; Sci-Fi; ,7.9,126,915640
-Deadpool,2016,2016-02-12,Action; Adventure; Comedy; ,8.0,108,876091
-Raiders of the Lost Ark,1981,1981-06-12,Action; Adventure; ,8.4,115,859523
-Mad Max: Fury Road,2015,2015-05-15,Action; Adventure; Sci-Fi; ,8.1,,848011
-Star Wars: Episode VII - The Force Awakens,2015,2015-12-18,Action; Adventure; Sci-Fi; ,7.9,138,841234
-Jurassic Park,1993,1993-06-11,Action; Adventure; Sci-Fi; ,8.1,127,836793
-The Hunger Games,2012,2012-03-23,Action; Adventure; Sci-Fi; ,7.2,142,826505
-Avengers: Infinity War,2018,2018-04-27,Action; Adventure; Sci-Fi; ,8.4,149,784777
-The Terminator,1984,1984-10-26,Action; Sci-Fi; ,8.0,107,779029
-Die Hard,1988,1988-07-20,Action; Thriller; ,8.2,132,763300
-Avengers: Endgame,2019,2019-04-26,Action; Adventure; Drama; ,8.4,181,736177
-Iron Man 3,2013,2013-05-03,Action; Adventure; Sci-Fi; ,7.2,130,735568
-Thor,2011,2011-05-06,Action; Adventure; Fantasy; ,7.0,115,726753
-300,2006,2007-03-09,Action; Drama; ,7.6,117,719421
-Captain America: The First Avenger,2011,2011-07-22,Action; Adventure; Sci-Fi; ,6.9,124,718921
-Avengers: Age of Ultron,2015,2015-05-01,Action; Adventure; Sci-Fi; ,7.3,141,717521
-Captain America: The Winter Soldier,2014,2014-04-04,Action; Adventure; Sci-Fi; ,7.7,136,714445
-Star Wars: Episode I - The Phantom Menace,1999,1999-05-19,Action; Adventure; Fantasy; ,6.5,136,708990
-Iron Man 2,2010,2010-05-07,Action; Adventure; Sci-Fi; ,7.0,124,701922
-Star Wars: Episode III - Revenge of the Sith,2005,2005-05-19,Action; Adventure; Fantasy; ,7.5,140,690205
-The Revenant,2015,2016-01-08,Action; Adventure; Drama; ,8.0,156,678829
-Man of Steel,2013,2013-06-14,Action; Adventure; Sci-Fi; ,7.0,143,675229
-Blade Runner,1982,1982-06-25,Action; Sci-Fi; Thriller; ,8.1,117,673121
-Indiana Jones and the Last Crusade,1989,1989-05-24,Action; Adventure; ,8.2,127,672206
-Spider-Man,2002,2002-05-03,Action; Adventure; Sci-Fi; ,7.3,121,671751
-I Am Legend,2007,2007-12-14,Action; Adventure; Drama; ,7.2,101,670748
-Kill Bill: Vol. 2,2004,2004-04-16,Action; Crime; Thriller; ,8.0,137,663568
-X-Men: Days of Future Past,2014,2014-05-23,Action; Adventure; Sci-Fi; ,8.0,132,647269
-How to Train Your Dragon,2010,2010-03-26,Animation; Action; Adventure; ,8.1,98,647266
-Pirates of the Caribbean: Dead Man's Chest,2006,2006-07-07,Action; Adventure; Fantasy; ,7.3,151,641045
-The Incredibles,2004,2004-11-05,Animation; Action; Adventure; ,8.0,115,638952
-Captain America: Civil War,2016,2016-05-06,Action; Adventure; Sci-Fi; ,7.8,147,638731
-Aliens,1986,1986-07-18,Action; Adventure; Sci-Fi; ,8.3,137,635164
-X-Men: First Class,2011,2011-06-03,Action; Adventure; Sci-Fi; ,7.7,131,634147
-District 9,2009,2009-08-14,Action; Sci-Fi; Thriller; ,7.9,112,627696
-Star Wars: Episode II - Attack of the Clones,2002,2002-05-16,Action; Adventure; Fantasy; ,6.5,142,621911
-Logan,2017,2017-03-03,Action; Drama; Sci-Fi; ,8.1,137,621174
-Skyfall,2012,2012-11-09,Action; Adventure; Thriller; ,7.7,143,617644
-Batman v Superman: Dawn of Justice,2016,2016-03-25,Action; Adventure; Sci-Fi; ,6.4,151,608225
-The Hunger Games: Catching Fire,2013,2013-11-22,Action; Adventure; Mystery; ,7.5,146,600099
-The Bourne Ultimatum,2007,2007-08-03,Action; Mystery; Thriller; ,8.0,115,595431
-Black Panther,2018,2018-02-16,Action; Adventure; Sci-Fi; ,7.3,134,587388
-Transformers,2007,2007-07-03,Action; Adventure; Sci-Fi; ,7.0,144,586895
-World War Z,2013,2013-06-21,Action; Adventure; Horror; ,7.0,116,586801
-Pirates of the Caribbean: At World's End,2007,2007-05-25,Action; Adventure; Fantasy; ,7.1,169,582275
-Suicide Squad,2016,2016-08-05,Action; Adventure; Fantasy; ,6.0,123,581986
-Edge of Tomorrow,2014,2014-06-06,Action; Adventure; Sci-Fi; ,7.9,113,581938
-Thor: The Dark World,2013,2013-11-08,Action; Adventure; Fantasy; ,6.9,112,578425
-Kingsman: The Secret Service,2014,2015-02-13,Action; Adventure; Comedy; ,7.7,129,575952
-Doctor Strange,2016,2016-11-04,Action; Adventure; Fantasy; ,7.5,115,573177
-Sherlock Holmes,2009,2009-12-25,Action; Adventure; Mystery; ,7.6,128,571401
-Star Trek,2009,2009-05-08,Action; Adventure; Sci-Fi; ,7.9,127,570077
-Casino Royale,2006,2006-11-17,Action; Adventure; Thriller; ,8.0,144,566966
-Jurassic World,2015,2015-06-12,Action; Adventure; Sci-Fi; ,7.0,124,566272
-X-Men,2000,2000-07-14,Action; Adventure; Sci-Fi; ,7.4,104,559246
-Thor: Ragnarok,2017,2017-11-03,Action; Adventure; Comedy; ,7.9,130,557591
-Taken,2008,2009-01-30,Action; Thriller; ,7.8,90,555820
-Ant-Man,2015,2015-07-17,Action; Adventure; Comedy; ,7.3,117,549076
-The Amazing Spider-Man,2012,2012-07-03,Action; Adventure; Sci-Fi; ,6.9,136,547661
-Guardians of the Galaxy Vol. 2,2017,2017-05-05,Action; Adventure; Comedy; ,7.6,136,544357
-Star Wars: Episode VIII - The Last Jedi,2017,2017-12-15,Action; Adventure; Fantasy; ,7.0,152,543307
-Rogue One: A Star Wars Story,2016,2016-12-16,Action; Adventure; Sci-Fi; ,7.8,133,534483
-Wonder Woman,2017,2017-06-02,Action; Adventure; Fantasy; ,7.4,141,531221
-Spider-Man 2,2004,2004-06-30,Action; Adventure; Sci-Fi; ,7.3,127,529344
-Looper,2012,2012-09-28,Action; Drama; Sci-Fi; ,7.4,113,523452
-Dunkirk,2017,2017-07-21,Action; Drama; History; ,7.9,106,523089
-"Lock, Stock and Two Smoking Barrels",1998,1998-08-28,Action; Comedy; Crime; ,8.2,107,521026
-Independence Day,1996,1996-07-03,Action; Adventure; Sci-Fi; ,7.0,145,516789
-Kick-Ass,2010,2010-04-16,Action; Comedy; Crime; ,7.6,117,515786
-John Wick,2014,2014-10-24,Action; Crime; Thriller; ,7.4,101,514550
-Men in Black,1997,1997-07-02,Action; Adventure; Comedy; ,7.3,98,504013
-The Matrix Reloaded,2003,2003-05-15,Action; Sci-Fi; ,7.2,138,503184
-X2: X-Men United,2003,2003-05-02,Action; Sci-Fi; Thriller; ,7.4,134,501725
-21 Jump Street,2012,2012-03-16,Action; Comedy; Crime; ,7.2,109,499602
-Oldboy,2003,2003-11-21,Action; Drama; Mystery; ,8.4,101,496687
-The Bourne Identity,2002,2002-06-14,Action; Mystery; Thriller; ,7.9,119,496180
-Minority Report,2002,2002-06-21,Action; Crime; Mystery; ,7.6,145,495543
-Harry Potter and the Order of the Phoenix,2007,2007-07-11,Action; Adventure; ,7.5,138,489759
-Spider-Man: Homecoming,2017,2017-07-07,Action; Adventure; Sci-Fi; ,7.4,133,488794
-Rise of the Planet of the Apes,2011,2011-08-05,Action; Drama; Sci-Fi; ,7.6,105,488748
-"I, Robot",2004,2004-07-16,Action; Drama; Sci-Fi; ,7.1,115,488324
-Watchmen,2009,2009-03-06,Action; Drama; Mystery; ,7.6,162,487717
-The Lord of the Rings: The Return of the King,2003,2003-12-17,Adventure; Drama; Fantasy; ,8.9,201,1593859
-The Lord of the Rings: The Two Towers,2002,2002-12-18,Adventure; Drama; Fantasy; ,8.7,179,1440188
-Interstellar,2014,2014-11-07,Adventure; Drama; Sci-Fi; ,8.6,169,1430797
-Inglourious Basterds,2009,2009-08-21,Adventure; Drama; War; ,8.3,153,1219372
-Back to the Future,1985,1985-07-03,Adventure; Comedy; Sci-Fi; ,8.5,116,1015004
-WALL·E,2008,2008-06-27,Animation; Adventure; ,8.4,98,967917
-Finding Nemo,2003,2003-05-30,Animation; Adventure; Comedy; ,8.1,100,922080
-The Lion King,1994,1994-06-24,Animation; Adventure; Drama; ,8.5,88,910179
-Up,2009,2009-05-29,Animation; Adventure; Comedy; ,8.2,96,905044
-Toy Story,1995,1995-11-22,Animation; Adventure; Comedy; ,8.3,81,858215
-"Monsters, Inc.",2001,2001-11-02,Animation; Adventure; Comedy; ,8.0,92,789773
-The Hobbit: An Unexpected Journey,2012,2012-12-14,Adventure; Fantasy; ,7.8,169,743338
-Harry Potter and the Deathly Hallows: Part 2,2011,2011-07-15,Adventure; Drama; Fantasy; ,8.1,130,737642
-Toy Story 3,2010,2010-06-18,Animation; Adventure; Comedy; ,8.3,103,734948
-The Martian,2015,2015-10-02,Adventure; Drama; Sci-Fi; ,8.0,144,734923
-The Grand Budapest Hotel,2014,2014-03-28,Adventure; Comedy; Crime; ,8.1,99,681915
-Ratatouille,2007,2007-06-29,Animation; Adventure; Comedy; ,8.0,111,620375
-Harry Potter and the Sorcerer's Stone,2001,2001-11-16,Adventure; Fantasy; ,7.6,152,618786
-Spirited Away,2001,2003-03-28,Animation; Adventure; ,8.6,125,618550
-Shrek,2001,2001-05-18,Animation; Adventure; Comedy; ,7.8,90,596499
-The Hobbit: The Desolation of Smaug,2013,2013-12-13,Adventure; Fantasy; ,7.8,161,588294
-Inside Out,2015,2015-06-19,Animation; Adventure; Comedy; ,8.1,95,586923
-2001: A Space Odyssey,1968,1968-05-12,Adventure; Sci-Fi; ,8.3,149,582718
-Life of Pi,2012,2012-11-21,Adventure; Drama; Fantasy; ,7.9,127,567025
-Prometheus,2012,2012-06-08,Adventure; Mystery; Sci-Fi; ,7.0,124,557986
-Frozen,2013,2013-11-27,Animation; Adventure; Comedy; ,7.4,102,557241
-Into the Wild,2007,2007-10-19,Adventure; Biography; Drama; ,8.1,148,556447
-Jaws,1975,1975-06-20,Adventure; Thriller; ,8.0,124,531977
-Harry Potter and the Chamber of Secrets,2002,2002-11-15,Adventure; Fantasy; ,7.4,161,531256
-Harry Potter and the Prisoner of Azkaban,2004,2004-06-04,Adventure; Fantasy; ,7.9,142,528503
-Harry Potter and the Goblet of Fire,2005,2005-11-18,Adventure; Fantasy; ,7.7,157,526115
-Toy Story 2,1999,1999-11-24,Animation; Adventure; Comedy; ,7.9,92,511239
-Despicable Me,2010,2010-07-09,Animation; Comedy; ,7.6,95,488575
-Ice Age,2002,2002-03-15,Animation; Adventure; Comedy; ,7.5,81,428802
-Zootopia,2016,2016-03-04,Animation; Adventure; Comedy; ,8.0,108,417226
-Beauty and the Beast,1991,1991-11-22,Animation; Fantasy; ,8.0,84,408618
-Shrek 2,2004,2004-05-19,Animation; Adventure; Comedy; ,7.2,93,407523
-Kung Fu Panda,2008,2008-06-06,Animation; Action; Adventure; ,7.5,92,406720
-Big Hero 6,2014,2014-11-07,Animation; Action; Adventure; ,7.8,102,398088
-Tangled,2010,2010-11-24,Animation; Adventure; Comedy; ,7.7,100,393285
-Wreck-It Ralph,2012,2012-11-02,Animation; Adventure; Comedy; ,7.7,101,369053
-Brave,2012,2012-06-22,Animation; Adventure; Comedy; ,7.1,93,361913
-Despicable Me 2,2013,2013-07-03,Animation; Adventure; Comedy; ,7.3,98,361388
-Aladdin,1992,1992-11-25,Animation; Adventure; Comedy; ,8.0,90,360969
-Madagascar,2005,2005-05-27,Animation; Adventure; Comedy; ,6.9,86,355365
-Cars,2006,2006-06-09,Animation; Comedy; ,7.1,117,354991
-Coco,2017,2017-11-22,Animation; Adventure; ,8.4,105,345200
-Princess Mononoke,1997,1997-12-19,Animation; Adventure; Fantasy; ,8.4,134,326489
-Spider-Man: Into the Spider-Verse,2018,2018-12-14,Animation; Action; Adventure; ,8.4,117,326477
-The Lego Movie,2014,2014-02-07,Animation; Action; Adventure; ,7.7,100,317860
-Howl's Moving Castle,2004,2005-06-17,Animation; Adventure; ,8.2,119,313971
-Monsters University,2013,2013-06-21,Animation; Adventure; Comedy; ,7.3,104,311892
-The Simpsons Movie,2007,2007-07-27,Animation; Adventure; Comedy; ,7.3,87,303713
-How to Train Your Dragon 2,2014,2014-06-13,Animation; Action; Adventure; ,7.8,102,296544
-The Nightmare Before Christmas,1993,1993-10-29,Animation; Fantasy; ,8.0,76,283685
-My Neighbor Totoro,1988,1990-07-13,Animation; Fantasy; ,8.2,86,273795
-Shrek the Third,2007,2007-05-18,Animation; Adventure; Comedy; ,6.1,93,272620
-A Bug's Life,1998,1998-11-25,Animation; Adventure; Comedy; ,7.2,95,259956
-Moana,2016,2016-11-23,Animation; Adventure; Comedy; ,7.6,107,256243
-Ice Age: The Meltdown,2006,2006-03-31,Animation; Adventure; Comedy; ,6.8,91,249504
-Kung Fu Panda 2,2011,2011-05-26,Animation; Action; Adventure; ,7.2,90,245225
-Mulan,1998,1998-06-19,Animation; Adventure; ,7.6,88,242128
-Incredibles 2,2018,2018-06-15,Animation; Action; Adventure; ,7.6,118,236249
-Corpse Bride,2005,2005-09-23,Animation; Drama; ,7.3,77,235900
-Finding Dory,2016,2016-06-17,Animation; Adventure; Comedy; ,7.3,97,231496
-The Little Mermaid,1989,1989-11-17,Animation; Fantasy; ,7.6,83,229928
-Rango,2011,2011-03-04,Animation; Adventure; Comedy; ,7.2,107,229568
-Grave of the Fireflies,1988,1989-07-26,Animation; Drama; War; ,8.5,89,221955
-Megamind,2010,2010-11-05,Animation; Action; Comedy; ,7.2,95,221204
-Ice Age: Dawn of the Dinosaurs,2009,2009-07-01,Animation; Adventure; Comedy; ,6.9,94,217346
-Hotel Transylvania,2012,2012-09-28,Animation; Comedy; ,7.1,91,217079
-The Adventures of Tintin,2011,2011-12-21,Animation; Action; Adventure; ,7.3,107,212112
-Minions,2015,2015-07-10,Animation; Adventure; Comedy; ,6.4,91,206432
-Rio,2011,2011-04-15,Animation; Adventure; Comedy; ,6.9,96,201298
-Cloudy with a Chance of Meatballs,2009,2009-09-18,Animation; Adventure; Comedy; ,6.9,90,198668
-Hercules,1997,1997-06-27,Animation; Adventure; Comedy; ,7.3,93,198490
-Madagascar: Escape 2 Africa,2008,2008-11-07,Animation; Adventure; Comedy; ,6.6,89,198485
-Tarzan,1999,1999-06-18,Animation; Adventure; ,7.3,88,196820
-The Lion King,2019,2019-07-19,Animation; Adventure; Drama; ,6.9,118,195404
-Fantastic Mr. Fox,2009,2009-11-25,Animation; Adventure; Comedy; ,7.9,87,191094
-Coraline,2009,2009-02-06,Animation; Drama; ,7.7,100,189260
-"South Park: Bigger, Longer & Uncut",1999,1999-06-30,Animation; Comedy; Fantasy; ,7.7,81,189125
-Ice Age: Continental Drift,2012,2012-07-13,Animation; Adventure; Comedy; ,6.6,88,186465
-The Croods,2013,2013-03-22,Animation; Action; Adventure; ,7.2,98,185579
-Bolt,2008,2008-11-21,Animation; Adventure; Comedy; ,6.8,96,184675
-Toy Story 4,2019,2019-06-21,Animation; Adventure; Comedy; ,7.8,100,184363
-Shrek Forever After,2010,2010-05-21,Animation; Adventure; Comedy; ,6.3,93,179074
-The Secret Life of Pets,2016,2016-07-08,Animation; Adventure; Comedy; ,6.5,87,178058
-Who Framed Roger Rabbit,1988,1988-06-22,Animation; Adventure; Comedy; ,7.7,104,177334
-Snow White and the Seven Dwarfs,1937,1938-02-04,Animation; Fantasy; ,7.6,83,175923
-The Emperor's New Groove,2000,2000-12-15,Animation; Adventure; Comedy; ,7.3,78,173677
-Your Name.,2016,2017-04-07,Animation; Drama; Fantasy; ,8.4,106,173204
-Enchanted,2007,2007-11-21,Animation; Comedy; ,7.0,107,172996
-Chicken Run,2000,2000-06-23,Animation; Adventure; Comedy; ,7.0,84,172974
-Sausage Party,2016,2016-08-12,Animation; Adventure; Comedy; ,6.1,89,170630
-The Iron Giant,1999,1999-08-06,Animation; Action; Adventure; ,8.0,86,167070
-The Polar Express,2004,2004-11-10,Animation; Adventure; Comedy; ,6.6,100,167034
-Happy Feet,2006,2006-11-17,Animation; Adventure; Comedy; ,6.4,108,165838
-Pocahontas,1995,1995-06-23,Animation; Adventure; Drama; ,6.7,81,164719
-Shark Tale,2004,2004-10-01,Animation; Adventure; Comedy; ,6.0,90,162954
-Lilo & Stitch,2002,2002-06-21,Animation; Adventure; Comedy; ,7.2,85,162337
-The Jungle Book,1967,1967-10-18,Animation; Adventure; ,7.6,78,161262
-Mary and Max,2009,2009-04-09,Animation; Comedy; Drama; ,8.1,92,159951
-Beowulf,2007,2007-11-16,Animation; Action; Adventure; ,6.2,115,159254
-Madagascar 3: Europe's Most Wanted,2012,2012-06-08,Animation; Adventure; Comedy; ,6.8,93,157811
-Akira,1988,1988-07-16,Animation; Drama; Sci-Fi; ,8.0,124,157623
-Space Jam,1996,1996-11-15,Animation; Adventure; Comedy; ,6.4,88,157470
-Over the Hedge,2006,2006-05-19,Animation; Adventure; Comedy; ,6.7,83,155579
-Cars 2,2011,2011-06-24,Animation; Adventure; Comedy; ,6.1,106,153400
-Rise of the Guardians,2012,2012-11-21,Animation; Action; Adventure; ,7.3,97,152650
-One Hundred and One Dalmatians,1961,1961-01-25,Animation; Adventure; Comedy; ,7.2,79,148001
-Antz,1998,1998-10-02,Animation; Adventure; Comedy; ,6.5,83,143835
-Castle in the Sky,1986,1986-08-02,Animation; Adventure; Drama; ,8.0,125,143574
-Monsters vs. Aliens,2009,2009-03-27,Animation; Action; Adventure; ,6.4,94,143391
-Nausicaä of the Valley of the Wind,1984,1987-11-25,Animation; Adventure; Fantasy; ,8.1,117,142815
-Cinderella,1950,1950-03-04,Animation; Fantasy; ,7.3,74,141190
-Puss in Boots,2011,2011-10-28,Animation; Adventure; Comedy; ,6.6,90,140720
-Schindler's List,1993,1994-02-04,Biography; Drama; History; ,8.9,195,1173324
-The Wolf of Wall Street,2013,2013-12-25,Biography; Crime; Drama; ,8.2,,1128148
-Goodfellas,1990,1990-09-21,Biography; Crime; Drama; ,8.7,146,982784
-Braveheart,1995,1995-05-24,Biography; Drama; History; ,8.3,178,936728
-A Beautiful Mind,2001,2002-01-04,Biography; Drama; ,8.2,135,821709
-Catch Me If You Can,2002,2002-12-25,Biography; Crime; Drama; ,8.1,141,790873
-The Intouchables,2011,2012-07-13,Biography; Comedy; Drama; ,8.5,112,731145
-The Pianist,2002,2003-03-28,Biography; Drama; Music; ,8.5,150,701576
-The Imitation Game,2014,2014-12-25,Biography; Drama; Thriller; ,8.0,114,662291
-The King's Speech,2010,2010-12-25,Biography; Drama; History; ,8.0,118,624817
-12 Years a Slave,2013,2013-11-08,Biography; Drama; History; ,8.1,134,619715
-The Social Network,2010,2010-10-01,Biography; Drama; ,7.7,,604248
-Argo,2012,2012-10-12,Biography; Drama; Thriller; ,7.7,,560352
-The Pursuit of Happyness,2006,2006-12-15,Biography; Drama; ,8.0,117,433708
-Bohemian Rhapsody,2018,2018-11-02,Biography; Drama; Music; ,8.0,134,428335
-Dallas Buyers Club,2013,2013-11-22,Biography; Drama; ,8.0,117,427034
-American Sniper,2014,2015-01-16,Action; Biography; Drama; ,7.3,133,426309
-Rush,2013,2013-09-27,Biography; Drama; Sport; ,8.1,123,419377
-Hacksaw Ridge,2016,2016-11-04,Biography; Drama; History; ,8.1,139,412911
-Captain Phillips,2013,2013-10-11,Biography; Crime; Drama; ,7.8,134,409137
-Spotlight,2015,2015-11-20,Biography; Crime; Drama; ,8.1,129,401931
-The Theory of Everything,2014,2014-11-26,Biography; Drama; Romance; ,7.7,123,387358
-American Gangster,2007,2007-11-02,Biography; Crime; Drama; ,7.8,157,381835
-Amadeus,1984,1984-09-19,Biography; Drama; History; ,8.3,160,358503
-Moneyball,2011,2011-09-23,Biography; Drama; Sport; ,7.6,133,350546
-The Big Short,2015,2015-12-23,Biography; Comedy; Drama; ,7.8,130,344612
-127 Hours,2010,2011-01-28,Biography; Drama; ,7.6,94,340395
-Green Book,2018,2018-11-16,Biography; Comedy; Drama; ,8.2,130,332263
-The Fighter,2010,2010-12-17,Biography; Drama; Sport; ,7.8,116,332120
-Hotel Rwanda,2004,2005-02-04,Biography; Drama; History; ,8.1,121,327493
-The Aviator,2004,2004-12-25,Biography; Drama; ,7.5,170,325104
-Downfall,2004,2005-04-08,Biography; Drama; History; ,8.2,156,322655
-Raging Bull,1980,1980-12-19,Biography; Drama; Sport; ,8.2,129,311225
-The Irishman,2019,2019-11-27,Biography; Crime; Drama; ,7.9,209,297140
-The Blind Side,2009,2009-11-20,Biography; Drama; Sport; ,7.6,129,283748
-Public Enemies,2009,2009-07-01,Biography; Crime; Drama; ,7.0,140,275842
-Donnie Brasco,1997,1997-02-28,Biography; Crime; Drama; ,7.7,127,269135
-Lone Survivor,2013,2014-01-10,Action; Biography; Drama; ,7.5,121,260009
-Lawrence of Arabia,1962,1962-12-11,Adventure; Biography; Drama; ,8.3,228,259310
-Lincoln,2012,2012-11-16,Biography; Drama; History; ,7.3,150,239112
-Blow,2001,2001-04-06,Biography; Crime; Drama; ,7.6,124,235138
-Changeling,2008,2008-10-31,Biography; Crime; Drama; ,7.7,141,232041
-Ford v Ferrari,2019,2019-11-15,Action; Biography; Drama; ,8.1,152,232004
-Dog Day Afternoon,1975,1975-12-25,Biography; Crime; Drama; ,8.0,125,229265
-Walk the Line,2005,2005-11-18,Biography; Drama; Music; ,7.8,136,227982
-Sully,2016,2016-09-09,Biography; Drama; ,7.4,96,226801
-The Greatest Showman,2017,2017-12-20,Biography; Drama; ,7.6,105,222573
-Gandhi,1982,1983-02-25,Biography; Drama; History; ,8.0,191,214287
-The Elephant Man,1980,1980-10-10,Biography; Drama; ,8.1,124,212720
-Ip Man,2008,2008-12-12,Action; Biography; Drama; ,8.0,106,206556
-Lion,2016,2017-01-06,Biography; Drama; ,8.0,118,204274
-BlacKkKlansman,2018,2018-08-10,Biography; Crime; Drama; ,7.5,135,199225
-Butch Cassidy and the Sundance Kid,1969,1969-09-24,Biography; Crime; Drama; ,8.0,110,198267
-The Sound of Music,1965,1965-04-01,Biography; Drama; ,8.0,172,197238
-Finding Neverland,2004,2004-12-17,Biography; Drama; ,7.7,106,195635
-Remember the Titans,2000,2000-09-29,Biography; Drama; Sport; ,7.8,113,193009
-Everest,2015,2015-09-25,Action; Adventure; Biography; ,7.1,121,191623
-Hidden Figures,2016,2017-01-06,Biography; Drama; History; ,7.8,127,191159
-Straight Outta Compton,2015,2015-08-14,Biography; Drama; History; ,7.9,147,174973
-Cinderella Man,2005,2005-06-03,Biography; Drama; History; ,8.0,144,172730
-Jarhead,2005,2005-11-04,Action; Biography; Drama; ,7.0,125,172053
-The Last King of Scotland,2006,2007-01-19,Biography; Drama; History; ,7.7,123,172012
-"I, Tonya",2017,2018-01-19,Biography; Comedy; Drama; ,7.5,119,170713
-War Dogs,2016,2016-08-19,Biography; Comedy; Crime; ,7.1,114,170314
-Erin Brockovich,2000,2000-03-17,Biography; Drama; ,7.3,131,169430
-The Assassination of Jesse James by the Coward Robert Ford,2007,2007-10-19,Biography; Crime; Drama; ,7.5,160,164772
-Black Mass,2015,2015-09-18,Biography; Crime; Drama; ,6.9,123,163703
-Darkest Hour,2017,2017-12-22,Biography; Drama; ,7.4,125,163237
-Ed Wood,1994,1994-10-07,Biography; Comedy; Drama; ,7.8,127,162359
-Milk,2008,2009-01-30,Biography; Drama; ,7.5,128,161721
-The Favourite,2018,2018-12-21,Biography; Comedy; Drama; ,7.5,119,160787
-Alexander,2004,2004-11-24,Action; Biography; Drama; ,5.6,175,159847
-"Girl, Interrupted",1999,2000-01-14,Biography; Drama; ,7.3,127,159130
-The Danish Girl,2015,2016-01-22,Biography; Drama; Romance; ,7.1,119,158324
-The Insider,1999,1999-11-05,Biography; Drama; Thriller; ,7.8,157,156188
-First Man,2018,2018-10-12,Biography; Drama; History; ,7.3,141,155735
-Legend,2015,2015-11-20,Biography; Crime; Drama; ,6.9,132,152203
-American Made,2017,2017-09-29,Action; Biography; Comedy; ,7.2,115,151699
-In the Name of the Father,1993,1994-02-25,Biography; Drama; ,8.1,133,151362
-Steve Jobs,2015,2015-10-23,Biography; Drama; ,7.2,122,149109
-Saving Mr. Banks,2013,2013-12-20,Biography; Comedy; Drama; ,7.5,125,148154
-Invictus,2009,2009-12-11,Biography; Drama; History; ,7.3,134,146805
-Dangal,2016,2016-12-21,Action; Biography; Drama; ,8.4,161,144657
-Unbroken,2014,2014-12-25,Biography; Drama; Sport; ,7.2,137,141388
-Ray,2004,2004-10-29,Biography; Drama; Music; ,7.7,152,135305
-Monster,2003,2004-01-30,Biography; Crime; Drama; ,7.3,109,131859
-Foxcatcher,2014,2015-01-16,Biography; Drama; Sport; ,7.0,134,131687
-The Disaster Artist,2017,2017-12-08,Biography; Comedy; Drama; ,7.4,104,131444
-Molly's Game,2017,2018-01-05,Biography; Crime; Drama; ,7.4,140,130955
-Snowden,2016,2016-09-16,Biography; Crime; Drama; ,7.3,134,130626
-Joy,2015,2015-12-25,Biography; Drama; ,6.6,124,124767
-Seven Years in Tibet,1997,1997-10-10,Adventure; Biography; Drama; ,7.1,136,123376
-"Good Morning, Vietnam",1987,1988-01-15,Biography; Comedy; Drama; ,7.3,121,122643
-Capote,2005,2006-02-03,Biography; Crime; Drama; ,7.3,114,122624
-Coach Carter,2005,2005-01-14,Biography; Drama; Sport; ,7.3,136,122245
-Tombstone,1993,1993-12-25,Action; Biography; Drama; ,7.8,130,122041
-Man on the Moon,1999,1999-12-22,Biography; Comedy; Drama; ,7.4,118,121652
-Spartacus,1960,1960-11-17,Adventure; Biography; Drama; ,7.9,197,120924
-Rocketman,2019,2019-05-31,Biography; Drama; Music; ,7.3,121,120434
-Guardians of the Galaxy,2014,2014-08-01,Comedy; ,8.0,121,1017578
-Back to the Future,1985,1985-07-03,Comedy; ,8.5,116,1015437
-Finding Nemo,2003,2003-05-30,Comedy; ,8.1,100,922237
-Up,2009,2009-05-29,Comedy; ,8.2,96,905205
-The Truman Show,1998,1998-06-05,Comedy; ,8.1,103,901368
-Deadpool,2016,2016-02-12,Comedy; ,8.0,108,876235
-Toy Story,1995,1995-11-22,Comedy; ,8.3,81,858390
-"Monsters, Inc.",2001,2001-11-02,Comedy; ,8.0,92,789914
-Snatch,2000,2001-01-19,Comedy; ,8.3,102,761777
-Toy Story 3,2010,2010-06-18,Comedy; ,8.3,103,735087
-The Intouchables,2011,2012-07-13,Comedy; ,8.5,112,731286
-The Big Lebowski,1998,1998-03-06,Comedy; ,8.1,117,706193
-The Hangover,2009,2009-06-05,Comedy; ,7.7,100,702442
-Amélie,2001,2002-02-08,Comedy; Romance; ,8.3,122,686825
-The Grand Budapest Hotel,2014,2014-03-28,Comedy; ,8.1,99,682068
-Silver Linings Playbook,2012,2012-12-25,Comedy; Romance; ,7.7,122,648078
-Ratatouille,2007,2007-06-29,Comedy; ,8.0,111,620481
-Life Is Beautiful,1997,1999-02-12,Comedy; Romance; ,8.6,116,600633
-Shrek,2001,2001-05-18,Comedy; ,7.8,90,596584
-Inside Out,2015,2015-06-19,Comedy; ,8.1,95,587091
-Kingsman: The Secret Service,2014,2015-02-13,Comedy; ,7.7,129,576034
-Groundhog Day,1993,1993-02-12,Comedy; Romance; ,8.0,101,566305
-Birdman or (The Unexpected Virtue of Ignorance),2014,2014-11-14,Comedy; ,7.7,119,561924
-Ted,2012,2012-06-29,Comedy; ,6.9,106,559723
-Thor: Ragnarok,2017,2017-11-03,Comedy; ,7.9,130,557789
-Frozen,2013,2013-11-27,Comedy; ,7.4,102,557363
-Ant-Man,2015,2015-07-17,Comedy; ,7.3,117,549225
-Guardians of the Galaxy Vol. 2,2017,2017-05-05,Comedy; ,7.6,136,544505
-"Lock, Stock and Two Smoking Barrels",1998,1998-08-28,Comedy; ,8.2,107,521113
-Kick-Ass,2010,2010-04-16,Comedy; ,7.6,117,515837
-Toy Story 2,1999,1999-11-24,Comedy; ,7.9,92,511333
-Superbad,2007,2007-08-17,Comedy; ,7.6,113,508483
-Zombieland,2009,2009-10-02,Comedy; ,7.6,88,507445
-Men in Black,1997,1997-07-02,Comedy; ,7.3,98,504085
-21 Jump Street,2012,2012-03-16,Comedy; ,7.2,109,499686
-Shaun of the Dead,2004,2004-09-24,Comedy; ,7.9,99,499316
-Despicable Me,2010,2010-07-09,Comedy; ,7.6,95,488655
-Monty Python and the Holy Grail,1975,1979-12-06,Comedy; ,8.2,91,488567
-Once Upon a Time... in Hollywood,2019,2019-07-26,Comedy; ,7.7,161,488535
-La La Land,2016,2016-12-25,Comedy; ,8.0,128,483017
-Juno,2007,2007-12-25,Comedy; ,7.4,96,481757
-American Psycho,2000,2000-04-14,Comedy; ,7.6,101,468059
-Back to the Future Part II,1989,1989-11-22,Comedy; ,7.8,108,462540
-500 Days of Summer,2009,2009-08-07,Comedy; Romance; ,7.7,95,461834
-"Crazy, Stupid, Love",2011,2011-07-29,Comedy; Romance; ,7.4,118,460023
-Deadpool 2,2018,2018-05-18,Comedy; ,7.7,119,455361
-The Hangover Part II,2011,2011-05-26,Comedy; ,6.4,102,453967
-Hot Fuzz,2007,2007-04-20,Comedy; ,7.8,121,450327
-Home Alone,1990,1990-11-16,Comedy; ,7.6,103,448866
-Parasite,2019,2019-11-08,Comedy; ,8.6,132,443010
-Mr. & Mrs. Smith,2005,2005-06-10,Comedy; ,6.5,,439831
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1964-01-29,Comedy; ,8.4,95,438092
-Little Miss Sunshine,2006,2006-08-18,Comedy; ,7.8,101,429216
-Ice Age,2002,2002-03-15,Comedy; ,7.5,81,428871
-Zootopia,2016,2016-03-04,Comedy; ,8.0,108,417325
-Horrible Bosses,2011,2011-07-08,Comedy; ,6.9,98,413945
-Love Actually,2003,2003-11-14,Comedy; Romance; ,7.6,135,413896
-Charlie and the Chocolate Factory,2005,2005-07-15,Comedy; ,6.6,115,413780
-Shrek 2,2004,2004-05-19,Comedy; ,7.2,93,407590
-Dead Poets Society,1989,1989-06-09,Comedy; ,8.1,128,407018
-"Three Billboards Outside Ebbing, Missouri",2017,2017-12-01,Comedy; ,8.2,115,404557
-Lost in Translation,2003,2003-10-03,Comedy; ,7.7,102,399082
-Tangled,2010,2010-11-24,Comedy; ,7.7,100,393363
-The Terminal,2004,2004-06-18,Comedy; Romance; ,7.4,128,393039
-We're the Millers,2013,2013-08-07,Comedy; ,7.0,110,392433
-Back to the Future Part III,1990,1990-05-25,Comedy; ,7.4,118,389841
-The 40-Year-Old Virgin,2005,2005-08-19,Comedy; Romance; ,7.1,116,384072
-In Bruges,2008,2008-02-29,Comedy; ,7.9,107,381466
-Midnight in Paris,2011,2011-06-10,Comedy; Romance; ,7.7,94,376680
-This Is the End,2013,2013-06-12,Comedy; ,6.6,107,376448
-Tropic Thunder,2008,2008-08-13,Comedy; ,7.0,107,369967
-Wreck-It Ralph,2012,2012-11-02,Comedy; ,7.7,101,369121
-American Pie,1999,1999-07-09,Comedy; ,7.0,95,368148
-Scott Pilgrim vs. the World,2010,2010-08-13,Comedy; ,7.5,112,364286
-Bruce Almighty,2003,2003-05-23,Comedy; ,6.8,101,363633
-Brave,2012,2012-06-22,Comedy; ,7.1,93,361984
-Despicable Me 2,2013,2013-07-03,Comedy; ,7.3,98,361446
-Aladdin,1992,1992-11-25,Comedy; ,8.0,90,361080
-The Devil Wears Prada,2006,2006-06-30,Comedy; ,6.9,109,359709
-Monty Python's Life of Brian,1979,1979-08-17,Comedy; ,8.1,94,356682
-Madagascar,2005,2005-05-27,Comedy; ,6.9,86,355425
-Cars,2006,2006-06-09,Comedy; ,7.1,117,355079
-Easy A,2010,2010-09-17,Comedy; Romance; ,7.0,92,348230
-Dumb and Dumber,1994,1994-12-16,Comedy; ,7.3,107,345454
-Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,2006-11-03,Comedy; ,7.3,84,345007
-Ghostbusters,1984,1984-06-08,Comedy; ,7.8,105,344766
-The Big Short,2015,2015-12-23,Comedy; ,7.8,130,344748
-The Breakfast Club,1985,1985-02-15,Comedy; ,7.9,97,344566
-Knocked Up,2007,2007-06-01,Comedy; Romance; ,6.9,129,343791
-Knives Out,2019,2019-11-27,Comedy; ,7.9,130,342300
-22 Jump Street,2014,2014-06-13,Comedy; ,7.0,112,337286
-The Mask,1994,1994-07-29,Comedy; ,6.9,101,335546
-Men in Black II,2002,2002-07-03,Comedy; ,6.2,88,335021
-Green Book,2018,2018-11-16,Comedy; ,8.2,130,332517
-Friends with Benefits,2011,2011-07-22,Comedy; Romance; ,6.5,109,332366
-3 Idiots,2009,2009-12-25,Comedy; ,8.4,170,328127
-Yes Man,2008,2008-12-19,Comedy; Romance; ,6.8,104,327950
-Men in Black 3,2012,2012-05-25,Comedy; ,6.8,106,327676
-Wedding Crashers,2005,2005-07-15,Comedy; Romance; ,6.9,119,326314
-Anchorman: The Legend of Ron Burgundy,2004,2004-07-09,Comedy; ,7.2,94,322831
-Pulp Fiction,1994,1994-10-14,Crime; Drama; ,8.9,154,1767445
-The Godfather,1972,1972-03-24,Crime; Drama; ,9.2,175,1558661
-Se7en,1995,1995-09-22,Crime; Drama; Mystery; ,8.6,127,1390231
-The Silence of the Lambs,1991,1991-02-14,Crime; Drama; Thriller; ,8.6,118,1223451
-The Departed,2006,2006-10-06,Crime; Drama; Thriller; ,8.5,151,1150788
-The Green Mile,1999,1999-12-10,Crime; Drama; Fantasy; ,8.6,189,1101707
-The Godfather: Part II,1974,1974-12-18,Crime; Drama; ,9.0,202,1089268
-The Usual Suspects,1995,1995-08-16,Crime; Mystery; Thriller; ,8.5,106,961807
-Reservoir Dogs,1992,1992-09-02,Crime; Drama; Thriller; ,8.3,99,889962
-No Country for Old Men,2007,2007-11-21,Crime; Drama; Thriller; ,8.1,122,823136
-Joker,2019,2019-10-04,Crime; Drama; Thriller; ,8.5,122,822351
-Snatch,2000,2001-01-19,Comedy; Crime; ,8.3,102,761662
-A Clockwork Orange,1971,1972-02-02,Crime; Drama; Sci-Fi; ,8.3,136,735080
-Sin City,2005,2005-04-01,Crime; Thriller; ,8.0,124,731417
-Scarface,1983,1983-12-09,Crime; Drama; ,8.3,170,715023
-The Big Lebowski,1998,1998-03-06,Comedy; Crime; Sport; ,8.1,117,705941
-Taxi Driver,1976,1976-02-09,Crime; Drama; ,8.3,114,696631
-City of God,2002,2004-02-13,Crime; Drama; ,8.6,130,681961
-12 Angry Men,1957,1957-04-10,Crime; Drama; ,8.9,96,661761
-Fargo,1996,1996-04-05,Crime; Drama; Thriller; ,8.1,98,596614
-Now You See Me,2013,2013-05-31,Crime; Mystery; Thriller; ,7.3,115,581643
-Prisoners,2013,2013-09-20,Crime; Drama; Mystery; ,8.1,153,575034
-Heat,1995,1995-12-15,Crime; Drama; Thriller; ,8.2,170,557728
-Drive,2011,2011-09-16,Crime; Drama; ,7.8,100,554576
-L.A. Confidential,1997,1997-09-19,Crime; Drama; Mystery; ,8.2,138,518387
-Ocean's Eleven,2001,2001-12-07,Crime; Thriller; ,7.7,116,500919
-The Hateful Eight,2015,2015-12-30,Crime; Drama; Mystery; ,7.8,168,493749
-American Psycho,2000,2000-04-14,Comedy; Crime; Drama; ,7.6,101,467924
-Casino,1995,1995-11-22,Crime; Drama; ,8.2,178,448054
-Nightcrawler,2014,2014-10-31,Crime; Drama; Thriller; ,7.9,117,443660
-Mr. & Mrs. Smith,2005,2005-06-10,Action; Comedy; Crime; ,6.5,,439781
-American Hustle,2013,2013-12-20,Crime; Drama; ,7.2,138,438125
-Zodiac,2007,2007-03-02,Crime; Drama; Mystery; ,7.7,157,436889
-Baby Driver,2017,2017-06-28,Action; Crime; Drama; ,7.6,113,416067
-Horrible Bosses,2011,2011-07-08,Comedy; Crime; ,6.9,98,413881
-Crash,2004,2005-05-06,Crime; Drama; Thriller; ,7.7,112,413651
-Mystic River,2003,2003-10-15,Crime; Drama; Mystery; ,7.9,138,408998
-The Girl with the Dragon Tattoo,2011,2011-12-21,Crime; Drama; Mystery; ,7.8,158,408988
-"Three Billboards Outside Ebbing, Missouri",2017,2017-12-01,Comedy; Crime; Drama; ,8.2,115,404402
-Gangs of New York,2002,2002-12-20,Crime; Drama; ,7.5,167,394333
-We're the Millers,2013,2013-08-07,Comedy; Crime; ,7.0,110,392362
-In Bruges,2008,2008-02-29,Comedy; Crime; Drama; ,7.9,107,381417
-Training Day,2001,2001-10-05,Crime; Drama; Thriller; ,7.7,122,378412
-Sicario,2015,2015-10-02,Action; Crime; Drama; ,7.6,121,356962
-Wanted,2008,2008-06-27,Action; Crime; Fantasy; ,6.7,110,353620
-Collateral,2004,2004-08-06,Crime; Drama; Thriller; ,7.5,,350028
-Ocean's Twelve,2004,2004-12-10,Crime; Thriller; ,6.5,125,349317
-The Godfather: Part III,1990,1990-12-25,Crime; Drama; ,7.6,162,347672
-John Wick: Chapter 2,2017,2017-02-10,Action; Crime; Thriller; ,7.5,122,347579
-Fast Five,2011,2011-04-29,Action; Adventure; Crime; ,7.3,130,345450
-Face_Off,1997,1997-06-27,Action; Crime; Sci-Fi; ,7.3,138,341451
-Knives Out,2019,2019-11-27,Comedy; Crime; Drama; ,7.9,130,341415
-The Town,2010,2010-09-17,Crime; Drama; Thriller; ,7.5,125,341073
-The Fast and the Furious,2001,2001-06-22,Action; Crime; Thriller; ,6.8,106,338840
-22 Jump Street,2014,2014-06-13,Action; Comedy; Crime; ,7.0,112,337234
-The Italian Job,2003,2003-05-30,Action; Crime; Thriller; ,7.0,111,335566
-The Mask,1994,1994-07-29,Action; Comedy; Crime; ,6.9,101,335452
-Inside Man,2006,2006-03-24,Crime; Drama; Mystery; ,7.6,129,329265
-The Equalizer,2014,2014-09-26,Action; Crime; Thriller; ,7.2,132,322279
-Man on Fire,2004,2004-04-23,Action; Crime; Drama; ,7.7,146,322039
-Ocean's Thirteen,2007,2007-06-08,Action; Crime; Thriller; ,6.9,122,312811
-Pineapple Express,2008,2008-08-06,Action; Comedy; Crime; ,6.9,111,308854
-Jackie Brown,1997,1997-12-25,Crime; Drama; Thriller; ,7.5,154,306877
-Burn After Reading,2008,2008-09-12,Comedy; Crime; Drama; ,7.0,96,301462
-Once Upon a Time in America,1984,1984-06-01,Crime; Drama; ,8.4,229,299388
-Lucky Number Slevin,2006,2006-04-07,Crime; Drama; Mystery; ,7.7,110,295883
-Home Alone 2: Lost in New York,1992,1992-11-20,Adventure; Comedy; Crime; ,6.8,,289368
-Lord of War,2005,2005-09-16,Action; Crime; Drama; ,7.6,122,288544
-Deja Vu,2006,2006-11-22,Action; Crime; Sci-Fi; ,7.0,126,287330
-To Kill a Mockingbird,1962,1963-03-16,Crime; Drama; ,8.2,129,287100
-The Hangover Part III,2013,2013-05-23,Comedy; Crime; ,5.8,100,286488
-RED,2010,2010-10-15,Action; Comedy; Crime; ,7.0,111,282437
-3:10 to Yuma,2007,2007-09-07,Action; Crime; Drama; ,7.7,122,281948
-The Transporter,2002,2002-10-11,Action; Crime; Thriller; ,6.8,92,279981
-From Dusk Till Dawn,1996,1996-01-19,Action; Crime; Horror; ,7.2,108,279303
-"O Brother, Where Art Thou?",2000,2001-02-02,Adventure; Comedy; Crime; ,7.7,107,277150
-The Untouchables,1987,1987-06-03,Crime; Drama; Thriller; ,7.9,119,270871
-Con Air,1997,1997-06-06,Action; Crime; Thriller; ,6.9,115,269643
-Batman Returns,1992,1992-06-19,Action; Crime; Fantasy; ,7.0,126,267156
-The Nice Guys,2016,2016-05-20,Action; Comedy; Crime; ,7.4,116,266631
-Law Abiding Citizen,2009,2009-10-16,Action; Crime; Drama; ,7.4,109,265136
-The Shawshank Redemption,1994,1994-10-14,Drama; ,9.3,142,2258845
-Fight Club,1999,1999-10-15,Drama; ,8.8,139,1794454
-Forrest Gump,1994,1994-07-06,Drama; Romance; ,8.8,142,1741097
-Django Unchained,2012,2012-12-25,Drama; Western; ,8.4,165,1307059
-Saving Private Ryan,1998,1998-07-24,Drama; War; ,8.6,169,1194194
-The Prestige,2006,2006-10-20,Drama; Mystery; Sci-Fi; ,8.5,130,1144513
-American Beauty,1999,1999-10-01,Drama; ,8.3,122,1043085
-Titanic,1997,1997-12-19,Drama; Romance; ,7.8,194,1017237
-American History X,1998,1998-11-20,Drama; ,8.5,119,1007450
-The Truman Show,1998,1998-06-05,Comedy; Drama; Sci-Fi; ,8.1,103,901062
-The Sixth Sense,1999,1999-08-06,Drama; Mystery; Thriller; ,8.1,107,888920
-One Flew Over the Cuckoo's Nest,1975,1975-11-19,Drama; ,8.7,133,884818
-Eternal Sunshine of the Spotless Mind,2004,2004-03-19,Drama; Romance; Sci-Fi; ,8.3,108,882495
-The Shining,1980,1980-06-13,Drama; Horror; ,8.4,146,860290
-Good Will Hunting,1997,1998-01-09,Drama; Romance; ,8.3,126,830139
-Gone Girl,2014,2014-10-03,Drama; Mystery; Thriller; ,8.1,149,825450
-Slumdog Millionaire,2008,2008-12-25,Drama; Romance; ,8.0,,782675
-Gravity,2013,2013-10-04,Drama; Sci-Fi; Thriller; ,7.7,91,751305
-Requiem for a Dream,2000,2000-12-15,Drama; ,8.3,102,743198
-Donnie Darko,2001,2002-01-30,Drama; Mystery; Sci-Fi; ,8.0,113,724910
-Gran Torino,2008,2009-01-09,Drama; ,8.1,116,703113
-Whiplash,2014,2015-02-20,Drama; Music; ,8.5,106,683157
-Black Swan,2010,2010-12-17,Drama; Thriller; ,8.0,108,682523
-Full Metal Jacket,1987,1987-07-10,Drama; War; ,8.3,116,652861
-Silver Linings Playbook,2012,2012-12-25,Comedy; Drama; Romance; ,7.7,122,647995
-Trainspotting,1996,1996-08-09,Drama; ,8.1,93,620080
-Million Dollar Baby,2004,2005-01-28,Drama; Sport; ,8.1,132,618903
-Pan's Labyrinth,2006,2007-01-19,Drama; Fantasy; War; ,8.2,118,603269
-Life Is Beautiful,1997,1999-02-12,Comedy; Drama; Romance; ,8.6,116,600493
-Apocalypse Now,1979,1979-08-15,Drama; Mystery; War; ,8.4,147,585989
-The Curious Case of Benjamin Button,2008,2008-12-25,Drama; Fantasy; Romance; ,7.8,166,572217
-Arrival,2016,2016-11-11,Drama; Mystery; Sci-Fi; ,7.9,116,569760
-Birdman or (The Unexpected Virtue of Ignorance),2014,2014-11-14,Comedy; Drama; ,7.7,119,561800
-Her,2013,2014-01-10,Drama; Romance; Sci-Fi; ,8.0,126,518282
-Cast Away,2000,2000-12-22,Adventure; Drama; Romance; ,7.8,143,506369
-Casablanca,1942,1943-01-23,Drama; Romance; War; ,8.5,102,506224
-The Notebook,2004,2004-06-25,Drama; Romance; ,7.8,123,503872
-Rocky,1976,1976-12-03,Drama; Sport; ,8.1,,502746
-There Will Be Blood,2007,2008-01-25,Drama; ,8.2,158,498312
-Once Upon a Time... in Hollywood,2019,2019-07-26,Comedy; Drama; ,7.7,161,488015
-Blood Diamond,2006,2006-12-08,Adventure; Drama; Thriller; ,8.0,143,486637
-Groundhog Day,1993,1993-02-12,Comedy; Fantasy; Romance; ,8.0,101,566223
-Zombieland,2009,2009-10-02,Adventure; Comedy; Fantasy; ,7.6,88,507361
-Monty Python and the Holy Grail,1975,1979-12-06,Adventure; Comedy; Fantasy; ,8.2,91,488482
-Pirates of the Caribbean: On Stranger Tides,2011,2011-05-20,Action; Adventure; Fantasy; ,6.6,136,469914
-The Hobbit: The Battle of the Five Armies,2014,2014-12-17,Adventure; Fantasy; ,7.4,144,461617
-Harry Potter and the Deathly Hallows: Part 1,2010,2010-11-19,Adventure; Fantasy; ,7.7,146,459135
-Edward Scissorhands,1990,1990-12-14,Drama; Fantasy; Romance; ,7.9,105,434894
-Hancock,2008,2008-07-02,Action; Fantasy; ,6.4,92,434772
-Twilight,2008,2008-11-21,Drama; Fantasy; Romance; ,5.2,122,413276
-Big Fish,2003,2004-01-09,Adventure; Drama; Fantasy; ,8.0,125,406042
-Fantastic Beasts and Where to Find Them,2016,2016-11-18,Adventure; Fantasy; ,7.3,132,395319
-It's a Wonderful Life,1946,1947-01-07,Drama; Fantasy; ,8.6,130,385375
-The Mummy,1999,1999-05-07,Action; Adventure; Fantasy; ,7.0,124,382315
-The Princess Bride,1987,1987-10-09,Adventure; Fantasy; ,8.1,98,382045
-Midnight in Paris,2011,2011-06-10,Comedy; Fantasy; Romance; ,7.7,94,376575
-Alice in Wonderland,2010,2010-03-05,Adventure; Fantasy; ,6.4,108,374817
-Justice League,2017,2017-11-17,Action; Adventure; Fantasy; ,6.4,,367091
-The Wizard of Oz,1939,1939-08-25,Adventure; Fantasy; ,8.0,102,364936
-Scott Pilgrim vs. the World,2010,2010-08-13,Action; Comedy; Fantasy; ,7.5,112,364197
-Bruce Almighty,2003,2003-05-23,Comedy; Drama; Fantasy; ,6.8,101,363587
-"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,2005-12-09,Adventure; Fantasy; ,6.9,143,356904
-The Shape of Water,2017,2017-12-22,Adventure; Drama; Fantasy; ,7.3,123,353658
-The Illusionist,2006,2006-09-01,Drama; Fantasy; History; ,7.6,110,349169
-Ghostbusters,1984,1984-06-08,Action; Comedy; Fantasy; ,7.8,105,344694
-Aquaman,2018,2018-12-21,Action; Adventure; Fantasy; ,7.0,143,341895
-Star Wars: Episode IX - The Rise of Skywalker,2019,2019-12-20,Action; Adventure; Fantasy; ,6.7,142,337831
-Sleepy Hollow,1999,1999-11-19,Fantasy; Horror; Mystery; ,7.3,105,320861
-Fantastic Four,2005,2005-07-08,Action; Adventure; Fantasy; ,5.7,106,306644
-Being John Malkovich,1999,1999-12-03,Comedy; Drama; Fantasy; ,7.7,113,301714
-Hellboy,2004,2004-04-02,Action; Fantasy; Horror; ,6.8,122,301510
-Click,2006,2006-06-23,Comedy; Drama; Fantasy; ,6.4,107,298607
-Hugo,2011,2011-11-23,Drama; Fantasy; ,7.5,126,297933
-Constantine,2005,2005-02-18,Action; Fantasy; Horror; ,7.0,121,296689
-The Mummy Returns,2001,2001-05-04,Action; Adventure; Fantasy; ,6.3,130,295189
-About Time,2013,2013-11-08,Comedy; Drama; Fantasy; ,7.8,123,287246
-The Secret Life of Walter Mitty,2013,2013-12-25,Comedy; Drama; Fantasy; ,7.3,114,286991
-Liar Liar,1997,1997-03-21,Comedy; Fantasy; ,6.9,86,274268
-Prince of Persia: The Sands of Time,2010,2010-05-28,Action; Adventure; Fantasy; ,6.6,116,266583
-Clash of the Titans,2010,2010-04-02,Action; Adventure; Fantasy; ,5.8,106,265931
-Beauty and the Beast,2017,2017-03-17,Fantasy; ,7.1,129,261369
-Kong: Skull Island,2017,2017-03-10,Action; Adventure; Fantasy; ,6.6,118,259866
-The Twilight Saga: New Moon,2009,2009-11-20,Adventure; Drama; Fantasy; ,4.7,130,258910
-Pirates of the Caribbean: Dead Men Tell No Tales,2017,2017-05-26,Action; Adventure; Fantasy; ,6.6,129,251787
-Hellboy II: The Golden Army,2008,2008-07-11,Action; Adventure; Fantasy; ,7.0,,251482
-1408,2007,2007-06-22,Fantasy; Horror; Mystery; ,6.8,104,250909
-Beetlejuice,1988,1988-03-30,Comedy; Fantasy; ,7.5,92,249689
-"Crouching Tiger, Hidden Dragon",2000,2001-01-12,Action; Adventure; Fantasy; ,7.8,,248473
-Stardust,2007,2007-08-10,Adventure; Fantasy; ,7.6,127,248403
-Underworld,2003,2003-09-19,Action; Fantasy; Thriller; ,7.0,121,248222
-Fantastic 4: Rise of the Silver Surfer,2007,2007-06-15,Action; Adventure; Fantasy; ,5.6,92,246767
-Vanilla Sky,2001,2001-12-14,Fantasy; Mystery; Romance; ,6.9,136,243020
-Dark Shadows,2012,2012-05-11,Comedy; Fantasy; Horror; ,6.2,113,241602
-Van Helsing,2004,2004-05-07,Action; Adventure; Fantasy; ,6.1,131,239437
-Warcraft,2016,2016-06-10,Action; Adventure; Fantasy; ,6.8,123,236996
-Sucker Punch,2011,2011-03-25,Action; Adventure; Fantasy; ,6.0,110,226057
-The Twilight Saga: Breaking Dawn - Part 2,2012,2012-11-16,Adventure; Drama; Fantasy; ,5.5,115,224813
-The Twilight Saga: Eclipse,2010,2010-06-30,Adventure; Drama; Fantasy; ,5.0,124,221496
-Ender's Game,2013,2013-11-01,Action; Adventure; Fantasy; ,6.6,114,219357
-Ghost Rider,2007,2007-02-16,Action; Fantasy; Thriller; ,5.2,110,218901
-The Twilight Saga: Breaking Dawn - Part 1,2011,2011-11-18,Adventure; Drama; Fantasy; ,4.9,117,217803
-Stranger Than Fiction,2006,2006-11-10,Comedy; Drama; Fantasy; ,7.5,113,214510
-Elf,2003,2003-11-07,Comedy; Fantasy; ,6.9,97,210512
-Aladdin,2019,2019-05-24,Adventure; Fantasy; ,7.0,128,210488
-Mr. Nobody,2009,2013-09-26,Drama; Fantasy; Romance; ,7.8,141,210310
-Troy,2004,2004-05-14,Drama; History; ,7.2,163,476975
-Black Hawk Down,2001,2002-01-18,Drama; History; War; ,7.7,144,356185
-Pearl Harbor,2001,2001-05-25,Action; Drama; History; ,6.2,183,305503
-Les Misérables,2012,2012-12-25,Drama; History; ,7.6,158,300852
-Gone with the Wind,1939,1940-01-17,Drama; History; Romance; ,8.1,238,281414
-Bridge of Spies,2015,2015-10-16,Drama; History; Thriller; ,7.6,142,278999
-Zero Dark Thirty,2012,2013-01-11,Drama; History; Thriller; ,7.4,157,264555
-Apollo 13,1995,1995-06-30,Adventure; Drama; History; ,7.6,140,260497
-The Patriot,2000,2000-06-28,Action; Drama; History; ,7.2,165,249168
-Enemy at the Gates,2001,2001-03-16,Drama; History; War; ,7.6,131,236660
-21,2008,2008-03-28,Crime; Drama; History; ,6.8,123,224589
-Valkyrie,2008,2008-12-25,Drama; History; Thriller; ,7.1,121,223620
-The Great Escape,1963,1963-07-04,Adventure; Drama; History; ,8.2,172,217996
-Ben-Hur,1959,1960-01-29,Adventure; Drama; History; ,8.1,212,213444
-Shakespeare in Love,1998,1999-01-08,Comedy; Drama; History; ,7.1,123,209979
-Munich,2005,2006-01-06,Action; Drama; History; ,7.5,164,207019
-The Impossible,2012,2013-01-04,Drama; History; Thriller; ,7.6,114,190768
-Hero,2002,2004-08-27,Action; Adventure; History; ,7.9,,171351
-Deepwater Horizon,2016,2016-09-30,Action; Drama; History; ,7.1,107,145401
-Barry Lyndon,1975,1975-12-18,Adventure; Drama; History; ,8.1,185,143733
-JFK,1991,1991-12-20,Drama; History; Thriller; ,8.0,189,137425
-Cold Mountain,2003,2003-12-25,Adventure; Drama; History; ,7.2,154,137401
-Defiance,2008,2009-01-16,Action; Drama; History; ,7.2,137,135323
-We Were Soldiers,2002,2002-03-01,Action; Drama; History; ,7.2,138,127187
-The Monuments Men,2014,2014-02-07,Comedy; Drama; History; ,6.1,118,122173
-Glory,1989,1990-02-16,Biography; Drama; History; ,7.8,122,117966
-The 13th Warrior,1999,1999-08-27,Action; Adventure; History; ,6.6,102,114167
-Empire of the Sun,1987,1987-12-25,Action; Drama; History; ,7.7,153,112275
-Rang De Basanti,2006,2006-01-26,Comedy; Drama; History; ,8.2,167,107678
-The Way Back,2010,2011-01-21,Adventure; Drama; History; ,7.3,133,107455
-Across the Universe,2007,2007-10-12,Drama; Fantasy; History; ,7.3,133,104638
-The Queen,2006,2006-11-17,Biography; Drama; History; ,7.3,103,101904
-The Other Boleyn Girl,2008,2008-02-29,Biography; Drama; History; ,6.7,115,101416
-Frost_Nixon,2008,2009-01-23,Biography; Drama; History; ,7.7,122,100750
-All the President's Men,1976,1976-04-09,Biography; Drama; History; ,8.0,138,98972
-Marie Antoinette,2006,2006-10-20,Biography; Drama; History; ,6.4,123,97923
-The Good Shepherd,2006,2006-12-22,Drama; History; Thriller; ,6.7,167,96881
-United 93,2006,2006-04-28,Drama; History; Sci-Fi; ,7.5,111,96591
-Silence,2016,2017-01-13,Drama; History; ,7.2,161,96094
-"Good Night, and Good Luck.",2005,2005-11-04,Biography; Drama; History; ,7.4,93,92714
-The Last Emperor,1987,1988-04-15,Biography; Drama; History; ,7.7,163,91046
-Elizabeth,1998,1999-02-19,Biography; Drama; History; ,7.4,124,90737
-Mississippi Burning,1988,1989-01-27,Crime; Drama; History; ,7.8,128,84598
-The Grapes of Wrath,1940,1940-03-15,Drama; History; ,8.0,129,84223
-Selma,2014,2015-01-09,Biography; Drama; History; ,7.5,128,83285
-Malcolm X,1992,1992-11-18,Biography; Drama; History; ,7.7,202,82521
-The New World,2005,2006-01-20,Biography; Drama; History; ,6.7,135,81466
-The Death of Stalin,2017,2018-03-09,Comedy; Drama; History; ,7.2,107,80253
-Centurion,2010,2010-07-30,Action; Drama; History; ,6.4,97,76569
-The Duchess,2008,2008-10-10,Biography; Drama; History; ,6.9,110,76558
-World Trade Center,2006,2006-08-09,Drama; Fantasy; History; ,5.9,129,76405
-The King,2019,2019-11-01,Biography; Drama; History; ,7.2,140,76205
-The Lost City of Z,2016,2017-04-21,Biography; Drama; History; ,6.6,141,75131
-Jackie,2016,2016-12-02,Biography; Drama; History; ,6.7,100,70888
-The Water Diviner,2014,2015-04-17,Drama; History; War; ,7.0,111,69915
-Amistad,1997,1997-12-25,Biography; Drama; History; ,7.3,155,69328
-The White Ribbon,2009,2010-03-05,Drama; History; Mystery; ,7.8,144,66893
-Elizabeth: The Golden Age,2007,2007-10-12,Biography; Drama; History; ,6.8,114,65530
-Seabiscuit,2003,2003-07-25,Drama; History; Sport; ,7.3,140,65166
-Child 44,2015,2016-05-09,Crime; Drama; History; ,6.5,137,63768
-12 Strong,2018,2018-01-19,Action; Drama; History; ,6.6,130,63442
-Quiz Show,1994,1994-10-07,Biography; Drama; History; ,7.5,133,63232
-The Finest Hours,2016,2016-01-29,Action; Drama; History; ,6.8,117,59961
-K-19: The Widowmaker,2002,2002-07-19,Drama; History; Thriller; ,6.7,138,58258
-The Young Victoria,2009,2010-01-08,Biography; Drama; History; ,7.3,105,56451
-Conquest 1453,2012,2012-04-25,Action; Drama; History; ,6.7,162,56021
-The Mission,1986,1986-10-31,Adventure; Drama; History; ,7.4,125,54283
-Thirteen Days,2000,2001-01-12,Drama; History; Thriller; ,7.3,145,52807
-Woman in Gold,2015,2015-04-10,Biography; Drama; History; ,7.3,109,52175
-Macbeth,2015,2015-12-11,Drama; History; War; ,6.6,113,51643
-Battleship Potemkin,1925,1925-12-24,Drama; History; Thriller; ,8.0,66,51403
-Airlift,2016,2016-01-22,Drama; History; ,8.0,130,51394
-The Longest Day,1962,1962-10-04,Action; Drama; History; ,7.8,178,51178
-Midway,2019,2019-11-08,Action; Drama; History; ,6.7,138,50395
-A Bridge Too Far,1977,1977-06-15,Drama; History; War; ,7.4,175,50195
-The Killing Fields,1984,1985-02-01,Biography; Drama; History; ,7.8,141,50036
-The Flowers of War,2011,2011-12-16,Drama; History; Romance; ,7.6,146,48360
-Hotel Mumbai,2018,2019-03-29,Action; Drama; History; ,7.6,123,47726
-Miracle,2004,2004-02-06,Biography; Drama; History; ,7.5,135,46453
-Detroit,2017,2017-08-04,Crime; Drama; History; ,7.3,143,45804
-The Passion of Joan of Arc,1928,1928-10-25,Biography; Drama; History; ,8.1,114,45200
-Cold War,2018,2018-06-08,Drama; History; Music; ,7.6,89,44833
-Alien,1979,1979-06-22,Horror; Sci-Fi; ,8.4,117,762793
-Psycho,1960,1960-09-08,Horror; Mystery; Thriller; ,8.5,109,580951
-Shaun of the Dead,2004,2004-09-24,Comedy; Horror; ,7.9,99,499244
-Get Out,2017,2017-02-24,Horror; Mystery; Thriller; ,7.7,104,465577
-It,2017,2017-09-08,Horror; ,7.3,135,437678
-The Conjuring,2013,2013-07-19,Horror; Mystery; Thriller; ,7.5,112,427067
-Split,2016,2017-01-20,Horror; Thriller; ,7.3,117,404539
-A Quiet Place,2018,2018-04-06,Drama; Horror; Sci-Fi; ,7.5,90,385782
-Saw,2004,2004-10-29,Horror; Mystery; ,7.6,103,369825
-28 Days Later...,2002,2003-06-27,Drama; Horror; Sci-Fi; ,7.6,113,367391
-Cloverfield,2008,2008-01-18,Action; Adventure; Horror; ,7.0,85,365910
-The Cabin in the Woods,2011,2012-04-13,Horror; ,7.0,95,363506
-The Thing,1982,1982-06-25,Horror; Mystery; Sci-Fi; ,8.1,109,356786
-The Exorcist,1973,1973-12-26,Horror; ,8.0,122,352076
-Sweeney Todd: The Demon Barber of Fleet Street,2007,2007-12-21,Drama; Horror; ,7.3,116,335791
-The Others,2001,2001-08-10,Horror; Mystery; Thriller; ,7.6,104,328624
-The Ring,2002,2002-10-18,Horror; Mystery; ,7.1,115,313252
-Interview with the Vampire: The Vampire Chronicles,1994,1994-11-11,Drama; Horror; ,7.6,123,287602
-10 Cloverfield Lane,2016,2016-03-11,Drama; Horror; Mystery; ,7.2,103,280919
-Scream,1996,1996-12-20,Horror; Mystery; ,7.2,111,276753
-The Mist,2007,2007-11-21,Horror; Sci-Fi; ,7.1,126,274365
-Alien 3,1992,1992-05-22,Action; Horror; Sci-Fi; ,6.5,114,269938
-Insidious,2010,2011-04-01,Horror; Mystery; Thriller; ,6.8,103,269839
-Annihilation,2018,2018-02-23,Adventure; Drama; Horror; ,6.9,115,267574
-Bird Box,2018,2018-12-21,Drama; Horror; Sci-Fi; ,6.6,124,262311
-28 Weeks Later,2007,2007-05-11,Horror; Sci-Fi; ,7.0,100,253591
-Alien: Covenant,2017,2017-05-19,Horror; Sci-Fi; Thriller; ,6.4,122,245959
-Resident Evil,2002,2002-03-15,Action; Horror; Sci-Fi; ,6.7,100,242106
-Blade,1998,1998-08-21,Action; Horror; Sci-Fi; ,7.1,,238439
-Dawn of the Dead,2004,2004-03-19,Action; Horror; ,7.3,101,229395
-Saw II,2005,2005-10-28,Horror; Mystery; ,6.6,93,227842
-The Blair Witch Project,1999,1999-07-30,Horror; Mystery; ,6.5,81,226133
-Final Destination,2000,2000-03-17,Horror; Thriller; ,6.7,98,223423
-Alien: Resurrection,1997,1997-11-26,Action; Horror; Sci-Fi; ,6.2,109,222998
-Pitch Black,2000,2000-02-18,Action; Horror; Sci-Fi; ,7.1,109,221434
-Halloween,1978,1978-10-27,Horror; Thriller; ,7.8,91,220718
-Paranormal Activity,2007,2009-10-16,Horror; Mystery; Thriller; ,6.3,86,216058
-The Conjuring 2,2016,2016-06-10,Horror; Mystery; Thriller; ,7.3,134,215863
-Warm Bodies,2013,2013-02-01,Comedy; Horror; Romance; ,6.9,98,215658
-Hereditary,2018,2018-06-08,Drama; Horror; Mystery; ,7.3,127,214947
-Sinister,2012,2012-10-12,Horror; Mystery; Thriller; ,6.8,110,212002
-Silent Hill,2006,2006-04-21,Horror; ,6.5,125,210033
-Don't Breathe,2016,2016-08-26,Crime; Horror; Thriller; ,7.1,88,209689
-Us,2019,2019-03-22,Horror; Mystery; Thriller; ,6.9,116,204733
-It Follows,2014,2015-03-13,Horror; Mystery; Thriller; ,6.8,100,201008
-Life,2017,2017-03-24,Horror; Sci-Fi; Thriller; ,6.6,104,199775
-A Nightmare on Elm Street,1984,1984-11-16,Horror; ,7.5,91,198628
-The Purge,2013,2013-06-07,Horror; Thriller; ,5.7,85,197141
-The Descent,2005,2006-08-04,Adventure; Horror; Thriller; ,7.2,99,195614
-Blade II,2002,2002-03-22,Action; Fantasy; Horror; ,6.7,117,195387
-Hansel & Gretel: Witch Hunters,2013,2013-01-25,Action; Fantasy; Horror; ,6.1,88,191273
-Gremlins,1984,1984-06-08,Comedy; Fantasy; Horror; ,7.3,106,190570
-The Babadook,2014,2014-11-28,Drama; Horror; ,6.8,94,188571
-Orphan,2009,2009-07-24,Horror; Mystery; Thriller; ,6.9,123,186072
-The Witch,2015,2016-02-19,Drama; Horror; Mystery; ,6.9,92,185878
-Bram Stoker's Dracula,1992,1992-11-13,Horror; ,7.4,128,185695
-Rosemary's Baby,1968,1968-10-17,Drama; Horror; ,8.0,137,185587
-Drag Me to Hell,2009,2009-05-29,Horror; Thriller; ,6.5,99,184255
-It Chapter Two,2019,2019-09-06,Drama; Fantasy; Horror; ,6.6,169,183539
-Resident Evil: Apocalypse,2004,2004-09-10,Action; Horror; Sci-Fi; ,6.2,94,182625
-Mother!,2017,2017-09-15,Drama; Horror; Mystery; ,6.6,121,182167
-Alien vs. Predator,2004,2004-08-13,Action; Adventure; Horror; ,5.6,101,180961
-The Evil Dead,1981,1983-04-15,Horror; ,7.5,85,180957
-Resident Evil: Extinction,2007,2007-09-21,Action; Horror; Sci-Fi; ,6.3,94,180099
-Grindhouse,2007,2007-04-06,Action; Horror; Thriller; ,7.5,191,175669
-Saw III,2006,2006-10-27,Horror; Mystery; Thriller; ,6.2,108,174387
-The Woman in Black,2012,2012-02-03,Drama; Fantasy; Horror; ,6.4,95,171207
-Pi,1998,1998-07-10,Drama; Horror; Mystery; ,7.4,84,166806
-Hostel,2005,2006-01-06,Horror; ,5.9,94,165882
-Mama,2013,2013-01-18,Horror; Thriller; ,6.2,100,165839
-The Birds,1963,1963-03-29,Drama; Horror; Mystery; ,7.7,119,165748
-Midsommar,2019,2019-07-03,Drama; Horror; Mystery; ,7.1,148,165346
-Carrie,1976,1976-11-16,Horror; ,7.4,98,162668
-Tucker and Dale vs Evil,2010,2010-12-09,Comedy; Horror; ,7.5,89,161404
-30 Days of Night,2007,2007-10-19,Action; Horror; Thriller; ,6.6,113,161126
-Resident Evil: Afterlife,2010,2010-09-10,Action; Adventure; Horror; ,5.8,96,159189
-Army of Darkness,1992,1993-02-19,Comedy; Horror; ,7.5,81,158954
-The Hills Have Eyes,2006,2006-03-10,Horror; Thriller; ,6.4,107,155206
-The Fly,1986,1986-08-15,Drama; Horror; Sci-Fi; ,7.6,96,154294
-Event Horizon,1997,1997-08-15,Horror; Sci-Fi; Thriller; ,6.7,96,153203
-Evil Dead,2013,2013-04-05,Fantasy; Horror; Thriller; ,6.5,91,153169
-Scream 2,1997,1997-12-12,Horror; Mystery; ,6.2,,152554
-Insidious: Chapter 2,2013,2013-09-13,Horror; Mystery; Thriller; ,6.6,106,150300
-Final Destination 2,2003,2003-01-31,Horror; Thriller; ,6.2,90,148408
-What We Do in the Shadows,2014,2015-02-13,Comedy; Horror; ,7.7,86,148076
-Abraham Lincoln: Vampire Hunter,2012,2012-06-22,Action; Fantasy; Horror; ,5.9,105,147007
-Scary Movie 2,2001,2001-07-04,Comedy; Horror; ,5.3,83,146277
-From Hell,2001,2001-10-19,Horror; Mystery; Thriller; ,6.8,122,144083
-The Orphanage,2007,2008-01-11,Drama; Fantasy; Horror; ,7.4,105,143875
-Train to Busan,2016,2016-10-21,Action; Horror; Thriller; ,7.5,118,143773
-Evil Dead II,1987,1987-03-13,Comedy; Horror; ,7.8,84,143769
-Underworld Awakening,2012,2012-01-20,Action; Fantasy; Horror; ,6.4,88,143381
-La La Land,2016,2016-12-25,Comedy; Drama; Music; ,8.0,128,482858
-A Star Is Born,2018,2018-10-05,Drama; Music; Romance; ,7.7,136,313113
-Pitch Perfect,2012,2012-10-05,Comedy; Music; Romance; ,7.2,112,269390
-School of Rock,2003,2003-10-03,Comedy; Music; ,7.1,109,260266
-8 Mile,2002,2002-11-08,Drama; Music; ,7.1,110,243272
-Some Like It Hot,1959,1959-03-19,Comedy; Music; Romance; ,8.2,121,236252
-Dirty Dancing,1987,1987-08-21,Drama; Music; Romance; ,7.0,100,194794
-Get Him to the Greek,2010,2010-06-04,Comedy; Music; ,6.4,109,167212
-High Fidelity,2000,2000-03-31,Comedy; Drama; Music; ,7.5,113,164661
-Wayne's World,1992,1992-02-14,Comedy; Music; ,7.0,94,140324
-Begin Again,2013,2014-07-11,Comedy; Drama; Music; ,7.4,104,138458
-Pitch Perfect 2,2015,2015-05-15,Comedy; Music; ,6.4,115,138421
-Inside Llewyn Davis,2013,2014-01-10,Comedy; Drama; Music; ,7.5,104,134564
-The Wedding Singer,1998,1998-02-13,Comedy; Music; Romance; ,6.8,97,131174
-This Is Spinal Tap,1984,1984-03-02,Comedy; Music; ,7.9,82,125864
-Billy Elliot,2000,2000-11-10,Drama; Music; ,7.7,110,122980
-Rocketman,2019,2019-05-31,Biography; Drama; Music; ,7.3,121,120440
-"Hail, Caesar!",2016,2016-02-05,Comedy; Drama; Music; ,6.3,106,120378
-The Bodyguard,1992,1992-11-25,Action; Drama; Music; ,6.3,129,115475
-If I Stay,2014,2014-08-22,Drama; Fantasy; Music; ,6.7,107,113203
-Once,2007,2007-06-15,Drama; Music; Romance; ,7.8,86,108624
-Step Up,2006,2006-08-11,Crime; Drama; Music; ,6.5,104,108504
-Bill & Ted's Excellent Adventure,1989,1989-02-17,Adventure; Comedy; Music; ,6.9,90,107579
-Pirate Radio,2009,2009-11-13,Comedy; Drama; Music; ,7.4,117,105802
-Coyote Ugly,2000,2000-08-04,Comedy; Drama; Music; ,5.7,100,104700
-Green Room,2015,2016-05-13,Horror; Music; Thriller; ,7.0,95,102334
-August Rush,2007,2007-11-21,Drama; Music; ,7.5,114,101979
-Yesterday,2019,2019-06-28,Comedy; Fantasy; Music; ,6.8,116,100978
-Tenacious D in the Pick of Destiny,2006,2006-11-22,Adventure; Comedy; Music; ,6.8,93,99944
-Music and Lyrics,2007,2007-02-14,Comedy; Music; Romance; ,6.5,104,94921
-Nick and Norah's Infinite Playlist,2008,2008-10-03,Comedy; Drama; Music; ,6.6,90,87186
-Three Colors: Blue,1993,1993-09-08,Drama; Music; Mystery; ,7.9,94,85415
-To Rome With Love,2012,2012-07-06,Comedy; Music; Romance; ,6.3,112,82764
-Crazy Heart,2009,2010-02-05,Drama; Music; Romance; ,7.2,112,82500
-Sing Street,2016,2016-03-17,Comedy; Drama; Music; ,7.9,106,81933
-The Doors,1991,1991-03-01,Biography; Drama; Music; ,7.2,140,81792
-La Vie En Rose,2007,2007-07-20,Biography; Drama; Music; ,7.6,140,80970
-The Last Song,2010,2010-03-31,Drama; Music; Romance; ,6.0,107,79196
-Step Up 2: The Streets,2008,2008-02-14,Drama; Music; Romance; ,6.2,98,78573
-The Piano,1993,1994-02-11,Drama; Music; Romance; ,7.6,121,76889
-Burlesque,2010,2010-11-24,Drama; Music; ,6.4,119,76164
-Frank,2014,2014-09-05,Comedy; Drama; Music; ,7.0,95,73451
-Youth,2015,2015-12-04,Comedy; Drama; Music; ,7.3,124,69311
-Saturday Night Fever,1977,1977-12-16,Drama; Music; ,6.8,118,68890
-Footloose,1984,1984-02-17,Drama; Music; Romance; ,6.6,107,67658
-Dreamgirls,2006,2006-12-25,Drama; Music; ,6.5,130,67216
-Walk Hard: The Dewey Cox Story,2007,2007-12-21,Comedy; Drama; Music; ,6.8,96,65673
-That Thing You Do!,1996,1996-10-04,Comedy; Drama; Music; ,6.9,108,60721
-Control,2007,2007-09-26,Biography; Drama; Music; ,7.7,122,60379
-Black Snake Moan,2006,2007-03-02,Drama; Music; ,6.9,116,60135
-Coffee and Cigarettes,2003,2004-06-11,Comedy; Drama; Music; ,7.1,95,58500
-Top Secret!,1984,1984-06-08,Comedy; Music; ,7.2,90,58341
-The Legend of 1900,1998,1998-10-28,Drama; Music; Romance; ,8.1,169,56898
-Save the Last Dance,2001,2001-01-12,Drama; Music; Romance; ,6.2,112,56061
-A Night at the Roxbury,1998,1998-10-02,Comedy; Music; Romance; ,6.3,82,55885
-The Chorus,2004,2004-03-17,Drama; Music; ,7.9,97,55837
-I'm Not There,2007,2007-12-07,Biography; Drama; Music; ,6.9,135,55709
-Pitch Perfect 3,2017,2017-12-22,Comedy; Music; ,5.8,93,52949
-Popstar: Never Stop Never Stopping,2016,2016-06-03,Comedy; Music; ,6.7,87,52196
-Magic Mike XXL,2015,2015-07-01,Comedy; Drama; Music; ,5.6,115,50888
-The Soloist,2009,2009-04-24,Biography; Drama; Music; ,6.7,117,50593
-Shine,1996,1997-02-14,Biography; Drama; Music; ,7.7,105,50286
-The Producers,1967,1968-11-10,Comedy; Music; ,7.6,88,48678
-Empire Records,1995,1995-10-20,Comedy; Drama; Music; ,6.7,90,48158
-Departures,2008,2009-06-19,Drama; Music; ,8.1,130,47355
-Flashdance,1983,1983-04-15,Drama; Music; Romance; ,6.2,95,46132
-The Runaways,2010,2010-04-08,Biography; Drama; Music; ,6.5,106,45492
-"The Adventures of Priscilla, Queen of the Desert",1994,1994-08-10,Comedy; Music; ,7.4,104,45319
-Footloose,2011,2011-10-14,Comedy; Drama; Music; ,5.9,113,45304
-Climax,2018,2018-09-19,Drama; Horror; Music; ,7.1,97,45193
-Honey,2003,2003-12-05,Drama; Music; Romance; ,5.4,94,42673
-Shall We Dance,2004,2004-10-15,Comedy; Drama; Music; ,6.1,106,42622
-Rab Ne Bana Di Jodi,2008,2008-12-12,Comedy; Drama; Music; ,7.2,167,42474
-Rock Star,2001,2001-09-07,Drama; Music; ,6.3,105,40198
-The Double Life of Véronique,1991,1991-11-22,Drama; Fantasy; Music; ,7.8,98,39948
-Behind The Candelabra,2013,2013-06-07,Biography; Drama; Music; ,7.0,118,39655
-A Hard Day's Night,1964,1964-07-07,Comedy; Music; ,7.6,87,39081
-Hustle & Flow,2005,2005-07-22,Crime; Drama; Music; ,7.3,116,38021
-Rockstar,2011,2011-11-11,Drama; Music; ,7.7,159,37740
-Eurovision Song Contest: The Story of Fire Saga,2020,2020-06-26,Comedy; Music; ,6.6,123,37498
-The Rocker,2008,2008-08-20,Comedy; Music; ,6.2,102,36300
-Love & Mercy,2014,2015-06-19,Biography; Drama; Music; ,7.4,121,34933
-Mr. Holland's Opus,1995,1996-01-19,Drama; Music; ,7.3,143,34755
-Detroit Rock City,1999,1999-08-13,Comedy; Music; ,6.9,95,34741
-Velvet Goldmine,1998,1998-10-23,Drama; Music; ,7.0,118,33100
-Happy New Year,2014,2014-10-24,Action; Comedy; Music; ,5.0,,33033
-Spice World,1997,1998-01-23,Comedy; Music; ,3.5,93,32688
-Captain Corelli's Mandolin,2001,2001-08-17,Drama; Music; Romance; ,5.9,131,32402
-Jersey Boys,2014,2014-06-20,Biography; Drama; Music; ,6.8,134,32133
-Sweet and Lowdown,1999,2000-03-10,Comedy; Drama; Music; ,7.2,95,31584
-The Commitments,1991,1991-09-13,Comedy; Drama; Music; ,7.6,118,31338
-Hedwig and the Angry Inch,2001,2001-08-31,Comedy; Drama; Music; ,7.7,95,31272
-The Red Violin,1998,1999-06-11,Drama; Music; Mystery; ,7.6,130,31107
-54,1998,1998-08-28,Drama; Music; ,5.9,93,31071
-The Prestige,2006,2006-10-20,Drama; Mystery; Sci-Fi; ,8.5,130,1144521
-Memento,2000,2001-05-25,Mystery; Thriller; ,8.4,113,1090298
-Shutter Island,2010,2010-02-19,Mystery; Thriller; ,8.1,138,1086350
-The Usual Suspects,1995,1995-08-16,Crime; Mystery; Thriller; ,8.5,106,961814
-The Sixth Sense,1999,1999-08-06,Drama; Mystery; Thriller; ,8.1,107,888925
-Donnie Darko,2001,2002-01-30,Drama; Mystery; Sci-Fi; ,8.0,113,724912
-The Hunger Games: Catching Fire,2013,2013-11-22,Action; Adventure; Mystery; ,7.5,146,600100
-The Bourne Ultimatum,2007,2007-08-03,Action; Mystery; Thriller; ,8.0,115,595435
-Now You See Me,2013,2013-05-31,Crime; Mystery; Thriller; ,7.3,115,581644
-Prisoners,2013,2013-09-20,Crime; Drama; Mystery; ,8.1,153,575040
-12 Monkeys,1995,1996-01-05,Mystery; Sci-Fi; Thriller; ,8.0,129,565403
-Prometheus,2012,2012-06-08,Adventure; Mystery; Sci-Fi; ,7.0,124,557990
-Minority Report,2002,2002-06-21,Action; Crime; Mystery; ,7.6,145,495547
-The Hateful Eight,2015,2015-12-30,Crime; Drama; Mystery; ,7.8,168,493754
-Source Code,2011,2011-04-01,Action; Drama; Mystery; ,7.5,93,474236
-Ex Machina,2014,2015-04-24,Drama; Mystery; Sci-Fi; ,7.7,108,458187
-Hot Fuzz,2007,2007-04-20,Action; Comedy; Mystery; ,7.8,121,450223
-Zodiac,2007,2007-03-02,Crime; Drama; Mystery; ,7.7,157,436901
-Blade Runner 2049,2017,2017-10-06,Action; Drama; Mystery; ,8.0,164,434995
-The Conjuring,2013,2013-07-19,Horror; Mystery; Thriller; ,7.5,112,427069
-The Bourne Supremacy,2004,2004-07-23,Action; Mystery; Thriller; ,7.7,108,424855
-Divergent,2014,2014-03-21,Action; Adventure; Mystery; ,6.7,139,416400
-Sherlock Holmes: A Game of Shadows,2011,2011-12-16,Action; Adventure; Mystery; ,7.5,129,411748
-Mystic River,2003,2003-10-15,Crime; Drama; Mystery; ,7.9,138,409000
-The Maze Runner,2014,2014-09-19,Action; Mystery; Sci-Fi; ,6.8,113,406551
-The Da Vinci Code,2006,2006-05-19,Mystery; Thriller; ,6.6,149,390693
-Citizen Kane,1941,1941-09-05,Drama; Mystery; ,8.3,119,386235
-Unbreakable,2000,2000-11-22,Drama; Mystery; Sci-Fi; ,7.3,106,377965
-Vertigo,1958,1958-05-22,Mystery; Romance; Thriller; ,8.3,128,348553
-The Lives of Others,2006,2007-03-30,Drama; Mystery; Thriller; ,8.4,137,346768
-Cloud Atlas,2012,2012-10-26,Action; Drama; Mystery; ,7.4,172,338490
-The Game,1997,1997-09-12,Drama; Mystery; Thriller; ,7.8,129,334123
-Super 8,2011,2011-06-10,Mystery; Sci-Fi; Thriller; ,7.0,112,332878
-Signs,2002,2002-08-02,Drama; Mystery; Sci-Fi; ,6.7,106,330229
-Inside Man,2006,2006-03-24,Crime; Drama; Mystery; ,7.6,129,329267
-The Others,2001,2001-08-10,Horror; Mystery; Thriller; ,7.6,104,328626
-Moon,2009,2009-07-10,Drama; Mystery; Sci-Fi; ,7.9,97,327607
-Sleepy Hollow,1999,1999-11-19,Fantasy; Horror; Mystery; ,7.3,105,320863
-The Devil's Advocate,1997,1997-10-17,Drama; Mystery; Thriller; ,7.5,144,319323
-Mulholland Drive,2001,2001-10-19,Drama; Mystery; Thriller; ,8.0,147,309859
-National Treasure,2004,2004-11-19,Action; Adventure; Mystery; ,6.9,131,297865
-Eyes Wide Shut,1999,1999-07-16,Drama; Mystery; Thriller; ,7.4,159,291877
-Salt,2010,2010-07-23,Action; Mystery; Thriller; ,6.4,100,289816
-North by Northwest,1959,1959-09-26,Adventure; Mystery; Thriller; ,8.3,136,289249
-Chinatown,1974,1974-06-20,Drama; Mystery; Thriller; ,8.2,130,284178
-10 Cloverfield Lane,2016,2016-03-11,Drama; Horror; Mystery; ,7.2,103,280920
-Scream,1996,1996-12-20,Horror; Mystery; ,7.2,111,276756
-Insidious,2010,2011-04-01,Horror; Mystery; Thriller; ,6.8,103,269842
-Insomnia,2002,2002-05-24,Drama; Mystery; Thriller; ,7.2,118,266499
-Angels & Demons,2009,2009-05-15,Action; Mystery; Thriller; ,6.7,138,266342
-Contact,1997,1997-07-11,Drama; Mystery; Sci-Fi; ,7.4,150,247426
-Non-Stop,2014,2014-02-28,Action; Mystery; Thriller; ,6.9,106,245364
-Gone Baby Gone,2007,2007-10-19,Crime; Drama; Mystery; ,7.6,114,244160
-Unknown,2011,2011-02-18,Action; Mystery; Thriller; ,6.8,113,243861
-Vanilla Sky,2001,2001-12-14,Fantasy; Mystery; Romance; ,6.9,136,243022
-Atonement,2007,2008-01-11,Drama; Mystery; Romance; ,7.8,123,241597
-The Village,2004,2004-07-30,Drama; Mystery; Thriller; ,6.5,108,237425
-Saw II,2005,2005-10-28,Horror; Mystery; ,6.6,93,227844
-The Blair Witch Project,1999,1999-07-30,Horror; Mystery; ,6.5,81,226136
-The Fountain,2006,2006-11-22,Drama; Mystery; Romance; ,7.2,97,224147
-Identity,2003,2003-04-25,Mystery; Thriller; ,7.3,90,221013
-Knowing,2009,2009-03-20,Action; Drama; Mystery; ,6.2,121,216703
-Paranormal Activity,2007,2009-10-16,Horror; Mystery; Thriller; ,6.3,86,216061
-Disturbia,2007,2007-04-13,Crime; Drama; Mystery; ,6.8,105,215909
-The Conjuring 2,2016,2016-06-10,Horror; Mystery; Thriller; ,7.3,134,215865
-Hereditary,2018,2018-06-08,Drama; Horror; Mystery; ,7.3,127,214954
-National Treasure: Book of Secrets,2007,2007-12-21,Action; Adventure; Mystery; ,6.5,124,214171
-The Girl with the Dragon Tattoo,2009,2010-04-30,Crime; Drama; Mystery; ,7.8,152,205262
-Cube,1997,1998-07-11,Drama; Mystery; Sci-Fi; ,7.2,90,204760
-Us,2019,2019-03-22,Horror; Mystery; Thriller; ,6.9,116,204739
-It Follows,2014,2015-03-13,Horror; Mystery; Thriller; ,6.8,100,201012
-Murder on the Orient Express,2017,2017-11-10,Crime; Drama; Mystery; ,6.5,114,200486
-Wind River,2017,2017-08-18,Crime; Drama; Mystery; ,7.7,107,193037
-The Happening,2008,2008-06-13,Drama; Mystery; Sci-Fi; ,5.0,91,192408
-The Number 23,2007,2007-02-23,Crime; Mystery; Thriller; ,6.4,98,190439
-The Secret in Their Eyes,2009,2010-05-21,Drama; Mystery; Romance; ,8.2,129,186147
-Orphan,2009,2009-07-24,Horror; Mystery; Thriller; ,6.9,123,186073
-Dark City,1998,1998-02-27,Mystery; Sci-Fi; Thriller; ,7.6,100,184177
-Tinker Tailor Soldier Spy,2011,2012-01-06,Drama; Mystery; Thriller; ,7.1,122,182571
-Forrest Gump,1994,1994-07-06,Romance; ,8.8,142,1741481
-Titanic,1997,1997-12-19,Romance; ,7.8,194,1017379
-Eternal Sunshine of the Spotless Mind,2004,2004-03-19,Romance; ,8.3,108,882688
-Good Will Hunting,1997,1998-01-09,Romance; ,8.3,126,830366
-Slumdog Millionaire,2008,2008-12-25,Romance; ,8.0,,782771
-The Curious Case of Benjamin Button,2008,2008-12-25,Romance; ,7.8,166,572320
-Her,2013,2014-01-10,Romance; ,8.0,126,518426
-Cast Away,2000,2000-12-22,Romance; ,7.8,143,506482
-Casablanca,1942,1943-01-23,Romance; ,8.5,102,506322
-The Notebook,2004,2004-06-25,Romance; ,7.8,123,503964
-The Great Gatsby,2013,2013-05-10,Romance; ,7.2,143,462941
-The Perks of Being a Wallflower,2012,2012-10-12,Romance; ,8.0,103,448222
-Edward Scissorhands,1990,1990-12-14,Romance; ,7.9,105,434955
-Twilight,2008,2008-11-21,Romance; ,5.2,122,413326
-The Theory of Everything,2014,2014-11-26,Romance; ,7.7,123,387452
-Vertigo,1958,1958-05-22,Romance; ,8.3,128,348647
-Passengers,2016,2016-12-21,Romance; ,7.0,116,337271
-The Fault in Our Stars,2014,2014-06-06,Romance; ,7.7,126,334274
-50 First Dates,2004,2004-02-13,Comedy; Romance; ,6.8,99,318838
-Brokeback Mountain,2005,2006-01-13,Romance; ,7.7,134,315187
-A Star Is Born,2018,2018-10-05,Romance; ,7.7,136,313248
-Up in the Air,2009,2009-12-23,Comedy; Romance; ,7.4,109,312919
-50_50,2011,2011-09-30,Comedy; Romance; ,7.6,100,310708
-Moonrise Kingdom,2012,2012-06-29,Comedy; Romance; ,7.8,94,309368
-Meet the Parents,2000,2000-10-06,Comedy; Romance; ,7.0,108,304804
-Fifty Shades of Grey,2015,2015-02-13,Romance; ,4.1,125,291846
-Hitch,2005,2005-02-11,Comedy; Romance; ,6.6,118,290474
-10 Things I Hate About You,1999,1999-03-31,Comedy; Romance; ,7.3,97,287665
-The Proposal,2009,2009-06-19,Comedy; Romance; ,6.7,108,287564
-There's Something About Mary,1998,1998-07-15,Comedy; Romance; ,7.1,119,284962
-Gone with the Wind,1939,1940-01-17,Romance; ,8.1,238,281474
-Pretty Woman,1990,1990-03-23,Comedy; Romance; ,7.0,119,279357
-Pitch Perfect,2012,2012-10-05,Comedy; Romance; ,7.2,112,269450
-As Good as It Gets,1997,1997-12-25,Comedy; Romance; ,7.7,139,268396
-Notting Hill,1999,1999-05-28,Comedy; Romance; ,7.1,124,263330
-Moulin Rouge!,2001,2001-06-01,Romance; ,7.6,127,261663
-Bridesmaids,2011,2011-05-13,Comedy; Romance; ,6.8,125,261604
-Before Sunrise,1995,1995-01-27,Romance; ,8.1,101,259505
-Forgetting Sarah Marshall,2008,2008-04-18,Comedy; Romance; ,7.1,111,257218
-The Graduate,1967,1967-12-21,Comedy; Romance; ,8.0,106,248509
-Meet the Fockers,2004,2004-12-22,Comedy; Romance; ,6.3,115,247839
-Annie Hall,1977,1977-04-20,Comedy; Romance; ,8.0,93,247004
-Pride & Prejudice,2005,2005-11-23,Romance; ,7.8,129,244775
-Vanilla Sky,2001,2001-12-14,Romance; ,6.9,136,243067
-Atonement,2007,2008-01-11,Romance; ,7.8,123,241646
-The Adjustment Bureau,2011,2011-03-04,Romance; ,7.0,106,238519
-Vicky Cristina Barcelona,2008,2008-08-15,Comedy; Romance; ,7.1,96,237781
-Some Like It Hot,1959,1959-03-19,Comedy; Romance; ,8.2,121,236307
-Jerry Maguire,1996,1996-12-13,Comedy; Romance; ,7.3,139,235416
-The Holiday,2006,2006-12-08,Comedy; Romance; ,6.9,136,235047
-Grease,1978,1978-06-16,Romance; ,7.2,110,230215
-The Reader,2008,2009-01-30,Romance; ,7.6,124,226284
-Before Sunset,2004,2004-07-30,Romance; ,8.0,80,226255
-The Artist,2011,2012-01-20,Comedy; Romance; ,7.9,100,226187
-Don Jon,2013,2013-09-27,Comedy; Romance; ,6.5,90,224896
-The Fountain,2006,2006-11-22,Romance; ,7.2,97,224185
-Marriage Story,2019,2019-12-06,Comedy; Romance; ,8.0,137,219894
-Bridget Jones's Diary,2001,2001-04-13,Comedy; Romance; ,6.7,97,218715
-The Beach,2000,2000-02-11,Romance; ,6.7,119,218197
-Warm Bodies,2013,2013-02-01,Comedy; Romance; ,6.9,98,215679
-Just Go with It,2011,2011-02-11,Comedy; Romance; ,6.4,117,215475
-Singin' in the Rain,1952,1952-04-11,Comedy; Romance; ,8.3,103,211370
-Mr. Nobody,2009,2013-09-26,Romance; ,7.8,141,210352
-Meet Joe Black,1998,1998-11-13,Romance; ,7.2,178,208791
-Mamma Mia!,2008,2008-07-18,Comedy; Romance; ,6.4,108,208596
-No Strings Attached,2011,2011-01-21,Comedy; Romance; ,6.2,108,208289
-The Lobster,2015,2015-10-16,Comedy; Romance; ,7.2,119,207454
-Romeo + Juliet,1996,1996-11-01,Romance; ,6.7,,205296
-Garden State,2004,2004-08-20,Comedy; Romance; ,7.4,102,204812
-How to Lose a Guy in 10 Days,2003,2003-02-07,Comedy; Romance; ,6.4,116,203365
-Match Point,2005,2006-01-20,Romance; ,7.6,124,201777
-True Romance,1993,1993-09-10,Romance; ,7.9,119,200842
-The Ugly Truth,2009,2009-07-24,Comedy; Romance; ,6.4,96,199488
-Closer,2004,2004-12-03,Romance; ,7.2,104,198838
-The Girl Next Door,2004,2004-04-09,Comedy; Romance; ,6.7,109,197489
-Me Before You,2016,2016-06-03,Romance; ,7.4,106,197474
-P.S. I Love You,2007,2007-12-21,Comedy; Romance; ,7.0,126,197346
-Call Me by Your Name,2017,2018-01-19,Romance; ,7.9,132,195583
-A Walk to Remember,2002,2002-01-25,Romance; ,7.4,101,195515
-Dirty Dancing,1987,1987-08-21,Romance; ,7.0,100,194838
-"I Love You, Man",2009,2009-03-20,Comedy; Romance; ,7.0,105,191014
-Ghost,1990,1990-07-13,Romance; ,7.0,127,190746
-Revolutionary Road,2008,2009-01-23,Romance; ,7.3,119,190069
-When Harry Met Sally...,1989,1989-07-21,Comedy; Romance; ,7.6,95,189079
-Bad Teacher,2011,2011-06-24,Comedy; Romance; ,5.6,92,189027
-Inception,2010,2010-07-16,Action; Adventure; Sci-Fi; ,8.8,148,1981688
-The Matrix,1999,1999-03-31,Action; Sci-Fi; ,8.7,136,1619772
-Interstellar,2014,2014-11-07,Adventure; Drama; Sci-Fi; ,8.6,169,1430810
-The Avengers,2012,2012-05-04,Action; Adventure; Sci-Fi; ,8.0,143,1236053
-Back to the Future,1985,1985-07-03,Adventure; Comedy; Sci-Fi; ,8.5,116,1015026
-V for Vendetta,2005,2006-03-17,Action; Drama; Sci-Fi; ,8.2,132,1002950
-Terminator 2: Judgment Day,1991,1991-07-03,Action; Sci-Fi; ,8.5,137,968511
-Iron Man,2008,2008-05-02,Action; Adventure; Sci-Fi; ,7.9,126,915644
-The Truman Show,1998,1998-06-05,Comedy; Drama; Sci-Fi; ,8.1,103,901077
-Eternal Sunshine of the Spotless Mind,2004,2004-03-19,Drama; Romance; Sci-Fi; ,8.3,108,882500
-Mad Max: Fury Road,2015,2015-05-15,Action; Adventure; Sci-Fi; ,8.1,,848014
-Star Wars: Episode VII - The Force Awakens,2015,2015-12-18,Action; Adventure; Sci-Fi; ,7.9,138,841239
-Jurassic Park,1993,1993-06-11,Action; Adventure; Sci-Fi; ,8.1,127,836798
-The Hunger Games,2012,2012-03-23,Action; Adventure; Sci-Fi; ,7.2,142,826508
-Avengers: Infinity War,2018,2018-04-27,Action; Adventure; Sci-Fi; ,8.4,149,784785
-The Terminator,1984,1984-10-26,Action; Sci-Fi; ,8.0,107,779037
-Alien,1979,1979-06-22,Horror; Sci-Fi; ,8.4,117,762796
-Gravity,2013,2013-10-04,Drama; Sci-Fi; Thriller; ,7.7,91,751308
-Iron Man 3,2013,2013-05-03,Action; Adventure; Sci-Fi; ,7.2,130,735571
-A Clockwork Orange,1971,1972-02-02,Crime; Drama; Sci-Fi; ,8.3,136,735084
-The Martian,2015,2015-10-02,Adventure; Drama; Sci-Fi; ,8.0,144,734927
-Avengers: Age of Ultron,2015,2015-05-01,Action; Adventure; Sci-Fi; ,7.3,141,717523
-Captain America: The Winter Soldier,2014,2014-04-04,Action; Adventure; Sci-Fi; ,7.7,136,714448
-Iron Man 2,2010,2010-05-07,Action; Adventure; Sci-Fi; ,7.0,124,701924
-Man of Steel,2013,2013-06-14,Action; Adventure; Sci-Fi; ,7.0,143,675231
-Blade Runner,1982,1982-06-25,Action; Sci-Fi; Thriller; ,8.1,117,673129
-Spider-Man,2002,2002-05-03,Action; Adventure; Sci-Fi; ,7.3,121,671754
-X-Men: Days of Future Past,2014,2014-05-23,Action; Adventure; Sci-Fi; ,8.0,132,647272
-Captain America: Civil War,2016,2016-05-06,Action; Adventure; Sci-Fi; ,7.8,147,638736
-Aliens,1986,1986-07-18,Action; Adventure; Sci-Fi; ,8.3,137,635166
-X-Men: First Class,2011,2011-06-03,Action; Adventure; Sci-Fi; ,7.7,131,634152
-District 9,2009,2009-08-14,Action; Sci-Fi; Thriller; ,7.9,112,627698
-Logan,2017,2017-03-03,Action; Drama; Sci-Fi; ,8.1,137,621181
-Batman v Superman: Dawn of Justice,2016,2016-03-25,Action; Adventure; Sci-Fi; ,6.4,151,608230
-Black Panther,2018,2018-02-16,Action; Adventure; Sci-Fi; ,7.3,134,587394
-Transformers,2007,2007-07-03,Action; Adventure; Sci-Fi; ,7.0,144,586898
-2001: A Space Odyssey,1968,1968-05-12,Adventure; Sci-Fi; ,8.3,149,582726
-Edge of Tomorrow,2014,2014-06-06,Action; Adventure; Sci-Fi; ,7.9,113,581945
-Star Trek,2009,2009-05-08,Action; Adventure; Sci-Fi; ,7.9,127,570082
-Arrival,2016,2016-11-11,Drama; Mystery; Sci-Fi; ,7.9,116,569765
-Jurassic World,2015,2015-06-12,Action; Adventure; Sci-Fi; ,7.0,124,566277
-X-Men,2000,2000-07-14,Action; Adventure; Sci-Fi; ,7.4,104,559248
-Rogue One: A Star Wars Story,2016,2016-12-16,Action; Adventure; Sci-Fi; ,7.8,133,534491
-Spider-Man 2,2004,2004-06-30,Action; Adventure; Sci-Fi; ,7.3,127,529345
-Looper,2012,2012-09-28,Action; Drama; Sci-Fi; ,7.4,113,523456
-Her,2013,2014-01-10,Drama; Romance; Sci-Fi; ,8.0,126,518285
-Independence Day,1996,1996-07-03,Action; Adventure; Sci-Fi; ,7.0,145,516794
-Limitless,2011,2011-03-18,Sci-Fi; Thriller; ,7.4,105,516619
-The Matrix Reloaded,2003,2003-05-15,Action; Sci-Fi; ,7.2,138,503185
-X2: X-Men United,2003,2003-05-02,Action; Sci-Fi; Thriller; ,7.4,134,501727
-Spider-Man: Homecoming,2017,2017-07-07,Action; Adventure; Sci-Fi; ,7.4,133,488800
-Rise of the Planet of the Apes,2011,2011-08-05,Action; Drama; Sci-Fi; ,7.6,105,488751
-"I, Robot",2004,2004-07-16,Action; Drama; Sci-Fi; ,7.1,115,488325
-Spider-Man 3,2007,2007-05-04,Action; Adventure; Sci-Fi; ,6.2,139,486585
-Oblivion,2013,2013-04-19,Action; Adventure; Sci-Fi; ,7.0,124,474456
-X-Men: The Last Stand,2006,2006-05-26,Action; Adventure; Sci-Fi; ,6.7,104,473265
-Back to the Future Part II,1989,1989-11-22,Adventure; Comedy; Sci-Fi; ,7.8,108,462381
-Pacific Rim,2013,2013-07-12,Action; Adventure; Sci-Fi; ,6.9,131,458119
-X-Men Origins: Wolverine,2009,2009-05-01,Action; Adventure; Sci-Fi; ,6.6,107,457518
-Star Trek Into Darkness,2013,2013-05-16,Action; Adventure; Sci-Fi; ,7.7,132,457107
-Children of Men,2006,2007-01-05,Drama; Sci-Fi; Thriller; ,7.9,109,452558
-The Butterfly Effect,2004,2004-01-23,Drama; Sci-Fi; Thriller; ,7.6,113,441951
-The Matrix Revolutions,2003,2003-11-05,Action; Sci-Fi; ,6.8,129,437028
-Lucy,2014,2014-07-25,Action; Sci-Fi; Thriller; ,6.4,89,430676
-The Incredible Hulk,2008,2008-06-13,Action; Adventure; Sci-Fi; ,6.7,112,423889
-The Fifth Element,1997,1997-05-09,Action; Adventure; Sci-Fi; ,7.7,126,423434
-The Wolverine,2013,2013-07-26,Action; Adventure; Sci-Fi; ,6.7,126,420261
-Captain Marvel,2019,2019-03-08,Action; Adventure; Sci-Fi; ,6.9,123,417001
-Elysium,2013,2013-08-09,Action; Drama; Sci-Fi; ,6.6,109,411958
-The Amazing Spider-Man 2,2014,2014-05-02,Action; Adventure; Sci-Fi; ,6.6,142,407309
-War of the Worlds,2005,2005-06-29,Adventure; Sci-Fi; Thriller; ,6.5,116,406710
-The Day After Tomorrow,2004,2004-05-28,Action; Adventure; Sci-Fi; ,6.4,124,406360
-The Hunger Games: Mockingjay - Part 1,2014,2014-11-21,Action; Adventure; Sci-Fi; ,6.6,123,401820
-Back to the Future Part III,1990,1990-05-25,Adventure; Comedy; Sci-Fi; ,7.4,118,389699
-Armageddon,1998,1998-07-01,Action; Adventure; Sci-Fi; ,6.7,151,387963
-A Quiet Place,2018,2018-04-06,Drama; Horror; Sci-Fi; ,7.5,90,385789
-X-Men: Apocalypse,2016,2016-05-27,Action; Adventure; Sci-Fi; ,6.9,144,381865
-Transformers: Dark of the Moon,2011,2011-06-29,Action; Adventure; Sci-Fi; ,6.2,154,378545
-Transformers: Revenge of the Fallen,2009,2009-06-24,Action; Adventure; Sci-Fi; ,6.0,149,377753
-Terminator 3: Rise of the Machines,2003,2003-07-02,Action; Sci-Fi; ,6.3,109,369941
-Godzilla,2014,2014-05-16,Action; Adventure; Sci-Fi; ,6.4,123,368278
-The Lost World: Jurassic Park,1997,1997-05-23,Action; Adventure; Sci-Fi; ,6.6,129,367727
-Predator,1987,1987-06-12,Action; Adventure; Sci-Fi; ,7.8,107,362463
-In Time,2011,2011-10-28,Action; Sci-Fi; Thriller; ,6.7,109,361536
-E.T. the Extra-Terrestrial,1982,1982-06-11,Sci-Fi; ,7.8,115,359808
-The Thing,1982,1982-06-25,Horror; Mystery; Sci-Fi; ,8.1,109,356790
-Ready Player One,2018,2018-03-29,Action; Adventure; Sci-Fi; ,7.5,140,348661
-2012,2009,2009-11-13,Action; Adventure; Sci-Fi; ,5.8,158,345451
-Face_Off,1997,1997-06-27,Action; Crime; Sci-Fi; ,7.3,138,341453
-Terminator Salvation,2009,2009-05-21,Action; Adventure; Sci-Fi; ,6.5,115,337484
-The Big Lebowski,1998,1998-03-06,Comedy; Crime; Sport; ,8.1,117,705947
-Million Dollar Baby,2004,2005-01-28,Drama; Sport; ,8.1,132,618907
-Rocky,1976,1976-12-03,Drama; Sport; ,8.1,,502752
-Warrior,2011,2011-09-09,Action; Drama; Sport; ,8.2,140,424797
-Rush,2013,2013-09-27,Biography; Drama; Sport; ,8.1,123,419381
-Moneyball,2011,2011-09-23,Biography; Drama; Sport; ,7.6,133,350553
-The Fighter,2010,2010-12-17,Biography; Drama; Sport; ,7.8,116,332122
-Raging Bull,1980,1980-12-19,Biography; Drama; Sport; ,8.2,129,311228
-The Wrestler,2008,2009-01-30,Drama; Sport; ,7.9,109,285261
-The Blind Side,2009,2009-11-20,Biography; Drama; Sport; ,7.6,129,283759
-Creed,2015,2015-11-25,Drama; Sport; ,7.6,133,240217
-Dodgeball,2004,2004-06-18,Comedy; Sport; ,6.7,92,224256
-Southpaw,2015,2015-07-24,Drama; Sport; ,7.4,124,211731
-Remember the Titans,2000,2000-09-29,Biography; Drama; Sport; ,7.8,113,193013
-Happy Gilmore,1996,1996-02-16,Comedy; Sport; ,7.0,92,191082
-Rocky II,1979,1979-06-15,Drama; Sport; ,7.3,119,185752
-Rocky IV,1985,1985-11-27,Drama; Sport; ,6.9,91,181314
-Rocky III,1982,1982-05-28,Drama; Sport; ,6.8,99,168581
-Talladega Nights: The Ballad of Ricky Bobby,2006,2006-08-04,Comedy; Sport; ,6.6,108,163181
-The Longest Yard,2005,2005-05-27,Comedy; Crime; Sport; ,6.4,113,158464
-Blades of Glory,2007,2007-03-30,Comedy; Sport; ,6.3,93,154489
-The Waterboy,1998,1998-11-06,Comedy; Sport; ,6.1,90,145024
-She's the Man,2006,2006-03-17,Comedy; Romance; Sport; ,6.3,105,142831
-Unbroken,2014,2014-12-25,Biography; Drama; Sport; ,7.2,137,141389
-Green Street Hooligans,2005,2005-09-09,Crime; Drama; Sport; ,7.5,109,139282
-Foxcatcher,2014,2015-01-16,Biography; Drama; Sport; ,7.0,134,131688
-Rocky V,1990,1990-11-16,Drama; Sport; ,5.3,104,123555
-Coach Carter,2005,2005-01-14,Biography; Drama; Sport; ,7.3,136,122248
-Any Given Sunday,1999,1999-12-22,Drama; Sport; ,6.9,162,110159
-Caddyshack,1980,1980-07-25,Comedy; Sport; ,7.3,98,102192
-Creed II,2018,2018-11-21,Drama; Sport; ,7.1,130,97820
-Never Back Down,2008,2008-03-14,Action; Drama; Sport; ,6.6,113,94170
-Ali,2001,2001-12-25,Biography; Drama; Sport; ,6.8,157,91667
-The Hurricane,1999,2000-01-14,Biography; Drama; Sport; ,7.6,146,89663
-Bring It On,2000,2000-08-25,Comedy; Romance; Sport; ,6.0,98,84978
-Here Comes the Boom,2012,2012-10-12,Action; Comedy; Sport; ,6.4,105,84309
-Concussion,2015,2015-12-25,Biography; Drama; Sport; ,7.1,123,83455
-Goon,2011,2012-02-24,Comedy; Drama; Sport; ,6.8,92,82574
-42,2013,2013-04-12,Biography; Drama; Sport; ,7.5,128,81640
-Nacho Libre,2006,2006-06-16,Comedy; Sport; ,5.7,92,79678
-Semi-Pro,2008,2008-02-29,Comedy; Sport; ,5.8,91,77162
-Days of Thunder,1990,1990-06-27,Action; Drama; Sport; ,6.0,107,76691
-Kingpin,1996,1996-07-26,Comedy; Sport; ,6.9,114,75490
-Hot Rod,2007,2007-08-03,Comedy; Sport; ,6.7,88,74811
-The Hustler,1961,1961-09-25,Drama; Sport; ,8.0,134,73604
-The Color of Money,1986,1986-10-17,Drama; Sport; ,7.0,119,72250
-Chak de! India,2007,2007-08-10,Drama; Sport; ,8.2,153,71335
-Seabiscuit,2003,2003-07-25,Drama; History; Sport; ,7.3,140,65167
-"Run, Fat Boy, Run",2007,2008-03-28,Comedy; Romance; Sport; ,6.6,100,64800
-Invincible,2006,2006-08-25,Biography; Drama; Sport; ,7.1,105,64317
-Whip It,2009,2009-10-02,Drama; Sport; ,6.9,111,62820
-Children of Heaven,1997,1999-01-22,Drama; Sport; ,8.3,89,61338
-Major League,1989,1989-04-07,Comedy; Sport; ,7.2,107,60362
-Trouble with the Curve,2012,2012-09-21,Drama; Sport; ,6.8,111,58790
-Bhaag Milkha Bhaag,2013,2013-07-12,Biography; Drama; Sport; ,8.2,186,58777
-Wimbledon,2004,2004-09-17,Comedy; Romance; Sport; ,6.3,98,58729
-Friday Night Lights,2004,2004-10-08,Action; Drama; Sport; ,7.2,118,57615
-Point Break,2015,2015-12-25,Action; Crime; Sport; ,5.3,114,56913
-The Replacements,2000,2000-08-11,Comedy; Sport; ,6.6,118,56892
-Grudge Match,2013,2013-12-25,Comedy; Drama; Sport; ,6.4,113,56593
-We Are Marshall,2006,2006-12-22,Drama; Sport; ,7.1,131,56112
-BASEketball,1998,1998-07-31,Comedy; Sport; ,6.5,103,55800
-Rudy,1993,1993-10-22,Biography; Drama; Sport; ,7.5,114,54400
-Chariots of Fire,1981,1982-04-09,Biography; Drama; Sport; ,7.2,125,52940
-The Legend of Bagger Vance,2000,2000-11-03,Drama; Fantasy; Sport; ,6.7,126,52493
-Win Win,2011,2011-04-15,Comedy; Drama; Sport; ,7.1,106,52334
-Draft Day,2014,2014-04-11,Drama; Sport; ,6.8,110,52057
-Lords of Dogtown,2005,2005-06-03,Biography; Drama; Sport; ,7.1,107,51181
-The World's Fastest Indian,2005,2006-03-24,Biography; Drama; Sport; ,7.8,127,50954
-The Love Guru,2008,2008-06-20,Comedy; Romance; Sport; ,3.8,87,49662
-Over the Top,1987,1987-02-13,Action; Drama; Sport; ,5.8,93,48899
-Kickboxer,1989,1989-09-08,Action; Sport; Thriller; ,6.5,97,48479
-The Benchwarmers,2006,2006-04-07,Comedy; Sport; ,5.5,85,47394
-The Big Blue,1988,1988-08-19,Adventure; Drama; Sport; ,7.6,168,47005
-Bull Durham,1988,1988-06-15,Comedy; Romance; Sport; ,7.1,108,46429
-The Fan,1996,1996-08-16,Action; Drama; Sport; ,5.9,116,45246
-He Got Game,1998,1998-05-01,Drama; Sport; ,6.9,136,43286
-The Natural,1984,1984-05-11,Drama; Sport; ,7.5,138,42728
-Million Dollar Arm,2014,2014-05-16,Biography; Drama; Sport; ,7.0,124,42611
-Two for the Money,2005,2005-10-07,Crime; Drama; Sport; ,6.3,122,42585
-Glory Road,2006,2006-01-13,Biography; Drama; Sport; ,7.2,118,42010
-Hoosiers,1986,1987-02-27,Drama; Sport; ,7.5,114,41815
-Balls of Fury,2007,2007-08-29,Comedy; Crime; Sport; ,5.3,90,40109
-Driven,2001,2001-04-27,Action; Drama; Sport; ,4.6,116,38749
-Pawn Sacrifice,2014,2015-09-25,Biography; Drama; Sport; ,7.0,115,38338
-Radio,2003,2003-10-24,Biography; Drama; Sport; ,6.9,109,37537
-Sultan,2016,2016-07-06,Action; Drama; Sport; ,7.0,170,35954
-The Ringer,2005,2005-12-23,Comedy; Sport; ,5.8,94,34713
-"McFarland, USA",2015,2015-02-20,Biography; Drama; Sport; ,7.4,129,34319
-Slap Shot,1977,1977-02-25,Comedy; Drama; Sport; ,7.3,123,33455
-M.S. Dhoni: The Untold Story,2016,2016-09-30,Biography; Drama; Sport; ,7.7,184,32250
-The Cannonball Run,1981,1981-06-19,Action; Comedy; Sport; ,6.3,95,32189
-The Rookie,2002,2002-03-29,Drama; Sport; ,6.9,127,31474
-For Love of the Game,1999,1999-09-17,Drama; Romance; Sport; ,6.6,137,30972
-Blue Crush,2002,2002-08-16,Drama; Romance; Sport; ,5.6,104,29521
-The Football Factory,2004,2004-05-14,Crime; Drama; Sport; ,6.8,91,28140
-Hardball,2001,2001-09-14,Drama; Sport; ,6.4,106,27587
-The Greatest Game Ever Played,2005,2005-09-30,Biography; Drama; Sport; ,7.4,,27289
-Victory,1981,1981-07-31,Drama; Sport; War; ,6.7,116,26806
-Peaceful Warrior,2006,2006-06-23,Drama; Romance; Sport; ,7.3,,26084
-The Silence of the Lambs,1991,1991-02-14,Crime; Drama; Thriller; ,8.6,118,1223466
-The Departed,2006,2006-10-06,Crime; Drama; Thriller; ,8.5,151,1150798
-Kill Bill: Vol. 1,2003,2003-10-10,Action; Crime; Thriller; ,8.1,111,970445
-Reservoir Dogs,1992,1992-09-02,Crime; Drama; Thriller; ,8.3,99,889969
-Gone Girl,2014,2014-10-03,Drama; Mystery; Thriller; ,8.1,149,825453
-No Country for Old Men,2007,2007-11-21,Crime; Drama; Thriller; ,8.1,122,823139
-Joker,2019,2019-10-04,Crime; Drama; Thriller; ,8.5,122,822374
-Die Hard,1988,1988-07-20,Action; Thriller; ,8.2,132,763305
-Sin City,2005,2005-04-01,Crime; Thriller; ,8.0,124,731421
-Black Swan,2010,2010-12-17,Drama; Thriller; ,8.0,108,682526
-Kill Bill: Vol. 2,2004,2004-04-16,Action; Crime; Thriller; ,8.0,137,663575
-The Imitation Game,2014,2014-12-25,Biography; Drama; Thriller; ,8.0,114,662299
-Skyfall,2012,2012-11-09,Action; Adventure; Thriller; ,7.7,143,617648
-Psycho,1960,1960-09-08,Horror; Mystery; Thriller; ,8.5,109,580962
-Casino Royale,2006,2006-11-17,Action; Adventure; Thriller; ,8.0,144,566971
-Argo,2012,2012-10-12,Biography; Drama; Thriller; ,7.7,,560357
-Heat,1995,1995-12-15,Crime; Drama; Thriller; ,8.2,170,557731
-Taken,2008,2009-01-30,Action; Thriller; ,7.8,90,555825
-Jaws,1975,1975-06-20,Adventure; Thriller; ,8.0,124,531984
-John Wick,2014,2014-10-24,Action; Crime; Thriller; ,7.4,101,514556
-Ocean's Eleven,2001,2001-12-07,Crime; Thriller; ,7.7,116,500923
-The Bourne Identity,2002,2002-06-14,Action; Mystery; Thriller; ,7.9,119,496182
-Blood Diamond,2006,2006-12-08,Adventure; Drama; Thriller; ,8.0,143,486643
-Get Out,2017,2017-02-24,Horror; Mystery; Thriller; ,7.7,104,465583
-Mission: Impossible - Ghost Protocol,2011,2011-12-21,Action; Adventure; Thriller; ,7.4,132,447114
-Nightcrawler,2014,2014-10-31,Crime; Drama; Thriller; ,7.9,117,443662
-Parasite,2019,2019-11-08,Comedy; Drama; Thriller; ,8.6,132,442239
-The Bourne Supremacy,2004,2004-07-23,Action; Mystery; Thriller; ,7.7,108,424858
-Crash,2004,2005-05-06,Crime; Drama; Thriller; ,7.7,112,413655
-The Hurt Locker,2008,2009-07-31,Drama; Thriller; War; ,7.6,131,411933
-Split,2016,2017-01-20,Horror; Thriller; ,7.3,117,404540
-Quantum of Solace,2008,2008-11-14,Action; Adventure; Thriller; ,6.6,106,395714
-Live Free or Die Hard,2007,2007-06-27,Action; Thriller; ,7.1,128,382657
-Training Day,2001,2001-10-05,Crime; Drama; Thriller; ,7.7,122,378414
-Mission: Impossible,1996,1996-05-22,Action; Adventure; Thriller; ,7.1,110,377738
-Spectre,2015,2015-11-06,Action; Adventure; Thriller; ,6.8,148,374071
-Fast & Furious 6,2013,2013-05-24,Action; Adventure; Thriller; ,7.1,130,361499
-Die Hard with a Vengeance,1995,1995-05-19,Action; Adventure; Thriller; ,7.6,128,355455
-Room,2015,2016-01-22,Drama; Thriller; ,8.1,118,352682
-Furious 7,2015,2015-04-03,Action; Adventure; Thriller; ,7.1,137,351611
-Collateral,2004,2004-08-06,Crime; Drama; Thriller; ,7.5,,350031
-Ocean's Twelve,2004,2004-12-10,Crime; Thriller; ,6.5,125,349319
-The Machinist,2004,2004-12-03,Drama; Thriller; ,7.7,101,348658
-John Wick: Chapter 2,2017,2017-02-10,Action; Crime; Thriller; ,7.5,122,347583
-The Town,2010,2010-09-17,Crime; Drama; Thriller; ,7.5,125,341093
-The Italian Job,2003,2003-05-30,Action; Crime; Thriller; ,7.0,111,335571
-Mission: Impossible - Rogue Nation,2015,2015-07-31,Action; Adventure; Thriller; ,7.4,131,332108
-Die Hard 2,1990,1990-07-03,Action; Thriller; ,7.2,124,328030
-The Equalizer,2014,2014-09-26,Action; Crime; Thriller; ,7.2,132,322282
-Mission: Impossible III,2006,2006-05-05,Action; Adventure; Thriller; ,6.9,126,322182
-Speed,1994,1994-06-10,Action; Adventure; Thriller; ,7.2,116,320047
-The Expendables,2010,2010-08-13,Action; Adventure; Thriller; ,6.5,103,319722
-Flight,2012,2012-11-02,Drama; Thriller; ,7.3,138,317752
-Ocean's Thirteen,2007,2007-06-08,Action; Crime; Thriller; ,6.9,122,312813
-Jackie Brown,1997,1997-12-25,Crime; Drama; Thriller; ,7.5,154,306881
-Mission: Impossible II,2000,2000-05-24,Action; Adventure; Thriller; ,6.1,123,306425
-The Rock,1996,1996-06-07,Action; Adventure; Thriller; ,7.4,136,305379
-Shooter,2007,2007-03-23,Action; Drama; Thriller; ,7.2,124,303822
-Jack Reacher,2012,2012-12-21,Action; Thriller; ,7.0,130,300121
-The Island,2005,2005-07-22,Action; Sci-Fi; Thriller; ,6.8,136,296267
-Total Recall,1990,1990-06-01,Action; Sci-Fi; Thriller; ,7.5,113,292730
-Fifty Shades of Grey,2015,2015-02-13,Drama; Romance; Thriller; ,4.1,125,291813
-North by Northwest,1959,1959-09-26,Adventure; Mystery; Thriller; ,8.3,136,289251
-The Expendables 2,2012,2012-08-17,Action; Adventure; Thriller; ,6.6,103,287241
-Taken 2,2012,2012-10-05,Action; Thriller; ,6.3,92,284295
-Chinatown,1974,1974-06-20,Drama; Mystery; Thriller; ,8.2,130,284180
-The Transporter,2002,2002-10-11,Action; Crime; Thriller; ,6.8,92,279982
-The Bourne Legacy,2012,2012-08-10,Action; Adventure; Thriller; ,6.7,135,279239
-Bridge of Spies,2015,2015-10-16,Drama; History; Thriller; ,7.6,142,279001
-Inglourious Basterds,2009,2009-08-21,Adventure; Drama; War; ,8.3,153,1219382
-Saving Private Ryan,1998,1998-07-24,Drama; War; ,8.6,169,1194206
-Full Metal Jacket,1987,1987-07-10,Drama; War; ,8.3,116,652866
-Pan's Labyrinth,2006,2007-01-19,Drama; Fantasy; War; ,8.2,118,603272
-Apocalypse Now,1979,1979-08-15,Drama; Mystery; War; ,8.4,147,585990
-Casablanca,1942,1943-01-23,Drama; Romance; War; ,8.5,102,506227
-Fury,2014,2014-10-17,Action; Drama; War; ,7.6,134,411964
-The Last Samurai,2003,2003-12-05,Action; Drama; War; ,7.7,154,389279
-Platoon,1986,1987-02-06,Drama; War; ,8.1,,370941
-Tropic Thunder,2008,2008-08-13,Action; Comedy; War; ,7.0,107,369926
-Black Hawk Down,2001,2002-01-18,Drama; History; War; ,7.7,144,356187
-1917,2019,2020-01-10,Drama; War; ,8.3,119,339629
-The Deer Hunter,1978,1979-02-23,Drama; War; ,8.1,183,302090
-Enemy at the Gates,2001,2001-03-16,Drama; History; War; ,7.6,131,236664
-Jojo Rabbit,2019,2019-11-08,Comedy; Drama; War; ,7.9,108,234610
-Grave of the Fireflies,1988,1989-07-26,Animation; Drama; War; ,8.5,89,221961
-The Bridge on the River Kwai,1957,1957-12-14,Adventure; Drama; War; ,8.1,161,197254
-The Great Dictator,1940,1941-03-07,Comedy; Drama; War; ,8.4,125,195477
-The Boy in the Striped Pajamas,2008,2008-11-26,Drama; War; ,7.8,94,184484
-The English Patient,1996,1996-12-06,Drama; Romance; War; ,7.4,162,174451
-Paths of Glory,1957,1957-12-25,Drama; War; ,8.4,88,170708
-The Thin Red Line,1998,1999-01-15,Drama; War; ,7.6,170,168244
-Legends of the Fall,1994,1995-01-13,Drama; Romance; War; ,7.6,133,143280
-Incendies,2010,2011-01-12,Drama; Mystery; War; ,8.3,131,140182
-Dear John,2010,2010-02-05,Drama; Romance; War; ,6.3,108,135449
-The Men Who Stare at Goats,2009,2009-11-06,Comedy; War; ,6.2,94,125141
-The Book Thief,2013,2013-11-27,Drama; War; ,7.6,131,124617
-13 Hours,2016,2016-01-15,Action; Drama; War; ,7.3,144,113586
-Ran,1985,1985-06-01,Action; Drama; War; ,8.2,162,107488
-The Mountain II,2016,2016-11-04,Action; Drama; War; ,8.9,135,103674
-Born on the Fourth of July,1989,1990-01-05,Biography; Drama; War; ,7.2,145,95537
-Patton,1970,1970-04-02,Biography; Drama; War; ,7.9,172,91924
-U-571,2000,2000-04-21,Action; War; ,6.6,116,75183
-G.I. Jane,1997,1997-08-22,Action; Drama; War; ,5.9,125,71669
-Black Book,2006,2007-05-18,Drama; Thriller; War; ,7.7,145,71193
-Beasts of No Nation,2015,2015-10-16,Drama; War; ,7.7,137,70819
-Doctor Zhivago,1965,1965-12-31,Drama; Romance; War; ,8.0,197,67798
-Judgment at Nuremberg,1961,1961-12-18,Drama; War; ,8.2,179,66650
-MASH,1970,1970-03-18,Comedy; Drama; War; ,7.5,116,66087
-The Dirty Dozen,1967,1967-10-22,Action; Adventure; War; ,7.7,150,65283
-Windtalkers,2002,2002-06-14,Action; Drama; War; ,6.1,134,64349
-Stripes,1981,1981-06-26,Comedy; War; ,6.9,106,63335
-All Quiet on the Western Front,1930,1930-08-24,Drama; War; ,8.0,152,55980
-The Best Years of Our Lives,1946,1947-05-29,Drama; Romance; War; ,8.0,170,55935
-Duck Soup,1933,1933-11-17,Comedy; War; ,7.8,69,54450
-Underground,1995,1997-06-20,Comedy; Drama; War; ,8.1,167,53854
-"Salò, or the 120 Days of Sodom",1975,1976-05-19,Drama; Horror; War; ,5.9,117,52316
-Come and See,1985,1985-10-17,Drama; War; ,8.3,142,52118
-Macbeth,2015,2015-12-11,Drama; History; War; ,6.6,113,51644
-The Battle of Algiers,1966,1967-09-20,Drama; War; ,8.1,121,50367
-Where Eagles Dare,1968,1969-03-12,Action; Adventure; War; ,7.7,158,50313
-A Bridge Too Far,1977,1977-06-15,Drama; History; War; ,7.4,175,50196
-Stalag 17,1953,1953-08-10,Comedy; Drama; War; ,8.0,,50069
-Hart's War,2002,2002-02-15,Drama; War; ,6.3,125,50062
-The Wind that Shakes the Barley,2006,2007-03-23,Drama; War; ,7.5,127,45234
-Kelly's Heroes,1970,1970-06-23,Adventure; Comedy; War; ,7.6,144,44031
-No Man's Land,2001,2001-09-19,Comedy; Drama; War; ,7.9,98,43762
-Rules of Engagement,2000,2000-04-07,Drama; Thriller; War; ,6.4,128,43553
-Son of Saul,2015,2015-06-11,Drama; War; ,7.5,107,43370
-The Man Who Would Be King,1975,1975-12-19,Adventure; History; War; ,7.8,129,42865
-From Here to Eternity,1953,1953-08-28,Drama; Romance; War; ,7.6,118,42026
-Uri: The Surgical Strike,2019,2019-01-11,Action; Drama; War; ,8.3,138,39997
-Mudbound,2017,2017-11-17,Drama; War; ,7.4,134,39943
-Casualties of War,1989,1989-08-18,Crime; Drama; War; ,7.1,113,39934
-War Machine,2017,2017-05-26,Comedy; Drama; War; ,6.0,122,39926
-Heartbreak Ridge,1986,1986-12-05,Drama; War; ,6.9,130,38473
-Tigerland,2000,2001-05-24,Drama; War; ,7.0,101,37364
-Tae Guk Gi: The Brotherhood of War,2004,2004-09-24,Action; Drama; War; ,8.1,140,37166
-Love and Death,1975,1975-07-18,Comedy; War; ,7.7,85,34959
-Zulu,1964,1964-06-17,Drama; History; War; ,7.7,138,34911
-The Last Legion,2007,2007-08-17,Action; Adventure; War; ,5.4,101,33704
-In the Land of Blood and Honey,2011,2012-02-16,Drama; Romance; War; ,4.5,127,33167
-La Grande Illusion,1937,1938-09-12,Drama; War; ,8.1,113,32997
-Kagemusha,1980,1980-10-10,Drama; History; War; ,8.0,162,30892
-The Guernsey Literary and Potato Peel Pie Society,2018,2018-08-10,Drama; Romance; War; ,7.4,124,30652
-1941,1979,1979-12-14,Action; Comedy; War; ,5.8,118,30625
-Coriolanus,2011,2012-01-20,Drama; Thriller; War; ,6.1,123,30543
-Au Revoir les Enfants,1987,1988-02-12,Drama; War; ,8.0,104,30195
-Stalingrad,1993,1993-01-21,Drama; War; ,7.5,134,29900
-Duck You Sucker,1971,1972-07-07,Drama; War; Western; ,7.6,138,28849
-To Be or Not to Be,1942,1942-03-06,Comedy; War; ,8.2,99,26579
-Lifeboat,1944,1944-01-28,Drama; War; ,7.6,97,25656
-Gettysburg,1993,1993-10-08,Drama; History; War; ,7.6,271,25505
-Cross of Iron,1977,1977-05-20,Drama; War; ,7.5,119,24560
-The Caine Mutiny,1954,1954-06-24,Drama; War; ,7.7,124,23779
-The Ottoman Lieutenant,2017,2017-03-10,Drama; War; ,6.6,106,23718
-Da 5 Bloods,2020,2020-06-12,Adventure; Drama; War; ,6.6,154,23105
-Bloody Sunday,2002,2002-04-19,Drama; History; War; ,7.6,107,22908
-Saboteur,1942,1942-04-24,Thriller; War; ,7.2,109,22497
-The Birth of a Nation,1915,1915-03-21,Drama; History; War; ,6.3,195,21976
-Little Boy,2015,2015-04-24,Drama; History; War; ,7.4,106,21808
-Last Flag Flying,2017,2017-11-03,Comedy; Drama; War; ,6.9,125,21540
-Catch-22,1970,1970-06-24,Comedy; Drama; War; ,7.1,122,21424
-The Great Raid,2005,2005-08-12,Action; Drama; War; ,6.7,132,20965
-Saints and Soldiers,2003,2005-03-25,Action; Drama; War; ,6.7,90,19730
-Stop-Loss,2008,2008-03-28,Drama; War; ,6.4,112,19456
-The Alamo,2004,2004-04-09,Drama; History; War; ,6.0,137,19290
+name,rel_date,genres,rating,run_length,num_raters
+The Dark Knight,2008-07-18,"Action, Crime, Drama",9.0,152,2224522
+Inception,2010-07-16,"Action, Adventure, Sci-Fi",8.8,148,1981675
+The Matrix,1999-03-31,"Action, Sci-Fi",8.7,136,1619761
+The Lord of the Rings: The Fellowship of the Ring,2001-12-19,"Action, Adventure, Drama",8.8,178,1609165
+The Dark Knight Rises,2012-07-20,"Action, Adventure",8.4,164,1470329
+Gladiator,2000-05-05,"Action, Adventure, Drama",8.5,155,1297718
+Batman Begins,2005-06-15,"Action, Adventure",8.2,140,1269027
+The Avengers,2012-05-04,"Action, Adventure, Sci-Fi",8.0,143,1236048
+Star Wars: Episode IV - A New Hope,1977-05-25,"Action, Adventure, Fantasy",8.6,121,1197132
+Star Wars: Episode V - The Empire Strikes Back,1980-06-20,"Action, Adventure, Fantasy",8.7,124,1124834
+Avatar,2009-12-18,"Action, Adventure, Fantasy",7.8,162,1096125
+Guardians of the Galaxy,2014-08-01,"Action, Adventure, Comedy",8.0,121,1017405
+V for Vendetta,2006-03-17,"Action, Drama, Sci-Fi",8.2,132,1002944
+Léon: The Professional,1994-11-18,"Action, Crime, Drama",8.5,110,999596
+Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,"Action, Adventure, Fantasy",8.0,143,997264
+Kill Bill: Vol. 1,2003-10-10,"Action, Crime, Thriller",8.1,111,970439
+Terminator 2: Judgment Day,1991-07-03,"Action, Sci-Fi",8.5,137,968504
+Star Wars: Episode VI - Return of the Jedi,1983-05-25,"Action, Adventure, Fantasy",8.3,131,922278
+Iron Man,2008-05-02,"Action, Adventure, Sci-Fi",7.9,126,915640
+Deadpool,2016-02-12,"Action, Adventure, Comedy",8.0,108,876091
+Raiders of the Lost Ark,1981-06-12,"Action, Adventure",8.4,115,859523
+Star Wars: Episode VII - The Force Awakens,2015-12-18,"Action, Adventure, Sci-Fi",7.9,138,841234
+Jurassic Park,1993-06-11,"Action, Adventure, Sci-Fi",8.1,127,836793
+The Hunger Games,2012-03-23,"Action, Adventure, Sci-Fi",7.2,142,826505
+Avengers: Infinity War,2018-04-27,"Action, Adventure, Sci-Fi",8.4,149,784777
+The Terminator,1984-10-26,"Action, Sci-Fi",8.0,107,779029
+Die Hard,1988-07-20,"Action, Thriller",8.2,132,763300
+Avengers: Endgame,2019-04-26,"Action, Adventure, Drama",8.4,181,736177
+Iron Man 3,2013-05-03,"Action, Adventure, Sci-Fi",7.2,130,735568
+Thor,2011-05-06,"Action, Adventure, Fantasy",7.0,115,726753
+300,2007-03-09,"Action, Drama",7.6,117,719421
+Captain America: The First Avenger,2011-07-22,"Action, Adventure, Sci-Fi",6.9,124,718921
+Avengers: Age of Ultron,2015-05-01,"Action, Adventure, Sci-Fi",7.3,141,717521
+Captain America: The Winter Soldier,2014-04-04,"Action, Adventure, Sci-Fi",7.7,136,714445
+Star Wars: Episode I - The Phantom Menace,1999-05-19,"Action, Adventure, Fantasy",6.5,136,708990
+Iron Man 2,2010-05-07,"Action, Adventure, Sci-Fi",7.0,124,701922
+Star Wars: Episode III - Revenge of the Sith,2005-05-19,"Action, Adventure, Fantasy",7.5,140,690205
+The Revenant,2016-01-08,"Action, Adventure, Drama",8.0,156,678829
+Man of Steel,2013-06-14,"Action, Adventure, Sci-Fi",7.0,143,675229
+Blade Runner,1982-06-25,"Action, Sci-Fi, Thriller",8.1,117,673121
+Indiana Jones and the Last Crusade,1989-05-24,"Action, Adventure",8.2,127,672206
+Spider-Man,2002-05-03,"Action, Adventure, Sci-Fi",7.3,121,671751
+I Am Legend,2007-12-14,"Action, Adventure, Drama",7.2,101,670748
+Kill Bill: Vol. 2,2004-04-16,"Action, Crime, Thriller",8.0,137,663568
+X-Men: Days of Future Past,2014-05-23,"Action, Adventure, Sci-Fi",8.0,132,647269
+How to Train Your Dragon,2010-03-26,"Animation, Action, Adventure",8.1,98,647266
+Pirates of the Caribbean: Dead Man's Chest,2006-07-07,"Action, Adventure, Fantasy",7.3,151,641045
+The Incredibles,2004-11-05,"Animation, Action, Adventure",8.0,115,638952
+Captain America: Civil War,2016-05-06,"Action, Adventure, Sci-Fi",7.8,147,638731
+Aliens,1986-07-18,"Action, Adventure, Sci-Fi",8.3,137,635164
+X-Men: First Class,2011-06-03,"Action, Adventure, Sci-Fi",7.7,131,634147
+District 9,2009-08-14,"Action, Sci-Fi, Thriller",7.9,112,627696
+Star Wars: Episode II - Attack of the Clones,2002-05-16,"Action, Adventure, Fantasy",6.5,142,621911
+Logan,2017-03-03,"Action, Drama, Sci-Fi",8.1,137,621174
+Skyfall,2012-11-09,"Action, Adventure, Thriller",7.7,143,617644
+Batman v Superman: Dawn of Justice,2016-03-25,"Action, Adventure, Sci-Fi",6.4,151,608225
+The Hunger Games: Catching Fire,2013-11-22,"Action, Adventure, Mystery",7.5,146,600099
+The Bourne Ultimatum,2007-08-03,"Action, Mystery, Thriller",8.0,115,595431
+Black Panther,2018-02-16,"Action, Adventure, Sci-Fi",7.3,134,587388
+Transformers,2007-07-03,"Action, Adventure, Sci-Fi",7.0,144,586895
+World War Z,2013-06-21,"Action, Adventure, Horror",7.0,116,586801
+Pirates of the Caribbean: At World's End,2007-05-25,"Action, Adventure, Fantasy",7.1,169,582275
+Suicide Squad,2016-08-05,"Action, Adventure, Fantasy",6.0,123,581986
+Edge of Tomorrow,2014-06-06,"Action, Adventure, Sci-Fi",7.9,113,581938
+Thor: The Dark World,2013-11-08,"Action, Adventure, Fantasy",6.9,112,578425
+Kingsman: The Secret Service,2015-02-13,"Action, Adventure, Comedy",7.7,129,575952
+Doctor Strange,2016-11-04,"Action, Adventure, Fantasy",7.5,115,573177
+Sherlock Holmes,2009-12-25,"Action, Adventure, Mystery",7.6,128,571401
+Star Trek,2009-05-08,"Action, Adventure, Sci-Fi",7.9,127,570077
+Casino Royale,2006-11-17,"Action, Adventure, Thriller",8.0,144,566966
+Jurassic World,2015-06-12,"Action, Adventure, Sci-Fi",7.0,124,566272
+X-Men,2000-07-14,"Action, Adventure, Sci-Fi",7.4,104,559246
+Thor: Ragnarok,2017-11-03,"Action, Adventure, Comedy",7.9,130,557591
+Taken,2009-01-30,"Action, Thriller",7.8,90,555820
+Ant-Man,2015-07-17,"Action, Adventure, Comedy",7.3,117,549076
+The Amazing Spider-Man,2012-07-03,"Action, Adventure, Sci-Fi",6.9,136,547661
+Guardians of the Galaxy Vol. 2,2017-05-05,"Action, Adventure, Comedy",7.6,136,544357
+Star Wars: Episode VIII - The Last Jedi,2017-12-15,"Action, Adventure, Fantasy",7.0,152,543307
+Rogue One: A Star Wars Story,2016-12-16,"Action, Adventure, Sci-Fi",7.8,133,534483
+Wonder Woman,2017-06-02,"Action, Adventure, Fantasy",7.4,141,531221
+Spider-Man 2,2004-06-30,"Action, Adventure, Sci-Fi",7.3,127,529344
+Looper,2012-09-28,"Action, Drama, Sci-Fi",7.4,113,523452
+Dunkirk,2017-07-21,"Action, Drama, History",7.9,106,523089
+"Lock, Stock and Two Smoking Barrels",1998-08-28,"Action, Comedy, Crime",8.2,107,521026
+Independence Day,1996-07-03,"Action, Adventure, Sci-Fi",7.0,145,516789
+Kick-Ass,2010-04-16,"Action, Comedy, Crime",7.6,117,515786
+John Wick,2014-10-24,"Action, Crime, Thriller",7.4,101,514550
+Men in Black,1997-07-02,"Action, Adventure, Comedy",7.3,98,504013
+The Matrix Reloaded,2003-05-15,"Action, Sci-Fi",7.2,138,503184
+X2: X-Men United,2003-05-02,"Action, Sci-Fi, Thriller",7.4,134,501725
+21 Jump Street,2012-03-16,"Action, Comedy, Crime",7.2,109,499602
+Oldboy,2003-11-21,"Action, Drama, Mystery",8.4,101,496687
+The Bourne Identity,2002-06-14,"Action, Mystery, Thriller",7.9,119,496180
+Minority Report,2002-06-21,"Action, Crime, Mystery",7.6,145,495543
+Harry Potter and the Order of the Phoenix,2007-07-11,"Action, Adventure",7.5,138,489759
+Spider-Man: Homecoming,2017-07-07,"Action, Adventure, Sci-Fi",7.4,133,488794
+Rise of the Planet of the Apes,2011-08-05,"Action, Drama, Sci-Fi",7.6,105,488748
+"I, Robot",2004-07-16,"Action, Drama, Sci-Fi",7.1,115,488324
+Watchmen,2009-03-06,"Action, Drama, Mystery",7.6,162,487717
+The Lord of the Rings: The Return of the King,2003-12-17,"Adventure, Drama, Fantasy",8.9,201,1593859
+The Lord of the Rings: The Two Towers,2002-12-18,"Adventure, Drama, Fantasy",8.7,179,1440188
+Interstellar,2014-11-07,"Adventure, Drama, Sci-Fi",8.6,169,1430797
+Inglourious Basterds,2009-08-21,"Adventure, Drama, War",8.3,153,1219372
+Back to the Future,1985-07-03,"Adventure, Comedy, Sci-Fi",8.5,116,1015004
+WALL·E,2008-06-27,"Animation, Adventure",8.4,98,967917
+Finding Nemo,2003-05-30,"Animation, Adventure, Comedy",8.1,100,922080
+The Lion King,1994-06-24,"Animation, Adventure, Drama",8.5,88,910179
+Up,2009-05-29,"Animation, Adventure, Comedy",8.2,96,905044
+Toy Story,1995-11-22,"Animation, Adventure, Comedy",8.3,81,858215
+"Monsters, Inc.",2001-11-02,"Animation, Adventure, Comedy",8.0,92,789773
+The Hobbit: An Unexpected Journey,2012-12-14,"Adventure, Fantasy",7.8,169,743338
+Harry Potter and the Deathly Hallows: Part 2,2011-07-15,"Adventure, Drama, Fantasy",8.1,130,737642
+Toy Story 3,2010-06-18,"Animation, Adventure, Comedy",8.3,103,734948
+The Martian,2015-10-02,"Adventure, Drama, Sci-Fi",8.0,144,734923
+The Grand Budapest Hotel,2014-03-28,"Adventure, Comedy, Crime",8.1,99,681915
+Ratatouille,2007-06-29,"Animation, Adventure, Comedy",8.0,111,620375
+Harry Potter and the Sorcerer's Stone,2001-11-16,"Adventure, Fantasy",7.6,152,618786
+Spirited Away,2003-03-28,"Animation, Adventure",8.6,125,618550
+Shrek,2001-05-18,"Animation, Adventure, Comedy",7.8,90,596499
+The Hobbit: The Desolation of Smaug,2013-12-13,"Adventure, Fantasy",7.8,161,588294
+Inside Out,2015-06-19,"Animation, Adventure, Comedy",8.1,95,586923
+2001: A Space Odyssey,1968-05-12,"Adventure, Sci-Fi",8.3,149,582718
+Life of Pi,2012-11-21,"Adventure, Drama, Fantasy",7.9,127,567025
+Prometheus,2012-06-08,"Adventure, Mystery, Sci-Fi",7.0,124,557986
+Frozen,2013-11-27,"Animation, Adventure, Comedy",7.4,102,557241
+Into the Wild,2007-10-19,"Adventure, Biography, Drama",8.1,148,556447
+Jaws,1975-06-20,"Adventure, Thriller",8.0,124,531977
+Harry Potter and the Chamber of Secrets,2002-11-15,"Adventure, Fantasy",7.4,161,531256
+Harry Potter and the Prisoner of Azkaban,2004-06-04,"Adventure, Fantasy",7.9,142,528503
+Harry Potter and the Goblet of Fire,2005-11-18,"Adventure, Fantasy",7.7,157,526115
+Toy Story 2,1999-11-24,"Animation, Adventure, Comedy",7.9,92,511239
+Despicable Me,2010-07-09,"Animation, Comedy",7.6,95,488575
+Ice Age,2002-03-15,"Animation, Adventure, Comedy",7.5,81,428802
+Zootopia,2016-03-04,"Animation, Adventure, Comedy",8.0,108,417226
+Beauty and the Beast,1991-11-22,"Animation, Fantasy",8.0,84,408618
+Shrek 2,2004-05-19,"Animation, Adventure, Comedy",7.2,93,407523
+Kung Fu Panda,2008-06-06,"Animation, Action, Adventure",7.5,92,406720
+Big Hero 6,2014-11-07,"Animation, Action, Adventure",7.8,102,398088
+Tangled,2010-11-24,"Animation, Adventure, Comedy",7.7,100,393285
+Wreck-It Ralph,2012-11-02,"Animation, Adventure, Comedy",7.7,101,369053
+Brave,2012-06-22,"Animation, Adventure, Comedy",7.1,93,361913
+Despicable Me 2,2013-07-03,"Animation, Adventure, Comedy",7.3,98,361388
+Aladdin,1992-11-25,"Animation, Adventure, Comedy",8.0,90,360969
+Madagascar,2005-05-27,"Animation, Adventure, Comedy",6.9,86,355365
+Cars,2006-06-09,"Animation, Comedy",7.1,117,354991
+Coco,2017-11-22,"Animation, Adventure",8.4,105,345200
+Princess Mononoke,1997-12-19,"Animation, Adventure, Fantasy",8.4,134,326489
+Spider-Man: Into the Spider-Verse,2018-12-14,"Animation, Action, Adventure",8.4,117,326477
+The Lego Movie,2014-02-07,"Animation, Action, Adventure",7.7,100,317860
+Howl's Moving Castle,2005-06-17,"Animation, Adventure",8.2,119,313971
+Monsters University,2013-06-21,"Animation, Adventure, Comedy",7.3,104,311892
+The Simpsons Movie,2007-07-27,"Animation, Adventure, Comedy",7.3,87,303713
+How to Train Your Dragon 2,2014-06-13,"Animation, Action, Adventure",7.8,102,296544
+The Nightmare Before Christmas,1993-10-29,"Animation, Fantasy",8.0,76,283685
+My Neighbor Totoro,1990-07-13,"Animation, Fantasy",8.2,86,273795
+Shrek the Third,2007-05-18,"Animation, Adventure, Comedy",6.1,93,272620
+A Bug's Life,1998-11-25,"Animation, Adventure, Comedy",7.2,95,259956
+Moana,2016-11-23,"Animation, Adventure, Comedy",7.6,107,256243
+Ice Age: The Meltdown,2006-03-31,"Animation, Adventure, Comedy",6.8,91,249504
+Kung Fu Panda 2,2011-05-26,"Animation, Action, Adventure",7.2,90,245225
+Mulan,1998-06-19,"Animation, Adventure",7.6,88,242128
+Incredibles 2,2018-06-15,"Animation, Action, Adventure",7.6,118,236249
+Corpse Bride,2005-09-23,"Animation, Drama",7.3,77,235900
+Finding Dory,2016-06-17,"Animation, Adventure, Comedy",7.3,97,231496
+The Little Mermaid,1989-11-17,"Animation, Fantasy",7.6,83,229928
+Rango,2011-03-04,"Animation, Adventure, Comedy",7.2,107,229568
+Grave of the Fireflies,1989-07-26,"Animation, Drama, War",8.5,89,221955
+Megamind,2010-11-05,"Animation, Action, Comedy",7.2,95,221204
+Ice Age: Dawn of the Dinosaurs,2009-07-01,"Animation, Adventure, Comedy",6.9,94,217346
+Hotel Transylvania,2012-09-28,"Animation, Comedy",7.1,91,217079
+The Adventures of Tintin,2011-12-21,"Animation, Action, Adventure",7.3,107,212112
+Minions,2015-07-10,"Animation, Adventure, Comedy",6.4,91,206432
+Rio,2011-04-15,"Animation, Adventure, Comedy",6.9,96,201298
+Cloudy with a Chance of Meatballs,2009-09-18,"Animation, Adventure, Comedy",6.9,90,198668
+Hercules,1997-06-27,"Animation, Adventure, Comedy",7.3,93,198490
+Madagascar: Escape 2 Africa,2008-11-07,"Animation, Adventure, Comedy",6.6,89,198485
+Tarzan,1999-06-18,"Animation, Adventure",7.3,88,196820
+The Lion King,2019-07-19,"Animation, Adventure, Drama",6.9,118,195404
+Fantastic Mr. Fox,2009-11-25,"Animation, Adventure, Comedy",7.9,87,191094
+Coraline,2009-02-06,"Animation, Drama",7.7,100,189260
+"South Park: Bigger, Longer & Uncut",1999-06-30,"Animation, Comedy, Fantasy",7.7,81,189125
+Ice Age: Continental Drift,2012-07-13,"Animation, Adventure, Comedy",6.6,88,186465
+The Croods,2013-03-22,"Animation, Action, Adventure",7.2,98,185579
+Bolt,2008-11-21,"Animation, Adventure, Comedy",6.8,96,184675
+Toy Story 4,2019-06-21,"Animation, Adventure, Comedy",7.8,100,184363
+Shrek Forever After,2010-05-21,"Animation, Adventure, Comedy",6.3,93,179074
+The Secret Life of Pets,2016-07-08,"Animation, Adventure, Comedy",6.5,87,178058
+Who Framed Roger Rabbit,1988-06-22,"Animation, Adventure, Comedy",7.7,104,177334
+Snow White and the Seven Dwarfs,1938-02-04,"Animation, Fantasy",7.6,83,175923
+The Emperor's New Groove,2000-12-15,"Animation, Adventure, Comedy",7.3,78,173677
+Your Name.,2017-04-07,"Animation, Drama, Fantasy",8.4,106,173204
+Enchanted,2007-11-21,"Animation, Comedy",7.0,107,172996
+Chicken Run,2000-06-23,"Animation, Adventure, Comedy",7.0,84,172974
+Sausage Party,2016-08-12,"Animation, Adventure, Comedy",6.1,89,170630
+The Iron Giant,1999-08-06,"Animation, Action, Adventure",8.0,86,167070
+The Polar Express,2004-11-10,"Animation, Adventure, Comedy",6.6,100,167034
+Happy Feet,2006-11-17,"Animation, Adventure, Comedy",6.4,108,165838
+Pocahontas,1995-06-23,"Animation, Adventure, Drama",6.7,81,164719
+Shark Tale,2004-10-01,"Animation, Adventure, Comedy",6.0,90,162954
+Lilo & Stitch,2002-06-21,"Animation, Adventure, Comedy",7.2,85,162337
+The Jungle Book,1967-10-18,"Animation, Adventure",7.6,78,161262
+Mary and Max,2009-04-09,"Animation, Comedy, Drama",8.1,92,159951
+Beowulf,2007-11-16,"Animation, Action, Adventure",6.2,115,159254
+Madagascar 3: Europe's Most Wanted,2012-06-08,"Animation, Adventure, Comedy",6.8,93,157811
+Akira,1988-07-16,"Animation, Drama, Sci-Fi",8.0,124,157623
+Space Jam,1996-11-15,"Animation, Adventure, Comedy",6.4,88,157470
+Over the Hedge,2006-05-19,"Animation, Adventure, Comedy",6.7,83,155579
+Cars 2,2011-06-24,"Animation, Adventure, Comedy",6.1,106,153400
+Rise of the Guardians,2012-11-21,"Animation, Action, Adventure",7.3,97,152650
+One Hundred and One Dalmatians,1961-01-25,"Animation, Adventure, Comedy",7.2,79,148001
+Antz,1998-10-02,"Animation, Adventure, Comedy",6.5,83,143835
+Castle in the Sky,1986-08-02,"Animation, Adventure, Drama",8.0,125,143574
+Monsters vs. Aliens,2009-03-27,"Animation, Action, Adventure",6.4,94,143391
+Nausicaä of the Valley of the Wind,1987-11-25,"Animation, Adventure, Fantasy",8.1,117,142815
+Cinderella,1950-03-04,"Animation, Fantasy",7.3,74,141190
+Puss in Boots,2011-10-28,"Animation, Adventure, Comedy",6.6,90,140720
+Schindler's List,1994-02-04,"Biography, Drama, History",8.9,195,1173324
+Goodfellas,1990-09-21,"Biography, Crime, Drama",8.7,146,982784
+Braveheart,1995-05-24,"Biography, Drama, History",8.3,178,936728
+A Beautiful Mind,2002-01-04,"Biography, Drama",8.2,135,821709
+Catch Me If You Can,2002-12-25,"Biography, Crime, Drama",8.1,141,790873
+The Intouchables,2012-07-13,"Biography, Comedy, Drama",8.5,112,731145
+The Pianist,2003-03-28,"Biography, Drama, Music",8.5,150,701576
+The Imitation Game,2014-12-25,"Biography, Drama, Thriller",8.0,114,662291
+The King's Speech,2010-12-25,"Biography, Drama, History",8.0,118,624817
+12 Years a Slave,2013-11-08,"Biography, Drama, History",8.1,134,619715
+The Pursuit of Happyness,2006-12-15,"Biography, Drama",8.0,117,433708
+Bohemian Rhapsody,2018-11-02,"Biography, Drama, Music",8.0,134,428335
+Dallas Buyers Club,2013-11-22,"Biography, Drama",8.0,117,427034
+American Sniper,2015-01-16,"Action, Biography, Drama",7.3,133,426309
+Rush,2013-09-27,"Biography, Drama, Sport",8.1,123,419377
+Hacksaw Ridge,2016-11-04,"Biography, Drama, History",8.1,139,412911
+Captain Phillips,2013-10-11,"Biography, Crime, Drama",7.8,134,409137
+Spotlight,2015-11-20,"Biography, Crime, Drama",8.1,129,401931
+The Theory of Everything,2014-11-26,"Biography, Drama, Romance",7.7,123,387358
+American Gangster,2007-11-02,"Biography, Crime, Drama",7.8,157,381835
+Amadeus,1984-09-19,"Biography, Drama, History",8.3,160,358503
+Moneyball,2011-09-23,"Biography, Drama, Sport",7.6,133,350546
+The Big Short,2015-12-23,"Biography, Comedy, Drama",7.8,130,344612
+127 Hours,2011-01-28,"Biography, Drama",7.6,94,340395
+Green Book,2018-11-16,"Biography, Comedy, Drama",8.2,130,332263
+The Fighter,2010-12-17,"Biography, Drama, Sport",7.8,116,332120
+Hotel Rwanda,2005-02-04,"Biography, Drama, History",8.1,121,327493
+The Aviator,2004-12-25,"Biography, Drama",7.5,170,325104
+Downfall,2005-04-08,"Biography, Drama, History",8.2,156,322655
+Raging Bull,1980-12-19,"Biography, Drama, Sport",8.2,129,311225
+The Irishman,2019-11-27,"Biography, Crime, Drama",7.9,209,297140
+The Blind Side,2009-11-20,"Biography, Drama, Sport",7.6,129,283748
+Public Enemies,2009-07-01,"Biography, Crime, Drama",7.0,140,275842
+Donnie Brasco,1997-02-28,"Biography, Crime, Drama",7.7,127,269135
+Lone Survivor,2014-01-10,"Action, Biography, Drama",7.5,121,260009
+Lawrence of Arabia,1962-12-11,"Adventure, Biography, Drama",8.3,228,259310
+Lincoln,2012-11-16,"Biography, Drama, History",7.3,150,239112
+Blow,2001-04-06,"Biography, Crime, Drama",7.6,124,235138
+Changeling,2008-10-31,"Biography, Crime, Drama",7.7,141,232041
+Ford v Ferrari,2019-11-15,"Action, Biography, Drama",8.1,152,232004
+Dog Day Afternoon,1975-12-25,"Biography, Crime, Drama",8.0,125,229265
+Walk the Line,2005-11-18,"Biography, Drama, Music",7.8,136,227982
+Sully,2016-09-09,"Biography, Drama",7.4,96,226801
+The Greatest Showman,2017-12-20,"Biography, Drama",7.6,105,222573
+Gandhi,1983-02-25,"Biography, Drama, History",8.0,191,214287
+The Elephant Man,1980-10-10,"Biography, Drama",8.1,124,212720
+Ip Man,2008-12-12,"Action, Biography, Drama",8.0,106,206556
+Lion,2017-01-06,"Biography, Drama",8.0,118,204274
+BlacKkKlansman,2018-08-10,"Biography, Crime, Drama",7.5,135,199225
+Butch Cassidy and the Sundance Kid,1969-09-24,"Biography, Crime, Drama",8.0,110,198267
+The Sound of Music,1965-04-01,"Biography, Drama",8.0,172,197238
+Finding Neverland,2004-12-17,"Biography, Drama",7.7,106,195635
+Remember the Titans,2000-09-29,"Biography, Drama, Sport",7.8,113,193009
+Everest,2015-09-25,"Action, Adventure, Biography",7.1,121,191623
+Hidden Figures,2017-01-06,"Biography, Drama, History",7.8,127,191159
+Straight Outta Compton,2015-08-14,"Biography, Drama, History",7.9,147,174973
+Cinderella Man,2005-06-03,"Biography, Drama, History",8.0,144,172730
+Jarhead,2005-11-04,"Action, Biography, Drama",7.0,125,172053
+The Last King of Scotland,2007-01-19,"Biography, Drama, History",7.7,123,172012
+"I, Tonya",2018-01-19,"Biography, Comedy, Drama",7.5,119,170713
+War Dogs,2016-08-19,"Biography, Comedy, Crime",7.1,114,170314
+Erin Brockovich,2000-03-17,"Biography, Drama",7.3,131,169430
+The Assassination of Jesse James by the Coward Robert Ford,2007-10-19,"Biography, Crime, Drama",7.5,160,164772
+Black Mass,2015-09-18,"Biography, Crime, Drama",6.9,123,163703
+Darkest Hour,2017-12-22,"Biography, Drama",7.4,125,163237
+Ed Wood,1994-10-07,"Biography, Comedy, Drama",7.8,127,162359
+Milk,2009-01-30,"Biography, Drama",7.5,128,161721
+The Favourite,2018-12-21,"Biography, Comedy, Drama",7.5,119,160787
+Alexander,2004-11-24,"Action, Biography, Drama",5.6,175,159847
+"Girl, Interrupted",2000-01-14,"Biography, Drama",7.3,127,159130
+The Danish Girl,2016-01-22,"Biography, Drama, Romance",7.1,119,158324
+The Insider,1999-11-05,"Biography, Drama, Thriller",7.8,157,156188
+First Man,2018-10-12,"Biography, Drama, History",7.3,141,155735
+Legend,2015-11-20,"Biography, Crime, Drama",6.9,132,152203
+American Made,2017-09-29,"Action, Biography, Comedy",7.2,115,151699
+In the Name of the Father,1994-02-25,"Biography, Drama",8.1,133,151362
+Steve Jobs,2015-10-23,"Biography, Drama",7.2,122,149109
+Saving Mr. Banks,2013-12-20,"Biography, Comedy, Drama",7.5,125,148154
+Invictus,2009-12-11,"Biography, Drama, History",7.3,134,146805
+Dangal,2016-12-21,"Action, Biography, Drama",8.4,161,144657
+Unbroken,2014-12-25,"Biography, Drama, Sport",7.2,137,141388
+Ray,2004-10-29,"Biography, Drama, Music",7.7,152,135305
+Monster,2004-01-30,"Biography, Crime, Drama",7.3,109,131859
+Foxcatcher,2015-01-16,"Biography, Drama, Sport",7.0,134,131687
+The Disaster Artist,2017-12-08,"Biography, Comedy, Drama",7.4,104,131444
+Molly's Game,2018-01-05,"Biography, Crime, Drama",7.4,140,130955
+Snowden,2016-09-16,"Biography, Crime, Drama",7.3,134,130626
+Joy,2015-12-25,"Biography, Drama",6.6,124,124767
+Seven Years in Tibet,1997-10-10,"Adventure, Biography, Drama",7.1,136,123376
+"Good Morning, Vietnam",1988-01-15,"Biography, Comedy, Drama",7.3,121,122643
+Capote,2006-02-03,"Biography, Crime, Drama",7.3,114,122624
+Coach Carter,2005-01-14,"Biography, Drama, Sport",7.3,136,122245
+Tombstone,1993-12-25,"Action, Biography, Drama",7.8,130,122041
+Man on the Moon,1999-12-22,"Biography, Comedy, Drama",7.4,118,121652
+Spartacus,1960-11-17,"Adventure, Biography, Drama",7.9,197,120924
+Rocketman,2019-05-31,"Biography, Drama, Music",7.3,121,120434
+Guardians of the Galaxy,2014-08-01,Comedy,8.0,121,1017578
+Back to the Future,1985-07-03,Comedy,8.5,116,1015437
+Finding Nemo,2003-05-30,Comedy,8.1,100,922237
+Up,2009-05-29,Comedy,8.2,96,905205
+The Truman Show,1998-06-05,Comedy,8.1,103,901368
+Deadpool,2016-02-12,Comedy,8.0,108,876235
+Toy Story,1995-11-22,Comedy,8.3,81,858390
+"Monsters, Inc.",2001-11-02,Comedy,8.0,92,789914
+Snatch,2001-01-19,Comedy,8.3,102,761777
+Toy Story 3,2010-06-18,Comedy,8.3,103,735087
+The Intouchables,2012-07-13,Comedy,8.5,112,731286
+The Big Lebowski,1998-03-06,Comedy,8.1,117,706193
+The Hangover,2009-06-05,Comedy,7.7,100,702442
+Amélie,2002-02-08,"Comedy, Romance",8.3,122,686825
+The Grand Budapest Hotel,2014-03-28,Comedy,8.1,99,682068
+Silver Linings Playbook,2012-12-25,"Comedy, Romance",7.7,122,648078
+Ratatouille,2007-06-29,Comedy,8.0,111,620481
+Life Is Beautiful,1999-02-12,"Comedy, Romance",8.6,116,600633
+Shrek,2001-05-18,Comedy,7.8,90,596584
+Inside Out,2015-06-19,Comedy,8.1,95,587091
+Kingsman: The Secret Service,2015-02-13,Comedy,7.7,129,576034
+Groundhog Day,1993-02-12,"Comedy, Romance",8.0,101,566305
+Birdman or (The Unexpected Virtue of Ignorance),2014-11-14,Comedy,7.7,119,561924
+Ted,2012-06-29,Comedy,6.9,106,559723
+Thor: Ragnarok,2017-11-03,Comedy,7.9,130,557789
+Frozen,2013-11-27,Comedy,7.4,102,557363
+Ant-Man,2015-07-17,Comedy,7.3,117,549225
+Guardians of the Galaxy Vol. 2,2017-05-05,Comedy,7.6,136,544505
+"Lock, Stock and Two Smoking Barrels",1998-08-28,Comedy,8.2,107,521113
+Kick-Ass,2010-04-16,Comedy,7.6,117,515837
+Toy Story 2,1999-11-24,Comedy,7.9,92,511333
+Superbad,2007-08-17,Comedy,7.6,113,508483
+Zombieland,2009-10-02,Comedy,7.6,88,507445
+Men in Black,1997-07-02,Comedy,7.3,98,504085
+21 Jump Street,2012-03-16,Comedy,7.2,109,499686
+Shaun of the Dead,2004-09-24,Comedy,7.9,99,499316
+Despicable Me,2010-07-09,Comedy,7.6,95,488655
+Monty Python and the Holy Grail,1979-12-06,Comedy,8.2,91,488567
+Once Upon a Time... in Hollywood,2019-07-26,Comedy,7.7,161,488535
+La La Land,2016-12-25,Comedy,8.0,128,483017
+Juno,2007-12-25,Comedy,7.4,96,481757
+American Psycho,2000-04-14,Comedy,7.6,101,468059
+Back to the Future Part II,1989-11-22,Comedy,7.8,108,462540
+500 Days of Summer,2009-08-07,"Comedy, Romance",7.7,95,461834
+"Crazy, Stupid, Love",2011-07-29,"Comedy, Romance",7.4,118,460023
+Deadpool 2,2018-05-18,Comedy,7.7,119,455361
+The Hangover Part II,2011-05-26,Comedy,6.4,102,453967
+Hot Fuzz,2007-04-20,Comedy,7.8,121,450327
+Home Alone,1990-11-16,Comedy,7.6,103,448866
+Parasite,2019-11-08,Comedy,8.6,132,443010
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-01-29,Comedy,8.4,95,438092
+Little Miss Sunshine,2006-08-18,Comedy,7.8,101,429216
+Ice Age,2002-03-15,Comedy,7.5,81,428871
+Zootopia,2016-03-04,Comedy,8.0,108,417325
+Horrible Bosses,2011-07-08,Comedy,6.9,98,413945
+Love Actually,2003-11-14,"Comedy, Romance",7.6,135,413896
+Charlie and the Chocolate Factory,2005-07-15,Comedy,6.6,115,413780
+Shrek 2,2004-05-19,Comedy,7.2,93,407590
+Dead Poets Society,1989-06-09,Comedy,8.1,128,407018
+"Three Billboards Outside Ebbing, Missouri",2017-12-01,Comedy,8.2,115,404557
+Lost in Translation,2003-10-03,Comedy,7.7,102,399082
+Tangled,2010-11-24,Comedy,7.7,100,393363
+The Terminal,2004-06-18,"Comedy, Romance",7.4,128,393039
+We're the Millers,2013-08-07,Comedy,7.0,110,392433
+Back to the Future Part III,1990-05-25,Comedy,7.4,118,389841
+The 40-Year-Old Virgin,2005-08-19,"Comedy, Romance",7.1,116,384072
+In Bruges,2008-02-29,Comedy,7.9,107,381466
+Midnight in Paris,2011-06-10,"Comedy, Romance",7.7,94,376680
+This Is the End,2013-06-12,Comedy,6.6,107,376448
+Tropic Thunder,2008-08-13,Comedy,7.0,107,369967
+Wreck-It Ralph,2012-11-02,Comedy,7.7,101,369121
+American Pie,1999-07-09,Comedy,7.0,95,368148
+Scott Pilgrim vs. the World,2010-08-13,Comedy,7.5,112,364286
+Bruce Almighty,2003-05-23,Comedy,6.8,101,363633
+Brave,2012-06-22,Comedy,7.1,93,361984
+Despicable Me 2,2013-07-03,Comedy,7.3,98,361446
+Aladdin,1992-11-25,Comedy,8.0,90,361080
+The Devil Wears Prada,2006-06-30,Comedy,6.9,109,359709
+Monty Python's Life of Brian,1979-08-17,Comedy,8.1,94,356682
+Madagascar,2005-05-27,Comedy,6.9,86,355425
+Cars,2006-06-09,Comedy,7.1,117,355079
+Easy A,2010-09-17,"Comedy, Romance",7.0,92,348230
+Dumb and Dumber,1994-12-16,Comedy,7.3,107,345454
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-03,Comedy,7.3,84,345007
+Ghostbusters,1984-06-08,Comedy,7.8,105,344766
+The Big Short,2015-12-23,Comedy,7.8,130,344748
+The Breakfast Club,1985-02-15,Comedy,7.9,97,344566
+Knocked Up,2007-06-01,"Comedy, Romance",6.9,129,343791
+Knives Out,2019-11-27,Comedy,7.9,130,342300
+22 Jump Street,2014-06-13,Comedy,7.0,112,337286
+The Mask,1994-07-29,Comedy,6.9,101,335546
+Men in Black II,2002-07-03,Comedy,6.2,88,335021
+Green Book,2018-11-16,Comedy,8.2,130,332517
+Friends with Benefits,2011-07-22,"Comedy, Romance",6.5,109,332366
+3 Idiots,2009-12-25,Comedy,8.4,170,328127
+Yes Man,2008-12-19,"Comedy, Romance",6.8,104,327950
+Men in Black 3,2012-05-25,Comedy,6.8,106,327676
+Wedding Crashers,2005-07-15,"Comedy, Romance",6.9,119,326314
+Anchorman: The Legend of Ron Burgundy,2004-07-09,Comedy,7.2,94,322831
+Pulp Fiction,1994-10-14,"Crime, Drama",8.9,154,1767445
+The Godfather,1972-03-24,"Crime, Drama",9.2,175,1558661
+Se7en,1995-09-22,"Crime, Drama, Mystery",8.6,127,1390231
+The Silence of the Lambs,1991-02-14,"Crime, Drama, Thriller",8.6,118,1223451
+The Departed,2006-10-06,"Crime, Drama, Thriller",8.5,151,1150788
+The Green Mile,1999-12-10,"Crime, Drama, Fantasy",8.6,189,1101707
+The Godfather: Part II,1974-12-18,"Crime, Drama",9.0,202,1089268
+The Usual Suspects,1995-08-16,"Crime, Mystery, Thriller",8.5,106,961807
+Reservoir Dogs,1992-09-02,"Crime, Drama, Thriller",8.3,99,889962
+No Country for Old Men,2007-11-21,"Crime, Drama, Thriller",8.1,122,823136
+Joker,2019-10-04,"Crime, Drama, Thriller",8.5,122,822351
+Snatch,2001-01-19,"Comedy, Crime",8.3,102,761662
+A Clockwork Orange,1972-02-02,"Crime, Drama, Sci-Fi",8.3,136,735080
+Sin City,2005-04-01,"Crime, Thriller",8.0,124,731417
+Scarface,1983-12-09,"Crime, Drama",8.3,170,715023
+The Big Lebowski,1998-03-06,"Comedy, Crime, Sport",8.1,117,705941
+Taxi Driver,1976-02-09,"Crime, Drama",8.3,114,696631
+City of God,2004-02-13,"Crime, Drama",8.6,130,681961
+12 Angry Men,1957-04-10,"Crime, Drama",8.9,96,661761
+Fargo,1996-04-05,"Crime, Drama, Thriller",8.1,98,596614
+Now You See Me,2013-05-31,"Crime, Mystery, Thriller",7.3,115,581643
+Prisoners,2013-09-20,"Crime, Drama, Mystery",8.1,153,575034
+Heat,1995-12-15,"Crime, Drama, Thriller",8.2,170,557728
+Drive,2011-09-16,"Crime, Drama",7.8,100,554576
+L.A. Confidential,1997-09-19,"Crime, Drama, Mystery",8.2,138,518387
+Ocean's Eleven,2001-12-07,"Crime, Thriller",7.7,116,500919
+The Hateful Eight,2015-12-30,"Crime, Drama, Mystery",7.8,168,493749
+American Psycho,2000-04-14,"Comedy, Crime, Drama",7.6,101,467924
+Casino,1995-11-22,"Crime, Drama",8.2,178,448054
+Nightcrawler,2014-10-31,"Crime, Drama, Thriller",7.9,117,443660
+American Hustle,2013-12-20,"Crime, Drama",7.2,138,438125
+Zodiac,2007-03-02,"Crime, Drama, Mystery",7.7,157,436889
+Baby Driver,2017-06-28,"Action, Crime, Drama",7.6,113,416067
+Horrible Bosses,2011-07-08,"Comedy, Crime",6.9,98,413881
+Crash,2005-05-06,"Crime, Drama, Thriller",7.7,112,413651
+Mystic River,2003-10-15,"Crime, Drama, Mystery",7.9,138,408998
+The Girl with the Dragon Tattoo,2011-12-21,"Crime, Drama, Mystery",7.8,158,408988
+"Three Billboards Outside Ebbing, Missouri",2017-12-01,"Comedy, Crime, Drama",8.2,115,404402
+Gangs of New York,2002-12-20,"Crime, Drama",7.5,167,394333
+We're the Millers,2013-08-07,"Comedy, Crime",7.0,110,392362
+In Bruges,2008-02-29,"Comedy, Crime, Drama",7.9,107,381417
+Training Day,2001-10-05,"Crime, Drama, Thriller",7.7,122,378412
+Sicario,2015-10-02,"Action, Crime, Drama",7.6,121,356962
+Wanted,2008-06-27,"Action, Crime, Fantasy",6.7,110,353620
+Ocean's Twelve,2004-12-10,"Crime, Thriller",6.5,125,349317
+The Godfather: Part III,1990-12-25,"Crime, Drama",7.6,162,347672
+John Wick: Chapter 2,2017-02-10,"Action, Crime, Thriller",7.5,122,347579
+Fast Five,2011-04-29,"Action, Adventure, Crime",7.3,130,345450
+Face_Off,1997-06-27,"Action, Crime, Sci-Fi",7.3,138,341451
+Knives Out,2019-11-27,"Comedy, Crime, Drama",7.9,130,341415
+The Town,2010-09-17,"Crime, Drama, Thriller",7.5,125,341073
+The Fast and the Furious,2001-06-22,"Action, Crime, Thriller",6.8,106,338840
+22 Jump Street,2014-06-13,"Action, Comedy, Crime",7.0,112,337234
+The Italian Job,2003-05-30,"Action, Crime, Thriller",7.0,111,335566
+The Mask,1994-07-29,"Action, Comedy, Crime",6.9,101,335452
+Inside Man,2006-03-24,"Crime, Drama, Mystery",7.6,129,329265
+The Equalizer,2014-09-26,"Action, Crime, Thriller",7.2,132,322279
+Man on Fire,2004-04-23,"Action, Crime, Drama",7.7,146,322039
+Ocean's Thirteen,2007-06-08,"Action, Crime, Thriller",6.9,122,312811
+Pineapple Express,2008-08-06,"Action, Comedy, Crime",6.9,111,308854
+Jackie Brown,1997-12-25,"Crime, Drama, Thriller",7.5,154,306877
+Burn After Reading,2008-09-12,"Comedy, Crime, Drama",7.0,96,301462
+Once Upon a Time in America,1984-06-01,"Crime, Drama",8.4,229,299388
+Lucky Number Slevin,2006-04-07,"Crime, Drama, Mystery",7.7,110,295883
+Lord of War,2005-09-16,"Action, Crime, Drama",7.6,122,288544
+Deja Vu,2006-11-22,"Action, Crime, Sci-Fi",7.0,126,287330
+To Kill a Mockingbird,1963-03-16,"Crime, Drama",8.2,129,287100
+The Hangover Part III,2013-05-23,"Comedy, Crime",5.8,100,286488
+RED,2010-10-15,"Action, Comedy, Crime",7.0,111,282437
+3:10 to Yuma,2007-09-07,"Action, Crime, Drama",7.7,122,281948
+The Transporter,2002-10-11,"Action, Crime, Thriller",6.8,92,279981
+From Dusk Till Dawn,1996-01-19,"Action, Crime, Horror",7.2,108,279303
+"O Brother, Where Art Thou?",2001-02-02,"Adventure, Comedy, Crime",7.7,107,277150
+The Untouchables,1987-06-03,"Crime, Drama, Thriller",7.9,119,270871
+Con Air,1997-06-06,"Action, Crime, Thriller",6.9,115,269643
+Batman Returns,1992-06-19,"Action, Crime, Fantasy",7.0,126,267156
+The Nice Guys,2016-05-20,"Action, Comedy, Crime",7.4,116,266631
+Law Abiding Citizen,2009-10-16,"Action, Crime, Drama",7.4,109,265136
+The Shawshank Redemption,1994-10-14,Drama,9.3,142,2258845
+Fight Club,1999-10-15,Drama,8.8,139,1794454
+Forrest Gump,1994-07-06,"Drama, Romance",8.8,142,1741097
+Django Unchained,2012-12-25,"Drama, Western",8.4,165,1307059
+Saving Private Ryan,1998-07-24,"Drama, War",8.6,169,1194194
+The Prestige,2006-10-20,"Drama, Mystery, Sci-Fi",8.5,130,1144513
+American Beauty,1999-10-01,Drama,8.3,122,1043085
+Titanic,1997-12-19,"Drama, Romance",7.8,194,1017237
+American History X,1998-11-20,Drama,8.5,119,1007450
+The Truman Show,1998-06-05,"Comedy, Drama, Sci-Fi",8.1,103,901062
+The Sixth Sense,1999-08-06,"Drama, Mystery, Thriller",8.1,107,888920
+One Flew Over the Cuckoo's Nest,1975-11-19,Drama,8.7,133,884818
+Eternal Sunshine of the Spotless Mind,2004-03-19,"Drama, Romance, Sci-Fi",8.3,108,882495
+The Shining,1980-06-13,"Drama, Horror",8.4,146,860290
+Good Will Hunting,1998-01-09,"Drama, Romance",8.3,126,830139
+Gone Girl,2014-10-03,"Drama, Mystery, Thriller",8.1,149,825450
+Gravity,2013-10-04,"Drama, Sci-Fi, Thriller",7.7,91,751305
+Requiem for a Dream,2000-12-15,Drama,8.3,102,743198
+Donnie Darko,2002-01-30,"Drama, Mystery, Sci-Fi",8.0,113,724910
+Gran Torino,2009-01-09,Drama,8.1,116,703113
+Whiplash,2015-02-20,"Drama, Music",8.5,106,683157
+Black Swan,2010-12-17,"Drama, Thriller",8.0,108,682523
+Full Metal Jacket,1987-07-10,"Drama, War",8.3,116,652861
+Silver Linings Playbook,2012-12-25,"Comedy, Drama, Romance",7.7,122,647995
+Trainspotting,1996-08-09,Drama,8.1,93,620080
+Million Dollar Baby,2005-01-28,"Drama, Sport",8.1,132,618903
+Pan's Labyrinth,2007-01-19,"Drama, Fantasy, War",8.2,118,603269
+Life Is Beautiful,1999-02-12,"Comedy, Drama, Romance",8.6,116,600493
+Apocalypse Now,1979-08-15,"Drama, Mystery, War",8.4,147,585989
+The Curious Case of Benjamin Button,2008-12-25,"Drama, Fantasy, Romance",7.8,166,572217
+Arrival,2016-11-11,"Drama, Mystery, Sci-Fi",7.9,116,569760
+Birdman or (The Unexpected Virtue of Ignorance),2014-11-14,"Comedy, Drama",7.7,119,561800
+Her,2014-01-10,"Drama, Romance, Sci-Fi",8.0,126,518282
+Cast Away,2000-12-22,"Adventure, Drama, Romance",7.8,143,506369
+Casablanca,1943-01-23,"Drama, Romance, War",8.5,102,506224
+The Notebook,2004-06-25,"Drama, Romance",7.8,123,503872
+There Will Be Blood,2008-01-25,Drama,8.2,158,498312
+Once Upon a Time... in Hollywood,2019-07-26,"Comedy, Drama",7.7,161,488015
+Blood Diamond,2006-12-08,"Adventure, Drama, Thriller",8.0,143,486637
+Groundhog Day,1993-02-12,"Comedy, Fantasy, Romance",8.0,101,566223
+Zombieland,2009-10-02,"Adventure, Comedy, Fantasy",7.6,88,507361
+Monty Python and the Holy Grail,1979-12-06,"Adventure, Comedy, Fantasy",8.2,91,488482
+Pirates of the Caribbean: On Stranger Tides,2011-05-20,"Action, Adventure, Fantasy",6.6,136,469914
+The Hobbit: The Battle of the Five Armies,2014-12-17,"Adventure, Fantasy",7.4,144,461617
+Harry Potter and the Deathly Hallows: Part 1,2010-11-19,"Adventure, Fantasy",7.7,146,459135
+Edward Scissorhands,1990-12-14,"Drama, Fantasy, Romance",7.9,105,434894
+Hancock,2008-07-02,"Action, Fantasy",6.4,92,434772
+Twilight,2008-11-21,"Drama, Fantasy, Romance",5.2,122,413276
+Big Fish,2004-01-09,"Adventure, Drama, Fantasy",8.0,125,406042
+Fantastic Beasts and Where to Find Them,2016-11-18,"Adventure, Fantasy",7.3,132,395319
+It's a Wonderful Life,1947-01-07,"Drama, Fantasy",8.6,130,385375
+The Mummy,1999-05-07,"Action, Adventure, Fantasy",7.0,124,382315
+The Princess Bride,1987-10-09,"Adventure, Fantasy",8.1,98,382045
+Midnight in Paris,2011-06-10,"Comedy, Fantasy, Romance",7.7,94,376575
+Alice in Wonderland,2010-03-05,"Adventure, Fantasy",6.4,108,374817
+The Wizard of Oz,1939-08-25,"Adventure, Fantasy",8.0,102,364936
+Scott Pilgrim vs. the World,2010-08-13,"Action, Comedy, Fantasy",7.5,112,364197
+Bruce Almighty,2003-05-23,"Comedy, Drama, Fantasy",6.8,101,363587
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-09,"Adventure, Fantasy",6.9,143,356904
+The Shape of Water,2017-12-22,"Adventure, Drama, Fantasy",7.3,123,353658
+The Illusionist,2006-09-01,"Drama, Fantasy, History",7.6,110,349169
+Ghostbusters,1984-06-08,"Action, Comedy, Fantasy",7.8,105,344694
+Aquaman,2018-12-21,"Action, Adventure, Fantasy",7.0,143,341895
+Star Wars: Episode IX - The Rise of Skywalker,2019-12-20,"Action, Adventure, Fantasy",6.7,142,337831
+Sleepy Hollow,1999-11-19,"Fantasy, Horror, Mystery",7.3,105,320861
+Fantastic Four,2005-07-08,"Action, Adventure, Fantasy",5.7,106,306644
+Being John Malkovich,1999-12-03,"Comedy, Drama, Fantasy",7.7,113,301714
+Hellboy,2004-04-02,"Action, Fantasy, Horror",6.8,122,301510
+Click,2006-06-23,"Comedy, Drama, Fantasy",6.4,107,298607
+Hugo,2011-11-23,"Drama, Fantasy",7.5,126,297933
+Constantine,2005-02-18,"Action, Fantasy, Horror",7.0,121,296689
+The Mummy Returns,2001-05-04,"Action, Adventure, Fantasy",6.3,130,295189
+About Time,2013-11-08,"Comedy, Drama, Fantasy",7.8,123,287246
+The Secret Life of Walter Mitty,2013-12-25,"Comedy, Drama, Fantasy",7.3,114,286991
+Liar Liar,1997-03-21,"Comedy, Fantasy",6.9,86,274268
+Prince of Persia: The Sands of Time,2010-05-28,"Action, Adventure, Fantasy",6.6,116,266583
+Clash of the Titans,2010-04-02,"Action, Adventure, Fantasy",5.8,106,265931
+Beauty and the Beast,2017-03-17,Fantasy,7.1,129,261369
+Kong: Skull Island,2017-03-10,"Action, Adventure, Fantasy",6.6,118,259866
+The Twilight Saga: New Moon,2009-11-20,"Adventure, Drama, Fantasy",4.7,130,258910
+Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-26,"Action, Adventure, Fantasy",6.6,129,251787
+1408,2007-06-22,"Fantasy, Horror, Mystery",6.8,104,250909
+Beetlejuice,1988-03-30,"Comedy, Fantasy",7.5,92,249689
+Stardust,2007-08-10,"Adventure, Fantasy",7.6,127,248403
+Underworld,2003-09-19,"Action, Fantasy, Thriller",7.0,121,248222
+Fantastic 4: Rise of the Silver Surfer,2007-06-15,"Action, Adventure, Fantasy",5.6,92,246767
+Vanilla Sky,2001-12-14,"Fantasy, Mystery, Romance",6.9,136,243020
+Dark Shadows,2012-05-11,"Comedy, Fantasy, Horror",6.2,113,241602
+Van Helsing,2004-05-07,"Action, Adventure, Fantasy",6.1,131,239437
+Warcraft,2016-06-10,"Action, Adventure, Fantasy",6.8,123,236996
+Sucker Punch,2011-03-25,"Action, Adventure, Fantasy",6.0,110,226057
+The Twilight Saga: Breaking Dawn - Part 2,2012-11-16,"Adventure, Drama, Fantasy",5.5,115,224813
+The Twilight Saga: Eclipse,2010-06-30,"Adventure, Drama, Fantasy",5.0,124,221496
+Ender's Game,2013-11-01,"Action, Adventure, Fantasy",6.6,114,219357
+Ghost Rider,2007-02-16,"Action, Fantasy, Thriller",5.2,110,218901
+The Twilight Saga: Breaking Dawn - Part 1,2011-11-18,"Adventure, Drama, Fantasy",4.9,117,217803
+Stranger Than Fiction,2006-11-10,"Comedy, Drama, Fantasy",7.5,113,214510
+Elf,2003-11-07,"Comedy, Fantasy",6.9,97,210512
+Aladdin,2019-05-24,"Adventure, Fantasy",7.0,128,210488
+Mr. Nobody,2013-09-26,"Drama, Fantasy, Romance",7.8,141,210310
+Troy,2004-05-14,"Drama, History",7.2,163,476975
+Black Hawk Down,2002-01-18,"Drama, History, War",7.7,144,356185
+Pearl Harbor,2001-05-25,"Action, Drama, History",6.2,183,305503
+Les Misérables,2012-12-25,"Drama, History",7.6,158,300852
+Gone with the Wind,1940-01-17,"Drama, History, Romance",8.1,238,281414
+Bridge of Spies,2015-10-16,"Drama, History, Thriller",7.6,142,278999
+Zero Dark Thirty,2013-01-11,"Drama, History, Thriller",7.4,157,264555
+Apollo 13,1995-06-30,"Adventure, Drama, History",7.6,140,260497
+The Patriot,2000-06-28,"Action, Drama, History",7.2,165,249168
+Enemy at the Gates,2001-03-16,"Drama, History, War",7.6,131,236660
+21,2008-03-28,"Crime, Drama, History",6.8,123,224589
+Valkyrie,2008-12-25,"Drama, History, Thriller",7.1,121,223620
+The Great Escape,1963-07-04,"Adventure, Drama, History",8.2,172,217996
+Ben-Hur,1960-01-29,"Adventure, Drama, History",8.1,212,213444
+Shakespeare in Love,1999-01-08,"Comedy, Drama, History",7.1,123,209979
+Munich,2006-01-06,"Action, Drama, History",7.5,164,207019
+The Impossible,2013-01-04,"Drama, History, Thriller",7.6,114,190768
+Deepwater Horizon,2016-09-30,"Action, Drama, History",7.1,107,145401
+Barry Lyndon,1975-12-18,"Adventure, Drama, History",8.1,185,143733
+JFK,1991-12-20,"Drama, History, Thriller",8.0,189,137425
+Cold Mountain,2003-12-25,"Adventure, Drama, History",7.2,154,137401
+Defiance,2009-01-16,"Action, Drama, History",7.2,137,135323
+We Were Soldiers,2002-03-01,"Action, Drama, History",7.2,138,127187
+The Monuments Men,2014-02-07,"Comedy, Drama, History",6.1,118,122173
+Glory,1990-02-16,"Biography, Drama, History",7.8,122,117966
+The 13th Warrior,1999-08-27,"Action, Adventure, History",6.6,102,114167
+Empire of the Sun,1987-12-25,"Action, Drama, History",7.7,153,112275
+Rang De Basanti,2006-01-26,"Comedy, Drama, History",8.2,167,107678
+The Way Back,2011-01-21,"Adventure, Drama, History",7.3,133,107455
+Across the Universe,2007-10-12,"Drama, Fantasy, History",7.3,133,104638
+The Queen,2006-11-17,"Biography, Drama, History",7.3,103,101904
+The Other Boleyn Girl,2008-02-29,"Biography, Drama, History",6.7,115,101416
+Frost_Nixon,2009-01-23,"Biography, Drama, History",7.7,122,100750
+All the President's Men,1976-04-09,"Biography, Drama, History",8.0,138,98972
+Marie Antoinette,2006-10-20,"Biography, Drama, History",6.4,123,97923
+The Good Shepherd,2006-12-22,"Drama, History, Thriller",6.7,167,96881
+United 93,2006-04-28,"Drama, History, Sci-Fi",7.5,111,96591
+Silence,2017-01-13,"Drama, History",7.2,161,96094
+"Good Night, and Good Luck.",2005-11-04,"Biography, Drama, History",7.4,93,92714
+The Last Emperor,1988-04-15,"Biography, Drama, History",7.7,163,91046
+Elizabeth,1999-02-19,"Biography, Drama, History",7.4,124,90737
+Mississippi Burning,1989-01-27,"Crime, Drama, History",7.8,128,84598
+The Grapes of Wrath,1940-03-15,"Drama, History",8.0,129,84223
+Selma,2015-01-09,"Biography, Drama, History",7.5,128,83285
+Malcolm X,1992-11-18,"Biography, Drama, History",7.7,202,82521
+The New World,2006-01-20,"Biography, Drama, History",6.7,135,81466
+The Death of Stalin,2018-03-09,"Comedy, Drama, History",7.2,107,80253
+Centurion,2010-07-30,"Action, Drama, History",6.4,97,76569
+The Duchess,2008-10-10,"Biography, Drama, History",6.9,110,76558
+World Trade Center,2006-08-09,"Drama, Fantasy, History",5.9,129,76405
+The King,2019-11-01,"Biography, Drama, History",7.2,140,76205
+The Lost City of Z,2017-04-21,"Biography, Drama, History",6.6,141,75131
+Jackie,2016-12-02,"Biography, Drama, History",6.7,100,70888
+The Water Diviner,2015-04-17,"Drama, History, War",7.0,111,69915
+Amistad,1997-12-25,"Biography, Drama, History",7.3,155,69328
+The White Ribbon,2010-03-05,"Drama, History, Mystery",7.8,144,66893
+Elizabeth: The Golden Age,2007-10-12,"Biography, Drama, History",6.8,114,65530
+Seabiscuit,2003-07-25,"Drama, History, Sport",7.3,140,65166
+Child 44,2016-05-09,"Crime, Drama, History",6.5,137,63768
+12 Strong,2018-01-19,"Action, Drama, History",6.6,130,63442
+Quiz Show,1994-10-07,"Biography, Drama, History",7.5,133,63232
+The Finest Hours,2016-01-29,"Action, Drama, History",6.8,117,59961
+K-19: The Widowmaker,2002-07-19,"Drama, History, Thriller",6.7,138,58258
+The Young Victoria,2010-01-08,"Biography, Drama, History",7.3,105,56451
+Conquest 1453,2012-04-25,"Action, Drama, History",6.7,162,56021
+The Mission,1986-10-31,"Adventure, Drama, History",7.4,125,54283
+Thirteen Days,2001-01-12,"Drama, History, Thriller",7.3,145,52807
+Woman in Gold,2015-04-10,"Biography, Drama, History",7.3,109,52175
+Macbeth,2015-12-11,"Drama, History, War",6.6,113,51643
+Battleship Potemkin,1925-12-24,"Drama, History, Thriller",8.0,66,51403
+Airlift,2016-01-22,"Drama, History",8.0,130,51394
+The Longest Day,1962-10-04,"Action, Drama, History",7.8,178,51178
+Midway,2019-11-08,"Action, Drama, History",6.7,138,50395
+A Bridge Too Far,1977-06-15,"Drama, History, War",7.4,175,50195
+The Killing Fields,1985-02-01,"Biography, Drama, History",7.8,141,50036
+The Flowers of War,2011-12-16,"Drama, History, Romance",7.6,146,48360
+Hotel Mumbai,2019-03-29,"Action, Drama, History",7.6,123,47726
+Miracle,2004-02-06,"Biography, Drama, History",7.5,135,46453
+Detroit,2017-08-04,"Crime, Drama, History",7.3,143,45804
+The Passion of Joan of Arc,1928-10-25,"Biography, Drama, History",8.1,114,45200
+Cold War,2018-06-08,"Drama, History, Music",7.6,89,44833
+Alien,1979-06-22,"Horror, Sci-Fi",8.4,117,762793
+Psycho,1960-09-08,"Horror, Mystery, Thriller",8.5,109,580951
+Shaun of the Dead,2004-09-24,"Comedy, Horror",7.9,99,499244
+Get Out,2017-02-24,"Horror, Mystery, Thriller",7.7,104,465577
+It,2017-09-08,Horror,7.3,135,437678
+The Conjuring,2013-07-19,"Horror, Mystery, Thriller",7.5,112,427067
+Split,2017-01-20,"Horror, Thriller",7.3,117,404539
+A Quiet Place,2018-04-06,"Drama, Horror, Sci-Fi",7.5,90,385782
+Saw,2004-10-29,"Horror, Mystery",7.6,103,369825
+28 Days Later...,2003-06-27,"Drama, Horror, Sci-Fi",7.6,113,367391
+Cloverfield,2008-01-18,"Action, Adventure, Horror",7.0,85,365910
+The Cabin in the Woods,2012-04-13,Horror,7.0,95,363506
+The Thing,1982-06-25,"Horror, Mystery, Sci-Fi",8.1,109,356786
+The Exorcist,1973-12-26,Horror,8.0,122,352076
+Sweeney Todd: The Demon Barber of Fleet Street,2007-12-21,"Drama, Horror",7.3,116,335791
+The Others,2001-08-10,"Horror, Mystery, Thriller",7.6,104,328624
+The Ring,2002-10-18,"Horror, Mystery",7.1,115,313252
+Interview with the Vampire: The Vampire Chronicles,1994-11-11,"Drama, Horror",7.6,123,287602
+10 Cloverfield Lane,2016-03-11,"Drama, Horror, Mystery",7.2,103,280919
+Scream,1996-12-20,"Horror, Mystery",7.2,111,276753
+The Mist,2007-11-21,"Horror, Sci-Fi",7.1,126,274365
+Alien 3,1992-05-22,"Action, Horror, Sci-Fi",6.5,114,269938
+Insidious,2011-04-01,"Horror, Mystery, Thriller",6.8,103,269839
+Annihilation,2018-02-23,"Adventure, Drama, Horror",6.9,115,267574
+Bird Box,2018-12-21,"Drama, Horror, Sci-Fi",6.6,124,262311
+28 Weeks Later,2007-05-11,"Horror, Sci-Fi",7.0,100,253591
+Alien: Covenant,2017-05-19,"Horror, Sci-Fi, Thriller",6.4,122,245959
+Resident Evil,2002-03-15,"Action, Horror, Sci-Fi",6.7,100,242106
+Dawn of the Dead,2004-03-19,"Action, Horror",7.3,101,229395
+Saw II,2005-10-28,"Horror, Mystery",6.6,93,227842
+The Blair Witch Project,1999-07-30,"Horror, Mystery",6.5,81,226133
+Final Destination,2000-03-17,"Horror, Thriller",6.7,98,223423
+Alien: Resurrection,1997-11-26,"Action, Horror, Sci-Fi",6.2,109,222998
+Pitch Black,2000-02-18,"Action, Horror, Sci-Fi",7.1,109,221434
+Halloween,1978-10-27,"Horror, Thriller",7.8,91,220718
+Paranormal Activity,2009-10-16,"Horror, Mystery, Thriller",6.3,86,216058
+The Conjuring 2,2016-06-10,"Horror, Mystery, Thriller",7.3,134,215863
+Warm Bodies,2013-02-01,"Comedy, Horror, Romance",6.9,98,215658
+Hereditary,2018-06-08,"Drama, Horror, Mystery",7.3,127,214947
+Sinister,2012-10-12,"Horror, Mystery, Thriller",6.8,110,212002
+Silent Hill,2006-04-21,Horror,6.5,125,210033
+Don't Breathe,2016-08-26,"Crime, Horror, Thriller",7.1,88,209689
+Us,2019-03-22,"Horror, Mystery, Thriller",6.9,116,204733
+It Follows,2015-03-13,"Horror, Mystery, Thriller",6.8,100,201008
+Life,2017-03-24,"Horror, Sci-Fi, Thriller",6.6,104,199775
+A Nightmare on Elm Street,1984-11-16,Horror,7.5,91,198628
+The Purge,2013-06-07,"Horror, Thriller",5.7,85,197141
+The Descent,2006-08-04,"Adventure, Horror, Thriller",7.2,99,195614
+Blade II,2002-03-22,"Action, Fantasy, Horror",6.7,117,195387
+Hansel & Gretel: Witch Hunters,2013-01-25,"Action, Fantasy, Horror",6.1,88,191273
+Gremlins,1984-06-08,"Comedy, Fantasy, Horror",7.3,106,190570
+The Babadook,2014-11-28,"Drama, Horror",6.8,94,188571
+Orphan,2009-07-24,"Horror, Mystery, Thriller",6.9,123,186072
+The Witch,2016-02-19,"Drama, Horror, Mystery",6.9,92,185878
+Bram Stoker's Dracula,1992-11-13,Horror,7.4,128,185695
+Rosemary's Baby,1968-10-17,"Drama, Horror",8.0,137,185587
+Drag Me to Hell,2009-05-29,"Horror, Thriller",6.5,99,184255
+It Chapter Two,2019-09-06,"Drama, Fantasy, Horror",6.6,169,183539
+Resident Evil: Apocalypse,2004-09-10,"Action, Horror, Sci-Fi",6.2,94,182625
+Mother!,2017-09-15,"Drama, Horror, Mystery",6.6,121,182167
+Alien vs. Predator,2004-08-13,"Action, Adventure, Horror",5.6,101,180961
+The Evil Dead,1983-04-15,Horror,7.5,85,180957
+Resident Evil: Extinction,2007-09-21,"Action, Horror, Sci-Fi",6.3,94,180099
+Grindhouse,2007-04-06,"Action, Horror, Thriller",7.5,191,175669
+Saw III,2006-10-27,"Horror, Mystery, Thriller",6.2,108,174387
+The Woman in Black,2012-02-03,"Drama, Fantasy, Horror",6.4,95,171207
+Pi,1998-07-10,"Drama, Horror, Mystery",7.4,84,166806
+Hostel,2006-01-06,Horror,5.9,94,165882
+Mama,2013-01-18,"Horror, Thriller",6.2,100,165839
+The Birds,1963-03-29,"Drama, Horror, Mystery",7.7,119,165748
+Midsommar,2019-07-03,"Drama, Horror, Mystery",7.1,148,165346
+Carrie,1976-11-16,Horror,7.4,98,162668
+Tucker and Dale vs Evil,2010-12-09,"Comedy, Horror",7.5,89,161404
+30 Days of Night,2007-10-19,"Action, Horror, Thriller",6.6,113,161126
+Resident Evil: Afterlife,2010-09-10,"Action, Adventure, Horror",5.8,96,159189
+Army of Darkness,1993-02-19,"Comedy, Horror",7.5,81,158954
+The Hills Have Eyes,2006-03-10,"Horror, Thriller",6.4,107,155206
+The Fly,1986-08-15,"Drama, Horror, Sci-Fi",7.6,96,154294
+Event Horizon,1997-08-15,"Horror, Sci-Fi, Thriller",6.7,96,153203
+Evil Dead,2013-04-05,"Fantasy, Horror, Thriller",6.5,91,153169
+Insidious: Chapter 2,2013-09-13,"Horror, Mystery, Thriller",6.6,106,150300
+Final Destination 2,2003-01-31,"Horror, Thriller",6.2,90,148408
+What We Do in the Shadows,2015-02-13,"Comedy, Horror",7.7,86,148076
+Abraham Lincoln: Vampire Hunter,2012-06-22,"Action, Fantasy, Horror",5.9,105,147007
+Scary Movie 2,2001-07-04,"Comedy, Horror",5.3,83,146277
+From Hell,2001-10-19,"Horror, Mystery, Thriller",6.8,122,144083
+The Orphanage,2008-01-11,"Drama, Fantasy, Horror",7.4,105,143875
+Train to Busan,2016-10-21,"Action, Horror, Thriller",7.5,118,143773
+Evil Dead II,1987-03-13,"Comedy, Horror",7.8,84,143769
+Underworld Awakening,2012-01-20,"Action, Fantasy, Horror",6.4,88,143381
+La La Land,2016-12-25,"Comedy, Drama, Music",8.0,128,482858
+A Star Is Born,2018-10-05,"Drama, Music, Romance",7.7,136,313113
+Pitch Perfect,2012-10-05,"Comedy, Music, Romance",7.2,112,269390
+School of Rock,2003-10-03,"Comedy, Music",7.1,109,260266
+8 Mile,2002-11-08,"Drama, Music",7.1,110,243272
+Some Like It Hot,1959-03-19,"Comedy, Music, Romance",8.2,121,236252
+Dirty Dancing,1987-08-21,"Drama, Music, Romance",7.0,100,194794
+Get Him to the Greek,2010-06-04,"Comedy, Music",6.4,109,167212
+High Fidelity,2000-03-31,"Comedy, Drama, Music",7.5,113,164661
+Wayne's World,1992-02-14,"Comedy, Music",7.0,94,140324
+Begin Again,2014-07-11,"Comedy, Drama, Music",7.4,104,138458
+Pitch Perfect 2,2015-05-15,"Comedy, Music",6.4,115,138421
+Inside Llewyn Davis,2014-01-10,"Comedy, Drama, Music",7.5,104,134564
+The Wedding Singer,1998-02-13,"Comedy, Music, Romance",6.8,97,131174
+This Is Spinal Tap,1984-03-02,"Comedy, Music",7.9,82,125864
+Billy Elliot,2000-11-10,"Drama, Music",7.7,110,122980
+Rocketman,2019-05-31,"Biography, Drama, Music",7.3,121,120440
+"Hail, Caesar!",2016-02-05,"Comedy, Drama, Music",6.3,106,120378
+The Bodyguard,1992-11-25,"Action, Drama, Music",6.3,129,115475
+If I Stay,2014-08-22,"Drama, Fantasy, Music",6.7,107,113203
+Once,2007-06-15,"Drama, Music, Romance",7.8,86,108624
+Step Up,2006-08-11,"Crime, Drama, Music",6.5,104,108504
+Bill & Ted's Excellent Adventure,1989-02-17,"Adventure, Comedy, Music",6.9,90,107579
+Pirate Radio,2009-11-13,"Comedy, Drama, Music",7.4,117,105802
+Coyote Ugly,2000-08-04,"Comedy, Drama, Music",5.7,100,104700
+Green Room,2016-05-13,"Horror, Music, Thriller",7.0,95,102334
+August Rush,2007-11-21,"Drama, Music",7.5,114,101979
+Yesterday,2019-06-28,"Comedy, Fantasy, Music",6.8,116,100978
+Tenacious D in the Pick of Destiny,2006-11-22,"Adventure, Comedy, Music",6.8,93,99944
+Music and Lyrics,2007-02-14,"Comedy, Music, Romance",6.5,104,94921
+Nick and Norah's Infinite Playlist,2008-10-03,"Comedy, Drama, Music",6.6,90,87186
+Three Colors: Blue,1993-09-08,"Drama, Music, Mystery",7.9,94,85415
+To Rome With Love,2012-07-06,"Comedy, Music, Romance",6.3,112,82764
+Crazy Heart,2010-02-05,"Drama, Music, Romance",7.2,112,82500
+Sing Street,2016-03-17,"Comedy, Drama, Music",7.9,106,81933
+The Doors,1991-03-01,"Biography, Drama, Music",7.2,140,81792
+La Vie En Rose,2007-07-20,"Biography, Drama, Music",7.6,140,80970
+The Last Song,2010-03-31,"Drama, Music, Romance",6.0,107,79196
+Step Up 2: The Streets,2008-02-14,"Drama, Music, Romance",6.2,98,78573
+The Piano,1994-02-11,"Drama, Music, Romance",7.6,121,76889
+Burlesque,2010-11-24,"Drama, Music",6.4,119,76164
+Frank,2014-09-05,"Comedy, Drama, Music",7.0,95,73451
+Youth,2015-12-04,"Comedy, Drama, Music",7.3,124,69311
+Saturday Night Fever,1977-12-16,"Drama, Music",6.8,118,68890
+Footloose,1984-02-17,"Drama, Music, Romance",6.6,107,67658
+Dreamgirls,2006-12-25,"Drama, Music",6.5,130,67216
+Walk Hard: The Dewey Cox Story,2007-12-21,"Comedy, Drama, Music",6.8,96,65673
+That Thing You Do!,1996-10-04,"Comedy, Drama, Music",6.9,108,60721
+Control,2007-09-26,"Biography, Drama, Music",7.7,122,60379
+Black Snake Moan,2007-03-02,"Drama, Music",6.9,116,60135
+Coffee and Cigarettes,2004-06-11,"Comedy, Drama, Music",7.1,95,58500
+Top Secret!,1984-06-08,"Comedy, Music",7.2,90,58341
+The Legend of 1900,1998-10-28,"Drama, Music, Romance",8.1,169,56898
+Save the Last Dance,2001-01-12,"Drama, Music, Romance",6.2,112,56061
+A Night at the Roxbury,1998-10-02,"Comedy, Music, Romance",6.3,82,55885
+The Chorus,2004-03-17,"Drama, Music",7.9,97,55837
+I'm Not There,2007-12-07,"Biography, Drama, Music",6.9,135,55709
+Pitch Perfect 3,2017-12-22,"Comedy, Music",5.8,93,52949
+Popstar: Never Stop Never Stopping,2016-06-03,"Comedy, Music",6.7,87,52196
+Magic Mike XXL,2015-07-01,"Comedy, Drama, Music",5.6,115,50888
+The Soloist,2009-04-24,"Biography, Drama, Music",6.7,117,50593
+Shine,1997-02-14,"Biography, Drama, Music",7.7,105,50286
+The Producers,1968-11-10,"Comedy, Music",7.6,88,48678
+Empire Records,1995-10-20,"Comedy, Drama, Music",6.7,90,48158
+Departures,2009-06-19,"Drama, Music",8.1,130,47355
+Flashdance,1983-04-15,"Drama, Music, Romance",6.2,95,46132
+The Runaways,2010-04-08,"Biography, Drama, Music",6.5,106,45492
+"The Adventures of Priscilla, Queen of the Desert",1994-08-10,"Comedy, Music",7.4,104,45319
+Footloose,2011-10-14,"Comedy, Drama, Music",5.9,113,45304
+Climax,2018-09-19,"Drama, Horror, Music",7.1,97,45193
+Honey,2003-12-05,"Drama, Music, Romance",5.4,94,42673
+Shall We Dance,2004-10-15,"Comedy, Drama, Music",6.1,106,42622
+Rab Ne Bana Di Jodi,2008-12-12,"Comedy, Drama, Music",7.2,167,42474
+Rock Star,2001-09-07,"Drama, Music",6.3,105,40198
+The Double Life of Véronique,1991-11-22,"Drama, Fantasy, Music",7.8,98,39948
+Behind The Candelabra,2013-06-07,"Biography, Drama, Music",7.0,118,39655
+A Hard Day's Night,1964-07-07,"Comedy, Music",7.6,87,39081
+Hustle & Flow,2005-07-22,"Crime, Drama, Music",7.3,116,38021
+Rockstar,2011-11-11,"Drama, Music",7.7,159,37740
+Eurovision Song Contest: The Story of Fire Saga,2020-06-26,"Comedy, Music",6.6,123,37498
+The Rocker,2008-08-20,"Comedy, Music",6.2,102,36300
+Love & Mercy,2015-06-19,"Biography, Drama, Music",7.4,121,34933
+Mr. Holland's Opus,1996-01-19,"Drama, Music",7.3,143,34755
+Detroit Rock City,1999-08-13,"Comedy, Music",6.9,95,34741
+Velvet Goldmine,1998-10-23,"Drama, Music",7.0,118,33100
+Spice World,1998-01-23,"Comedy, Music",3.5,93,32688
+Captain Corelli's Mandolin,2001-08-17,"Drama, Music, Romance",5.9,131,32402
+Jersey Boys,2014-06-20,"Biography, Drama, Music",6.8,134,32133
+Sweet and Lowdown,2000-03-10,"Comedy, Drama, Music",7.2,95,31584
+The Commitments,1991-09-13,"Comedy, Drama, Music",7.6,118,31338
+Hedwig and the Angry Inch,2001-08-31,"Comedy, Drama, Music",7.7,95,31272
+The Red Violin,1999-06-11,"Drama, Music, Mystery",7.6,130,31107
+54,1998-08-28,"Drama, Music",5.9,93,31071
+The Prestige,2006-10-20,"Drama, Mystery, Sci-Fi",8.5,130,1144521
+Memento,2001-05-25,"Mystery, Thriller",8.4,113,1090298
+Shutter Island,2010-02-19,"Mystery, Thriller",8.1,138,1086350
+The Usual Suspects,1995-08-16,"Crime, Mystery, Thriller",8.5,106,961814
+The Sixth Sense,1999-08-06,"Drama, Mystery, Thriller",8.1,107,888925
+Donnie Darko,2002-01-30,"Drama, Mystery, Sci-Fi",8.0,113,724912
+The Hunger Games: Catching Fire,2013-11-22,"Action, Adventure, Mystery",7.5,146,600100
+The Bourne Ultimatum,2007-08-03,"Action, Mystery, Thriller",8.0,115,595435
+Now You See Me,2013-05-31,"Crime, Mystery, Thriller",7.3,115,581644
+Prisoners,2013-09-20,"Crime, Drama, Mystery",8.1,153,575040
+12 Monkeys,1996-01-05,"Mystery, Sci-Fi, Thriller",8.0,129,565403
+Prometheus,2012-06-08,"Adventure, Mystery, Sci-Fi",7.0,124,557990
+Minority Report,2002-06-21,"Action, Crime, Mystery",7.6,145,495547
+The Hateful Eight,2015-12-30,"Crime, Drama, Mystery",7.8,168,493754
+Source Code,2011-04-01,"Action, Drama, Mystery",7.5,93,474236
+Ex Machina,2015-04-24,"Drama, Mystery, Sci-Fi",7.7,108,458187
+Hot Fuzz,2007-04-20,"Action, Comedy, Mystery",7.8,121,450223
+Zodiac,2007-03-02,"Crime, Drama, Mystery",7.7,157,436901
+Blade Runner 2049,2017-10-06,"Action, Drama, Mystery",8.0,164,434995
+The Conjuring,2013-07-19,"Horror, Mystery, Thriller",7.5,112,427069
+The Bourne Supremacy,2004-07-23,"Action, Mystery, Thriller",7.7,108,424855
+Divergent,2014-03-21,"Action, Adventure, Mystery",6.7,139,416400
+Sherlock Holmes: A Game of Shadows,2011-12-16,"Action, Adventure, Mystery",7.5,129,411748
+Mystic River,2003-10-15,"Crime, Drama, Mystery",7.9,138,409000
+The Maze Runner,2014-09-19,"Action, Mystery, Sci-Fi",6.8,113,406551
+The Da Vinci Code,2006-05-19,"Mystery, Thriller",6.6,149,390693
+Citizen Kane,1941-09-05,"Drama, Mystery",8.3,119,386235
+Unbreakable,2000-11-22,"Drama, Mystery, Sci-Fi",7.3,106,377965
+Vertigo,1958-05-22,"Mystery, Romance, Thriller",8.3,128,348553
+The Lives of Others,2007-03-30,"Drama, Mystery, Thriller",8.4,137,346768
+Cloud Atlas,2012-10-26,"Action, Drama, Mystery",7.4,172,338490
+The Game,1997-09-12,"Drama, Mystery, Thriller",7.8,129,334123
+Super 8,2011-06-10,"Mystery, Sci-Fi, Thriller",7.0,112,332878
+Signs,2002-08-02,"Drama, Mystery, Sci-Fi",6.7,106,330229
+Inside Man,2006-03-24,"Crime, Drama, Mystery",7.6,129,329267
+The Others,2001-08-10,"Horror, Mystery, Thriller",7.6,104,328626
+Moon,2009-07-10,"Drama, Mystery, Sci-Fi",7.9,97,327607
+Sleepy Hollow,1999-11-19,"Fantasy, Horror, Mystery",7.3,105,320863
+The Devil's Advocate,1997-10-17,"Drama, Mystery, Thriller",7.5,144,319323
+Mulholland Drive,2001-10-19,"Drama, Mystery, Thriller",8.0,147,309859
+National Treasure,2004-11-19,"Action, Adventure, Mystery",6.9,131,297865
+Eyes Wide Shut,1999-07-16,"Drama, Mystery, Thriller",7.4,159,291877
+Salt,2010-07-23,"Action, Mystery, Thriller",6.4,100,289816
+North by Northwest,1959-09-26,"Adventure, Mystery, Thriller",8.3,136,289249
+Chinatown,1974-06-20,"Drama, Mystery, Thriller",8.2,130,284178
+10 Cloverfield Lane,2016-03-11,"Drama, Horror, Mystery",7.2,103,280920
+Scream,1996-12-20,"Horror, Mystery",7.2,111,276756
+Insidious,2011-04-01,"Horror, Mystery, Thriller",6.8,103,269842
+Insomnia,2002-05-24,"Drama, Mystery, Thriller",7.2,118,266499
+Angels & Demons,2009-05-15,"Action, Mystery, Thriller",6.7,138,266342
+Contact,1997-07-11,"Drama, Mystery, Sci-Fi",7.4,150,247426
+Non-Stop,2014-02-28,"Action, Mystery, Thriller",6.9,106,245364
+Gone Baby Gone,2007-10-19,"Crime, Drama, Mystery",7.6,114,244160
+Unknown,2011-02-18,"Action, Mystery, Thriller",6.8,113,243861
+Vanilla Sky,2001-12-14,"Fantasy, Mystery, Romance",6.9,136,243022
+Atonement,2008-01-11,"Drama, Mystery, Romance",7.8,123,241597
+The Village,2004-07-30,"Drama, Mystery, Thriller",6.5,108,237425
+Saw II,2005-10-28,"Horror, Mystery",6.6,93,227844
+The Blair Witch Project,1999-07-30,"Horror, Mystery",6.5,81,226136
+The Fountain,2006-11-22,"Drama, Mystery, Romance",7.2,97,224147
+Identity,2003-04-25,"Mystery, Thriller",7.3,90,221013
+Knowing,2009-03-20,"Action, Drama, Mystery",6.2,121,216703
+Paranormal Activity,2009-10-16,"Horror, Mystery, Thriller",6.3,86,216061
+Disturbia,2007-04-13,"Crime, Drama, Mystery",6.8,105,215909
+The Conjuring 2,2016-06-10,"Horror, Mystery, Thriller",7.3,134,215865
+Hereditary,2018-06-08,"Drama, Horror, Mystery",7.3,127,214954
+National Treasure: Book of Secrets,2007-12-21,"Action, Adventure, Mystery",6.5,124,214171
+The Girl with the Dragon Tattoo,2010-04-30,"Crime, Drama, Mystery",7.8,152,205262
+Cube,1998-07-11,"Drama, Mystery, Sci-Fi",7.2,90,204760
+Us,2019-03-22,"Horror, Mystery, Thriller",6.9,116,204739
+It Follows,2015-03-13,"Horror, Mystery, Thriller",6.8,100,201012
+Murder on the Orient Express,2017-11-10,"Crime, Drama, Mystery",6.5,114,200486
+Wind River,2017-08-18,"Crime, Drama, Mystery",7.7,107,193037
+The Happening,2008-06-13,"Drama, Mystery, Sci-Fi",5.0,91,192408
+The Number 23,2007-02-23,"Crime, Mystery, Thriller",6.4,98,190439
+The Secret in Their Eyes,2010-05-21,"Drama, Mystery, Romance",8.2,129,186147
+Orphan,2009-07-24,"Horror, Mystery, Thriller",6.9,123,186073
+Dark City,1998-02-27,"Mystery, Sci-Fi, Thriller",7.6,100,184177
+Tinker Tailor Soldier Spy,2012-01-06,"Drama, Mystery, Thriller",7.1,122,182571
+Forrest Gump,1994-07-06,Romance,8.8,142,1741481
+Titanic,1997-12-19,Romance,7.8,194,1017379
+Eternal Sunshine of the Spotless Mind,2004-03-19,Romance,8.3,108,882688
+Good Will Hunting,1998-01-09,Romance,8.3,126,830366
+The Curious Case of Benjamin Button,2008-12-25,Romance,7.8,166,572320
+Her,2014-01-10,Romance,8.0,126,518426
+Cast Away,2000-12-22,Romance,7.8,143,506482
+Casablanca,1943-01-23,Romance,8.5,102,506322
+The Notebook,2004-06-25,Romance,7.8,123,503964
+The Great Gatsby,2013-05-10,Romance,7.2,143,462941
+The Perks of Being a Wallflower,2012-10-12,Romance,8.0,103,448222
+Edward Scissorhands,1990-12-14,Romance,7.9,105,434955
+Twilight,2008-11-21,Romance,5.2,122,413326
+The Theory of Everything,2014-11-26,Romance,7.7,123,387452
+Vertigo,1958-05-22,Romance,8.3,128,348647
+Passengers,2016-12-21,Romance,7.0,116,337271
+The Fault in Our Stars,2014-06-06,Romance,7.7,126,334274
+50 First Dates,2004-02-13,"Comedy, Romance",6.8,99,318838
+Brokeback Mountain,2006-01-13,Romance,7.7,134,315187
+A Star Is Born,2018-10-05,Romance,7.7,136,313248
+Up in the Air,2009-12-23,"Comedy, Romance",7.4,109,312919
+50_50,2011-09-30,"Comedy, Romance",7.6,100,310708
+Moonrise Kingdom,2012-06-29,"Comedy, Romance",7.8,94,309368
+Meet the Parents,2000-10-06,"Comedy, Romance",7.0,108,304804
+Fifty Shades of Grey,2015-02-13,Romance,4.1,125,291846
+Hitch,2005-02-11,"Comedy, Romance",6.6,118,290474
+10 Things I Hate About You,1999-03-31,"Comedy, Romance",7.3,97,287665
+The Proposal,2009-06-19,"Comedy, Romance",6.7,108,287564
+There's Something About Mary,1998-07-15,"Comedy, Romance",7.1,119,284962
+Pretty Woman,1990-03-23,"Comedy, Romance",7.0,119,279357
+Pitch Perfect,2012-10-05,"Comedy, Romance",7.2,112,269450
+As Good as It Gets,1997-12-25,"Comedy, Romance",7.7,139,268396
+Notting Hill,1999-05-28,"Comedy, Romance",7.1,124,263330
+Moulin Rouge!,2001-06-01,Romance,7.6,127,261663
+Bridesmaids,2011-05-13,"Comedy, Romance",6.8,125,261604
+Before Sunrise,1995-01-27,Romance,8.1,101,259505
+Forgetting Sarah Marshall,2008-04-18,"Comedy, Romance",7.1,111,257218
+The Graduate,1967-12-21,"Comedy, Romance",8.0,106,248509
+Meet the Fockers,2004-12-22,"Comedy, Romance",6.3,115,247839
+Annie Hall,1977-04-20,"Comedy, Romance",8.0,93,247004
+Pride & Prejudice,2005-11-23,Romance,7.8,129,244775
+Vanilla Sky,2001-12-14,Romance,6.9,136,243067
+Atonement,2008-01-11,Romance,7.8,123,241646
+The Adjustment Bureau,2011-03-04,Romance,7.0,106,238519
+Vicky Cristina Barcelona,2008-08-15,"Comedy, Romance",7.1,96,237781
+Some Like It Hot,1959-03-19,"Comedy, Romance",8.2,121,236307
+Jerry Maguire,1996-12-13,"Comedy, Romance",7.3,139,235416
+The Holiday,2006-12-08,"Comedy, Romance",6.9,136,235047
+Grease,1978-06-16,Romance,7.2,110,230215
+The Reader,2009-01-30,Romance,7.6,124,226284
+Before Sunset,2004-07-30,Romance,8.0,80,226255
+The Artist,2012-01-20,"Comedy, Romance",7.9,100,226187
+Don Jon,2013-09-27,"Comedy, Romance",6.5,90,224896
+The Fountain,2006-11-22,Romance,7.2,97,224185
+Marriage Story,2019-12-06,"Comedy, Romance",8.0,137,219894
+Bridget Jones's Diary,2001-04-13,"Comedy, Romance",6.7,97,218715
+The Beach,2000-02-11,Romance,6.7,119,218197
+Warm Bodies,2013-02-01,"Comedy, Romance",6.9,98,215679
+Just Go with It,2011-02-11,"Comedy, Romance",6.4,117,215475
+Singin' in the Rain,1952-04-11,"Comedy, Romance",8.3,103,211370
+Mr. Nobody,2013-09-26,Romance,7.8,141,210352
+Meet Joe Black,1998-11-13,Romance,7.2,178,208791
+Mamma Mia!,2008-07-18,"Comedy, Romance",6.4,108,208596
+No Strings Attached,2011-01-21,"Comedy, Romance",6.2,108,208289
+The Lobster,2015-10-16,"Comedy, Romance",7.2,119,207454
+Garden State,2004-08-20,"Comedy, Romance",7.4,102,204812
+How to Lose a Guy in 10 Days,2003-02-07,"Comedy, Romance",6.4,116,203365
+Match Point,2006-01-20,Romance,7.6,124,201777
+True Romance,1993-09-10,Romance,7.9,119,200842
+The Ugly Truth,2009-07-24,"Comedy, Romance",6.4,96,199488
+Closer,2004-12-03,Romance,7.2,104,198838
+The Girl Next Door,2004-04-09,"Comedy, Romance",6.7,109,197489
+Me Before You,2016-06-03,Romance,7.4,106,197474
+P.S. I Love You,2007-12-21,"Comedy, Romance",7.0,126,197346
+Call Me by Your Name,2018-01-19,Romance,7.9,132,195583
+A Walk to Remember,2002-01-25,Romance,7.4,101,195515
+Dirty Dancing,1987-08-21,Romance,7.0,100,194838
+"I Love You, Man",2009-03-20,"Comedy, Romance",7.0,105,191014
+Ghost,1990-07-13,Romance,7.0,127,190746
+Revolutionary Road,2009-01-23,Romance,7.3,119,190069
+When Harry Met Sally...,1989-07-21,"Comedy, Romance",7.6,95,189079
+Bad Teacher,2011-06-24,"Comedy, Romance",5.6,92,189027
+Inception,2010-07-16,"Action, Adventure, Sci-Fi",8.8,148,1981688
+The Matrix,1999-03-31,"Action, Sci-Fi",8.7,136,1619772
+Interstellar,2014-11-07,"Adventure, Drama, Sci-Fi",8.6,169,1430810
+The Avengers,2012-05-04,"Action, Adventure, Sci-Fi",8.0,143,1236053
+Back to the Future,1985-07-03,"Adventure, Comedy, Sci-Fi",8.5,116,1015026
+V for Vendetta,2006-03-17,"Action, Drama, Sci-Fi",8.2,132,1002950
+Terminator 2: Judgment Day,1991-07-03,"Action, Sci-Fi",8.5,137,968511
+Iron Man,2008-05-02,"Action, Adventure, Sci-Fi",7.9,126,915644
+The Truman Show,1998-06-05,"Comedy, Drama, Sci-Fi",8.1,103,901077
+Eternal Sunshine of the Spotless Mind,2004-03-19,"Drama, Romance, Sci-Fi",8.3,108,882500
+Star Wars: Episode VII - The Force Awakens,2015-12-18,"Action, Adventure, Sci-Fi",7.9,138,841239
+Jurassic Park,1993-06-11,"Action, Adventure, Sci-Fi",8.1,127,836798
+The Hunger Games,2012-03-23,"Action, Adventure, Sci-Fi",7.2,142,826508
+Avengers: Infinity War,2018-04-27,"Action, Adventure, Sci-Fi",8.4,149,784785
+The Terminator,1984-10-26,"Action, Sci-Fi",8.0,107,779037
+Alien,1979-06-22,"Horror, Sci-Fi",8.4,117,762796
+Gravity,2013-10-04,"Drama, Sci-Fi, Thriller",7.7,91,751308
+Iron Man 3,2013-05-03,"Action, Adventure, Sci-Fi",7.2,130,735571
+A Clockwork Orange,1972-02-02,"Crime, Drama, Sci-Fi",8.3,136,735084
+The Martian,2015-10-02,"Adventure, Drama, Sci-Fi",8.0,144,734927
+Avengers: Age of Ultron,2015-05-01,"Action, Adventure, Sci-Fi",7.3,141,717523
+Captain America: The Winter Soldier,2014-04-04,"Action, Adventure, Sci-Fi",7.7,136,714448
+Iron Man 2,2010-05-07,"Action, Adventure, Sci-Fi",7.0,124,701924
+Man of Steel,2013-06-14,"Action, Adventure, Sci-Fi",7.0,143,675231
+Blade Runner,1982-06-25,"Action, Sci-Fi, Thriller",8.1,117,673129
+Spider-Man,2002-05-03,"Action, Adventure, Sci-Fi",7.3,121,671754
+X-Men: Days of Future Past,2014-05-23,"Action, Adventure, Sci-Fi",8.0,132,647272
+Captain America: Civil War,2016-05-06,"Action, Adventure, Sci-Fi",7.8,147,638736
+Aliens,1986-07-18,"Action, Adventure, Sci-Fi",8.3,137,635166
+X-Men: First Class,2011-06-03,"Action, Adventure, Sci-Fi",7.7,131,634152
+District 9,2009-08-14,"Action, Sci-Fi, Thriller",7.9,112,627698
+Logan,2017-03-03,"Action, Drama, Sci-Fi",8.1,137,621181
+Batman v Superman: Dawn of Justice,2016-03-25,"Action, Adventure, Sci-Fi",6.4,151,608230
+Black Panther,2018-02-16,"Action, Adventure, Sci-Fi",7.3,134,587394
+Transformers,2007-07-03,"Action, Adventure, Sci-Fi",7.0,144,586898
+2001: A Space Odyssey,1968-05-12,"Adventure, Sci-Fi",8.3,149,582726
+Edge of Tomorrow,2014-06-06,"Action, Adventure, Sci-Fi",7.9,113,581945
+Star Trek,2009-05-08,"Action, Adventure, Sci-Fi",7.9,127,570082
+Arrival,2016-11-11,"Drama, Mystery, Sci-Fi",7.9,116,569765
+Jurassic World,2015-06-12,"Action, Adventure, Sci-Fi",7.0,124,566277
+X-Men,2000-07-14,"Action, Adventure, Sci-Fi",7.4,104,559248
+Rogue One: A Star Wars Story,2016-12-16,"Action, Adventure, Sci-Fi",7.8,133,534491
+Spider-Man 2,2004-06-30,"Action, Adventure, Sci-Fi",7.3,127,529345
+Looper,2012-09-28,"Action, Drama, Sci-Fi",7.4,113,523456
+Her,2014-01-10,"Drama, Romance, Sci-Fi",8.0,126,518285
+Independence Day,1996-07-03,"Action, Adventure, Sci-Fi",7.0,145,516794
+Limitless,2011-03-18,"Sci-Fi, Thriller",7.4,105,516619
+The Matrix Reloaded,2003-05-15,"Action, Sci-Fi",7.2,138,503185
+X2: X-Men United,2003-05-02,"Action, Sci-Fi, Thriller",7.4,134,501727
+Spider-Man: Homecoming,2017-07-07,"Action, Adventure, Sci-Fi",7.4,133,488800
+Rise of the Planet of the Apes,2011-08-05,"Action, Drama, Sci-Fi",7.6,105,488751
+"I, Robot",2004-07-16,"Action, Drama, Sci-Fi",7.1,115,488325
+Spider-Man 3,2007-05-04,"Action, Adventure, Sci-Fi",6.2,139,486585
+Oblivion,2013-04-19,"Action, Adventure, Sci-Fi",7.0,124,474456
+X-Men: The Last Stand,2006-05-26,"Action, Adventure, Sci-Fi",6.7,104,473265
+Back to the Future Part II,1989-11-22,"Adventure, Comedy, Sci-Fi",7.8,108,462381
+Pacific Rim,2013-07-12,"Action, Adventure, Sci-Fi",6.9,131,458119
+X-Men Origins: Wolverine,2009-05-01,"Action, Adventure, Sci-Fi",6.6,107,457518
+Star Trek Into Darkness,2013-05-16,"Action, Adventure, Sci-Fi",7.7,132,457107
+Children of Men,2007-01-05,"Drama, Sci-Fi, Thriller",7.9,109,452558
+The Butterfly Effect,2004-01-23,"Drama, Sci-Fi, Thriller",7.6,113,441951
+The Matrix Revolutions,2003-11-05,"Action, Sci-Fi",6.8,129,437028
+Lucy,2014-07-25,"Action, Sci-Fi, Thriller",6.4,89,430676
+The Incredible Hulk,2008-06-13,"Action, Adventure, Sci-Fi",6.7,112,423889
+The Fifth Element,1997-05-09,"Action, Adventure, Sci-Fi",7.7,126,423434
+The Wolverine,2013-07-26,"Action, Adventure, Sci-Fi",6.7,126,420261
+Captain Marvel,2019-03-08,"Action, Adventure, Sci-Fi",6.9,123,417001
+Elysium,2013-08-09,"Action, Drama, Sci-Fi",6.6,109,411958
+The Amazing Spider-Man 2,2014-05-02,"Action, Adventure, Sci-Fi",6.6,142,407309
+War of the Worlds,2005-06-29,"Adventure, Sci-Fi, Thriller",6.5,116,406710
+The Day After Tomorrow,2004-05-28,"Action, Adventure, Sci-Fi",6.4,124,406360
+The Hunger Games: Mockingjay - Part 1,2014-11-21,"Action, Adventure, Sci-Fi",6.6,123,401820
+Back to the Future Part III,1990-05-25,"Adventure, Comedy, Sci-Fi",7.4,118,389699
+Armageddon,1998-07-01,"Action, Adventure, Sci-Fi",6.7,151,387963
+A Quiet Place,2018-04-06,"Drama, Horror, Sci-Fi",7.5,90,385789
+X-Men: Apocalypse,2016-05-27,"Action, Adventure, Sci-Fi",6.9,144,381865
+Transformers: Dark of the Moon,2011-06-29,"Action, Adventure, Sci-Fi",6.2,154,378545
+Transformers: Revenge of the Fallen,2009-06-24,"Action, Adventure, Sci-Fi",6.0,149,377753
+Terminator 3: Rise of the Machines,2003-07-02,"Action, Sci-Fi",6.3,109,369941
+Godzilla,2014-05-16,"Action, Adventure, Sci-Fi",6.4,123,368278
+The Lost World: Jurassic Park,1997-05-23,"Action, Adventure, Sci-Fi",6.6,129,367727
+Predator,1987-06-12,"Action, Adventure, Sci-Fi",7.8,107,362463
+In Time,2011-10-28,"Action, Sci-Fi, Thriller",6.7,109,361536
+E.T. the Extra-Terrestrial,1982-06-11,Sci-Fi,7.8,115,359808
+The Thing,1982-06-25,"Horror, Mystery, Sci-Fi",8.1,109,356790
+Ready Player One,2018-03-29,"Action, Adventure, Sci-Fi",7.5,140,348661
+2012,2009-11-13,"Action, Adventure, Sci-Fi",5.8,158,345451
+Face_Off,1997-06-27,"Action, Crime, Sci-Fi",7.3,138,341453
+Terminator Salvation,2009-05-21,"Action, Adventure, Sci-Fi",6.5,115,337484
+The Big Lebowski,1998-03-06,"Comedy, Crime, Sport",8.1,117,705947
+Million Dollar Baby,2005-01-28,"Drama, Sport",8.1,132,618907
+Warrior,2011-09-09,"Action, Drama, Sport",8.2,140,424797
+Rush,2013-09-27,"Biography, Drama, Sport",8.1,123,419381
+Moneyball,2011-09-23,"Biography, Drama, Sport",7.6,133,350553
+The Fighter,2010-12-17,"Biography, Drama, Sport",7.8,116,332122
+Raging Bull,1980-12-19,"Biography, Drama, Sport",8.2,129,311228
+The Wrestler,2009-01-30,"Drama, Sport",7.9,109,285261
+The Blind Side,2009-11-20,"Biography, Drama, Sport",7.6,129,283759
+Creed,2015-11-25,"Drama, Sport",7.6,133,240217
+Dodgeball,2004-06-18,"Comedy, Sport",6.7,92,224256
+Southpaw,2015-07-24,"Drama, Sport",7.4,124,211731
+Remember the Titans,2000-09-29,"Biography, Drama, Sport",7.8,113,193013
+Happy Gilmore,1996-02-16,"Comedy, Sport",7.0,92,191082
+Rocky II,1979-06-15,"Drama, Sport",7.3,119,185752
+Rocky IV,1985-11-27,"Drama, Sport",6.9,91,181314
+Rocky III,1982-05-28,"Drama, Sport",6.8,99,168581
+Talladega Nights: The Ballad of Ricky Bobby,2006-08-04,"Comedy, Sport",6.6,108,163181
+The Longest Yard,2005-05-27,"Comedy, Crime, Sport",6.4,113,158464
+Blades of Glory,2007-03-30,"Comedy, Sport",6.3,93,154489
+The Waterboy,1998-11-06,"Comedy, Sport",6.1,90,145024
+She's the Man,2006-03-17,"Comedy, Romance, Sport",6.3,105,142831
+Unbroken,2014-12-25,"Biography, Drama, Sport",7.2,137,141389
+Green Street Hooligans,2005-09-09,"Crime, Drama, Sport",7.5,109,139282
+Foxcatcher,2015-01-16,"Biography, Drama, Sport",7.0,134,131688
+Rocky V,1990-11-16,"Drama, Sport",5.3,104,123555
+Coach Carter,2005-01-14,"Biography, Drama, Sport",7.3,136,122248
+Any Given Sunday,1999-12-22,"Drama, Sport",6.9,162,110159
+Caddyshack,1980-07-25,"Comedy, Sport",7.3,98,102192
+Creed II,2018-11-21,"Drama, Sport",7.1,130,97820
+Never Back Down,2008-03-14,"Action, Drama, Sport",6.6,113,94170
+Ali,2001-12-25,"Biography, Drama, Sport",6.8,157,91667
+The Hurricane,2000-01-14,"Biography, Drama, Sport",7.6,146,89663
+Bring It On,2000-08-25,"Comedy, Romance, Sport",6.0,98,84978
+Here Comes the Boom,2012-10-12,"Action, Comedy, Sport",6.4,105,84309
+Concussion,2015-12-25,"Biography, Drama, Sport",7.1,123,83455
+Goon,2012-02-24,"Comedy, Drama, Sport",6.8,92,82574
+42,2013-04-12,"Biography, Drama, Sport",7.5,128,81640
+Nacho Libre,2006-06-16,"Comedy, Sport",5.7,92,79678
+Semi-Pro,2008-02-29,"Comedy, Sport",5.8,91,77162
+Days of Thunder,1990-06-27,"Action, Drama, Sport",6.0,107,76691
+Kingpin,1996-07-26,"Comedy, Sport",6.9,114,75490
+Hot Rod,2007-08-03,"Comedy, Sport",6.7,88,74811
+The Hustler,1961-09-25,"Drama, Sport",8.0,134,73604
+The Color of Money,1986-10-17,"Drama, Sport",7.0,119,72250
+Chak de! India,2007-08-10,"Drama, Sport",8.2,153,71335
+Seabiscuit,2003-07-25,"Drama, History, Sport",7.3,140,65167
+"Run, Fat Boy, Run",2008-03-28,"Comedy, Romance, Sport",6.6,100,64800
+Invincible,2006-08-25,"Biography, Drama, Sport",7.1,105,64317
+Whip It,2009-10-02,"Drama, Sport",6.9,111,62820
+Children of Heaven,1999-01-22,"Drama, Sport",8.3,89,61338
+Major League,1989-04-07,"Comedy, Sport",7.2,107,60362
+Trouble with the Curve,2012-09-21,"Drama, Sport",6.8,111,58790
+Bhaag Milkha Bhaag,2013-07-12,"Biography, Drama, Sport",8.2,186,58777
+Wimbledon,2004-09-17,"Comedy, Romance, Sport",6.3,98,58729
+Friday Night Lights,2004-10-08,"Action, Drama, Sport",7.2,118,57615
+Point Break,2015-12-25,"Action, Crime, Sport",5.3,114,56913
+The Replacements,2000-08-11,"Comedy, Sport",6.6,118,56892
+Grudge Match,2013-12-25,"Comedy, Drama, Sport",6.4,113,56593
+We Are Marshall,2006-12-22,"Drama, Sport",7.1,131,56112
+BASEketball,1998-07-31,"Comedy, Sport",6.5,103,55800
+Rudy,1993-10-22,"Biography, Drama, Sport",7.5,114,54400
+Chariots of Fire,1982-04-09,"Biography, Drama, Sport",7.2,125,52940
+The Legend of Bagger Vance,2000-11-03,"Drama, Fantasy, Sport",6.7,126,52493
+Win Win,2011-04-15,"Comedy, Drama, Sport",7.1,106,52334
+Draft Day,2014-04-11,"Drama, Sport",6.8,110,52057
+Lords of Dogtown,2005-06-03,"Biography, Drama, Sport",7.1,107,51181
+The World's Fastest Indian,2006-03-24,"Biography, Drama, Sport",7.8,127,50954
+The Love Guru,2008-06-20,"Comedy, Romance, Sport",3.8,87,49662
+Over the Top,1987-02-13,"Action, Drama, Sport",5.8,93,48899
+Kickboxer,1989-09-08,"Action, Sport, Thriller",6.5,97,48479
+The Benchwarmers,2006-04-07,"Comedy, Sport",5.5,85,47394
+The Big Blue,1988-08-19,"Adventure, Drama, Sport",7.6,168,47005
+Bull Durham,1988-06-15,"Comedy, Romance, Sport",7.1,108,46429
+The Fan,1996-08-16,"Action, Drama, Sport",5.9,116,45246
+He Got Game,1998-05-01,"Drama, Sport",6.9,136,43286
+The Natural,1984-05-11,"Drama, Sport",7.5,138,42728
+Million Dollar Arm,2014-05-16,"Biography, Drama, Sport",7.0,124,42611
+Two for the Money,2005-10-07,"Crime, Drama, Sport",6.3,122,42585
+Glory Road,2006-01-13,"Biography, Drama, Sport",7.2,118,42010
+Hoosiers,1987-02-27,"Drama, Sport",7.5,114,41815
+Balls of Fury,2007-08-29,"Comedy, Crime, Sport",5.3,90,40109
+Driven,2001-04-27,"Action, Drama, Sport",4.6,116,38749
+Pawn Sacrifice,2015-09-25,"Biography, Drama, Sport",7.0,115,38338
+Radio,2003-10-24,"Biography, Drama, Sport",6.9,109,37537
+Sultan,2016-07-06,"Action, Drama, Sport",7.0,170,35954
+The Ringer,2005-12-23,"Comedy, Sport",5.8,94,34713
+"McFarland, USA",2015-02-20,"Biography, Drama, Sport",7.4,129,34319
+Slap Shot,1977-02-25,"Comedy, Drama, Sport",7.3,123,33455
+M.S. Dhoni: The Untold Story,2016-09-30,"Biography, Drama, Sport",7.7,184,32250
+The Cannonball Run,1981-06-19,"Action, Comedy, Sport",6.3,95,32189
+The Rookie,2002-03-29,"Drama, Sport",6.9,127,31474
+For Love of the Game,1999-09-17,"Drama, Romance, Sport",6.6,137,30972
+Blue Crush,2002-08-16,"Drama, Romance, Sport",5.6,104,29521
+The Football Factory,2004-05-14,"Crime, Drama, Sport",6.8,91,28140
+Hardball,2001-09-14,"Drama, Sport",6.4,106,27587
+Victory,1981-07-31,"Drama, Sport, War",6.7,116,26806
+The Silence of the Lambs,1991-02-14,"Crime, Drama, Thriller",8.6,118,1223466
+The Departed,2006-10-06,"Crime, Drama, Thriller",8.5,151,1150798
+Kill Bill: Vol. 1,2003-10-10,"Action, Crime, Thriller",8.1,111,970445
+Reservoir Dogs,1992-09-02,"Crime, Drama, Thriller",8.3,99,889969
+Gone Girl,2014-10-03,"Drama, Mystery, Thriller",8.1,149,825453
+No Country for Old Men,2007-11-21,"Crime, Drama, Thriller",8.1,122,823139
+Joker,2019-10-04,"Crime, Drama, Thriller",8.5,122,822374
+Die Hard,1988-07-20,"Action, Thriller",8.2,132,763305
+Sin City,2005-04-01,"Crime, Thriller",8.0,124,731421
+Black Swan,2010-12-17,"Drama, Thriller",8.0,108,682526
+Kill Bill: Vol. 2,2004-04-16,"Action, Crime, Thriller",8.0,137,663575
+The Imitation Game,2014-12-25,"Biography, Drama, Thriller",8.0,114,662299
+Skyfall,2012-11-09,"Action, Adventure, Thriller",7.7,143,617648
+Psycho,1960-09-08,"Horror, Mystery, Thriller",8.5,109,580962
+Casino Royale,2006-11-17,"Action, Adventure, Thriller",8.0,144,566971
+Heat,1995-12-15,"Crime, Drama, Thriller",8.2,170,557731
+Taken,2009-01-30,"Action, Thriller",7.8,90,555825
+Jaws,1975-06-20,"Adventure, Thriller",8.0,124,531984
+John Wick,2014-10-24,"Action, Crime, Thriller",7.4,101,514556
+Ocean's Eleven,2001-12-07,"Crime, Thriller",7.7,116,500923
+The Bourne Identity,2002-06-14,"Action, Mystery, Thriller",7.9,119,496182
+Blood Diamond,2006-12-08,"Adventure, Drama, Thriller",8.0,143,486643
+Get Out,2017-02-24,"Horror, Mystery, Thriller",7.7,104,465583
+Mission: Impossible - Ghost Protocol,2011-12-21,"Action, Adventure, Thriller",7.4,132,447114
+Nightcrawler,2014-10-31,"Crime, Drama, Thriller",7.9,117,443662
+Parasite,2019-11-08,"Comedy, Drama, Thriller",8.6,132,442239
+The Bourne Supremacy,2004-07-23,"Action, Mystery, Thriller",7.7,108,424858
+Crash,2005-05-06,"Crime, Drama, Thriller",7.7,112,413655
+The Hurt Locker,2009-07-31,"Drama, Thriller, War",7.6,131,411933
+Split,2017-01-20,"Horror, Thriller",7.3,117,404540
+Quantum of Solace,2008-11-14,"Action, Adventure, Thriller",6.6,106,395714
+Live Free or Die Hard,2007-06-27,"Action, Thriller",7.1,128,382657
+Training Day,2001-10-05,"Crime, Drama, Thriller",7.7,122,378414
+Mission: Impossible,1996-05-22,"Action, Adventure, Thriller",7.1,110,377738
+Spectre,2015-11-06,"Action, Adventure, Thriller",6.8,148,374071
+Fast & Furious 6,2013-05-24,"Action, Adventure, Thriller",7.1,130,361499
+Die Hard with a Vengeance,1995-05-19,"Action, Adventure, Thriller",7.6,128,355455
+Room,2016-01-22,"Drama, Thriller",8.1,118,352682
+Furious 7,2015-04-03,"Action, Adventure, Thriller",7.1,137,351611
+Ocean's Twelve,2004-12-10,"Crime, Thriller",6.5,125,349319
+The Machinist,2004-12-03,"Drama, Thriller",7.7,101,348658
+John Wick: Chapter 2,2017-02-10,"Action, Crime, Thriller",7.5,122,347583
+The Town,2010-09-17,"Crime, Drama, Thriller",7.5,125,341093
+The Italian Job,2003-05-30,"Action, Crime, Thriller",7.0,111,335571
+Mission: Impossible - Rogue Nation,2015-07-31,"Action, Adventure, Thriller",7.4,131,332108
+Die Hard 2,1990-07-03,"Action, Thriller",7.2,124,328030
+The Equalizer,2014-09-26,"Action, Crime, Thriller",7.2,132,322282
+Mission: Impossible III,2006-05-05,"Action, Adventure, Thriller",6.9,126,322182
+Speed,1994-06-10,"Action, Adventure, Thriller",7.2,116,320047
+The Expendables,2010-08-13,"Action, Adventure, Thriller",6.5,103,319722
+Flight,2012-11-02,"Drama, Thriller",7.3,138,317752
+Ocean's Thirteen,2007-06-08,"Action, Crime, Thriller",6.9,122,312813
+Jackie Brown,1997-12-25,"Crime, Drama, Thriller",7.5,154,306881
+Mission: Impossible II,2000-05-24,"Action, Adventure, Thriller",6.1,123,306425
+The Rock,1996-06-07,"Action, Adventure, Thriller",7.4,136,305379
+Shooter,2007-03-23,"Action, Drama, Thriller",7.2,124,303822
+Jack Reacher,2012-12-21,"Action, Thriller",7.0,130,300121
+The Island,2005-07-22,"Action, Sci-Fi, Thriller",6.8,136,296267
+Total Recall,1990-06-01,"Action, Sci-Fi, Thriller",7.5,113,292730
+Fifty Shades of Grey,2015-02-13,"Drama, Romance, Thriller",4.1,125,291813
+North by Northwest,1959-09-26,"Adventure, Mystery, Thriller",8.3,136,289251
+The Expendables 2,2012-08-17,"Action, Adventure, Thriller",6.6,103,287241
+Taken 2,2012-10-05,"Action, Thriller",6.3,92,284295
+Chinatown,1974-06-20,"Drama, Mystery, Thriller",8.2,130,284180
+The Transporter,2002-10-11,"Action, Crime, Thriller",6.8,92,279982
+The Bourne Legacy,2012-08-10,"Action, Adventure, Thriller",6.7,135,279239
+Bridge of Spies,2015-10-16,"Drama, History, Thriller",7.6,142,279001
+Inglourious Basterds,2009-08-21,"Adventure, Drama, War",8.3,153,1219382
+Saving Private Ryan,1998-07-24,"Drama, War",8.6,169,1194206
+Full Metal Jacket,1987-07-10,"Drama, War",8.3,116,652866
+Pan's Labyrinth,2007-01-19,"Drama, Fantasy, War",8.2,118,603272
+Apocalypse Now,1979-08-15,"Drama, Mystery, War",8.4,147,585990
+Casablanca,1943-01-23,"Drama, Romance, War",8.5,102,506227
+Fury,2014-10-17,"Action, Drama, War",7.6,134,411964
+The Last Samurai,2003-12-05,"Action, Drama, War",7.7,154,389279
+Tropic Thunder,2008-08-13,"Action, Comedy, War",7.0,107,369926
+Black Hawk Down,2002-01-18,"Drama, History, War",7.7,144,356187
+1917,2020-01-10,"Drama, War",8.3,119,339629
+The Deer Hunter,1979-02-23,"Drama, War",8.1,183,302090
+Enemy at the Gates,2001-03-16,"Drama, History, War",7.6,131,236664
+Jojo Rabbit,2019-11-08,"Comedy, Drama, War",7.9,108,234610
+Grave of the Fireflies,1989-07-26,"Animation, Drama, War",8.5,89,221961
+The Bridge on the River Kwai,1957-12-14,"Adventure, Drama, War",8.1,161,197254
+The Great Dictator,1941-03-07,"Comedy, Drama, War",8.4,125,195477
+The Boy in the Striped Pajamas,2008-11-26,"Drama, War",7.8,94,184484
+The English Patient,1996-12-06,"Drama, Romance, War",7.4,162,174451
+Paths of Glory,1957-12-25,"Drama, War",8.4,88,170708
+The Thin Red Line,1999-01-15,"Drama, War",7.6,170,168244
+Legends of the Fall,1995-01-13,"Drama, Romance, War",7.6,133,143280
+Incendies,2011-01-12,"Drama, Mystery, War",8.3,131,140182
+Dear John,2010-02-05,"Drama, Romance, War",6.3,108,135449
+The Men Who Stare at Goats,2009-11-06,"Comedy, War",6.2,94,125141
+The Book Thief,2013-11-27,"Drama, War",7.6,131,124617
+13 Hours,2016-01-15,"Action, Drama, War",7.3,144,113586
+Ran,1985-06-01,"Action, Drama, War",8.2,162,107488
+The Mountain II,2016-11-04,"Action, Drama, War",8.9,135,103674
+Born on the Fourth of July,1990-01-05,"Biography, Drama, War",7.2,145,95537
+Patton,1970-04-02,"Biography, Drama, War",7.9,172,91924
+U-571,2000-04-21,"Action, War",6.6,116,75183
+G.I. Jane,1997-08-22,"Action, Drama, War",5.9,125,71669
+Black Book,2007-05-18,"Drama, Thriller, War",7.7,145,71193
+Beasts of No Nation,2015-10-16,"Drama, War",7.7,137,70819
+Doctor Zhivago,1965-12-31,"Drama, Romance, War",8.0,197,67798
+Judgment at Nuremberg,1961-12-18,"Drama, War",8.2,179,66650
+MASH,1970-03-18,"Comedy, Drama, War",7.5,116,66087
+The Dirty Dozen,1967-10-22,"Action, Adventure, War",7.7,150,65283
+Windtalkers,2002-06-14,"Action, Drama, War",6.1,134,64349
+Stripes,1981-06-26,"Comedy, War",6.9,106,63335
+All Quiet on the Western Front,1930-08-24,"Drama, War",8.0,152,55980
+The Best Years of Our Lives,1947-05-29,"Drama, Romance, War",8.0,170,55935
+Duck Soup,1933-11-17,"Comedy, War",7.8,69,54450
+Underground,1997-06-20,"Comedy, Drama, War",8.1,167,53854
+"Salò, or the 120 Days of Sodom",1976-05-19,"Drama, Horror, War",5.9,117,52316
+Come and See,1985-10-17,"Drama, War",8.3,142,52118
+Macbeth,2015-12-11,"Drama, History, War",6.6,113,51644
+The Battle of Algiers,1967-09-20,"Drama, War",8.1,121,50367
+Where Eagles Dare,1969-03-12,"Action, Adventure, War",7.7,158,50313
+A Bridge Too Far,1977-06-15,"Drama, History, War",7.4,175,50196
+Hart's War,2002-02-15,"Drama, War",6.3,125,50062
+The Wind that Shakes the Barley,2007-03-23,"Drama, War",7.5,127,45234
+Kelly's Heroes,1970-06-23,"Adventure, Comedy, War",7.6,144,44031
+No Man's Land,2001-09-19,"Comedy, Drama, War",7.9,98,43762
+Rules of Engagement,2000-04-07,"Drama, Thriller, War",6.4,128,43553
+Son of Saul,2015-06-11,"Drama, War",7.5,107,43370
+The Man Who Would Be King,1975-12-19,"Adventure, History, War",7.8,129,42865
+From Here to Eternity,1953-08-28,"Drama, Romance, War",7.6,118,42026
+Uri: The Surgical Strike,2019-01-11,"Action, Drama, War",8.3,138,39997
+Mudbound,2017-11-17,"Drama, War",7.4,134,39943
+Casualties of War,1989-08-18,"Crime, Drama, War",7.1,113,39934
+War Machine,2017-05-26,"Comedy, Drama, War",6.0,122,39926
+Heartbreak Ridge,1986-12-05,"Drama, War",6.9,130,38473
+Tigerland,2001-05-24,"Drama, War",7.0,101,37364
+Tae Guk Gi: The Brotherhood of War,2004-09-24,"Action, Drama, War",8.1,140,37166
+Love and Death,1975-07-18,"Comedy, War",7.7,85,34959
+Zulu,1964-06-17,"Drama, History, War",7.7,138,34911
+The Last Legion,2007-08-17,"Action, Adventure, War",5.4,101,33704
+In the Land of Blood and Honey,2012-02-16,"Drama, Romance, War",4.5,127,33167
+La Grande Illusion,1938-09-12,"Drama, War",8.1,113,32997
+Kagemusha,1980-10-10,"Drama, History, War",8.0,162,30892
+The Guernsey Literary and Potato Peel Pie Society,2018-08-10,"Drama, Romance, War",7.4,124,30652
+1941,1979-12-14,"Action, Comedy, War",5.8,118,30625
+Coriolanus,2012-01-20,"Drama, Thriller, War",6.1,123,30543
+Au Revoir les Enfants,1988-02-12,"Drama, War",8.0,104,30195
+Stalingrad,1993-01-21,"Drama, War",7.5,134,29900
+Duck You Sucker,1972-07-07,"Drama, War, Western",7.6,138,28849
+To Be or Not to Be,1942-03-06,"Comedy, War",8.2,99,26579
+Lifeboat,1944-01-28,"Drama, War",7.6,97,25656
+Gettysburg,1993-10-08,"Drama, History, War",7.6,271,25505
+Cross of Iron,1977-05-20,"Drama, War",7.5,119,24560
+The Caine Mutiny,1954-06-24,"Drama, War",7.7,124,23779
+The Ottoman Lieutenant,2017-03-10,"Drama, War",6.6,106,23718
+Da 5 Bloods,2020-06-12,"Adventure, Drama, War",6.6,154,23105
+Bloody Sunday,2002-04-19,"Drama, History, War",7.6,107,22908
+Saboteur,1942-04-24,"Thriller, War",7.2,109,22497
+The Birth of a Nation,1915-03-21,"Drama, History, War",6.3,195,21976
+Little Boy,2015-04-24,"Drama, History, War",7.4,106,21808
+Last Flag Flying,2017-11-03,"Comedy, Drama, War",6.9,125,21540
+Catch-22,1970-06-24,"Comedy, Drama, War",7.1,122,21424
+The Great Raid,2005-08-12,"Action, Drama, War",6.7,132,20965
+Saints and Soldiers,2005-03-25,"Action, Drama, War",6.7,90,19730
+Stop-Loss,2008-03-28,"Drama, War",6.4,112,19456
+The Alamo,2004-04-09,"Drama, History, War",6.0,137,19290

@@ -29,15 +29,17 @@ def create_summary_txt(df, file_path):
     top_5_highest_rated_movies = df.nlargest(5, 'rating')['name'].tolist()
 
     with open(file_path, 'w') as file:
-        file.write(f"Summary of Movie Dataset\n")
-        file.write(f"{'-'*30}\n")
+        file.write(f"Summary of Movie Dataset\n\n")
+        file.write(f"{'-'*30}\n\n")
         file.write(f"Total Number of Movies: {total_movies}\n")
         file.write(f"Time Span Covered: {time_span}\n\n")
 
         file.write(f"Highest Rated Movie: {highest_rated_movie} - {df.loc[df['rating'].idxmax()]['rating']:.1f}\n")
-        file.write(f"Lowest Rated Movie: {lowest_rated_movie} - {df.loc[df['rating'].idxmin()]['rating']:.1f}\n")
+        file.write(f"Lowest Rated Movie: {lowest_rated_movie} - {df.loc[df['rating'].idxmin()]['rating']:.1f}\n\n")
+
         file.write(f"Longest Runtime Movie: {longest_runtime_movie} - {df.loc[df['run_length'].idxmax()]['run_length']} minutes\n")
-        file.write(f"Shortest Runtime Movie: {shortest_runtime_movie} - {df.loc[df['run_length'].idxmin()]['run_length']} minutes\n")
+        file.write(f"Shortest Runtime Movie: {shortest_runtime_movie} - {df.loc[df['run_length'].idxmin()]['run_length']} minutes\n\n")
+
         file.write(f"Most Rated Movie: {most_rated_movie} - {df.loc[df['num_raters'].idxmax()]['num_raters']}\n")
         file.write(f"Least Rated Movie: {least_rated_movie} - {df.loc[df['num_raters'].idxmin()]['num_raters']}\n\n")
 
@@ -54,6 +56,5 @@ def create_summary_txt(df, file_path):
         file.write(f"Top 5 Longest Movies: {', '.join(top_5_longest_movies)}\n")
         file.write(f"Top 5 Highest Rated Movies: {', '.join(top_5_highest_rated_movies)}\n")
 
-# Example usage
 df = pd.read_csv('clean_movie_data.csv')
 create_summary_txt(df, 'movie_summary.txt')

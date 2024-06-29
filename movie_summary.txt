@@ -1,0 +1,28 @@
+Summary of Movie Dataset
+
+------------------------------
+
+Total Number of Movies: 1362
+Time Span Covered: 1915 - 2020
+
+Highest Rated Movie: The Shawshank Redemption - 9.3
+Lowest Rated Movie: Spice World - 3.5
+
+Longest Runtime Movie: Gettysburg - 271 minutes
+Shortest Runtime Movie: Battleship Potemkin - 66 minutes
+
+Most Rated Movie: The Shawshank Redemption - 2258845
+Least Rated Movie: The Alamo - 19290
+
+Most Common Genre: Comedy
+Least Common Genre: Drama, Horror, War
+
+Year with Most Movies Released: 2007 - 69
+Year with Fewest Movies Released: 1973 - 1
+
+Average Movie Rating: 7.38
+Average Movie Runtime: 120.55 minutes
+
+Top 5 Most Common Genres: Comedy, Action, Adventure, Sci-Fi, Comedy, Romance, Animation, Adventure, Comedy, Romance
+Top 5 Longest Movies: Gettysburg, Gone with the Wind, Once Upon a Time in America, Lawrence of Arabia, Ben-Hur
+Top 5 Highest Rated Movies: The Shawshank Redemption, The Godfather, The Dark Knight, The Godfather: Part II, The Lord of the Rings: The Return of the King

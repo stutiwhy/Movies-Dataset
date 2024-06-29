@@ -4,10 +4,9 @@ from PIL import Image
 import base64
 import matplotlib.pyplot as plt
 from plotting import plot_movies_by_genre_over_time, plot_genre_ratings_bar, plot_ratings_vs_raters, plot_runtime_vs_year, plot_ratings_distribution, plot_runtime_distribution, plot_movies_by_decade, plot_raters_by_genre_bar
-from file_handling import load_clean_data, save_clean_data
+from file_handling import load_clean_data
 from exceptions import FileHandlingError, PlottingError
 
-# Load and preprocess the data
 try:
     df = load_clean_data('clean_movie_data.csv')
     df['rel_date'] = pd.to_datetime(df['rel_date'], errors='coerce')
@@ -17,9 +16,8 @@ except FileNotFoundError:
 except pd.errors.EmptyDataError:
     raise FileHandlingError("Loaded data file is empty.")
 except Exception as e:
-    raise FileHandlingError(f"An error occurred while loading the data: {e}")
+    raise FileHandlingError(f"An error occurred while loading the data : {e}")
 
-# Function to get base64 string of image file
 def get_base64(bin_file):
     try:
         with open(bin_file, 'rb') as f:
@@ -28,7 +26,6 @@ def get_base64(bin_file):
     except Exception as e:
         raise FileHandlingError(f"An error occurred while encoding the image: {e}")
 
-# Function to set background image
 def set_background(png_file):
     try:
         bin_str = get_base64(png_file)
@@ -56,10 +53,8 @@ def set_background(png_file):
     except Exception as e:
         raise PlottingError(f"An error occurred while setting the background: {e}")
 
-# Set the background image
 set_background('movie-back.png')
 
-# Function for basic analysis
 def basic_analysis():
     st.title('Movies Dataset Analysis')
 
@@ -70,7 +65,6 @@ def basic_analysis():
     )
     st.markdown('<hr>', unsafe_allow_html=True)
 
-    # Top 10 highest rated movies
     st.subheader('Top 10 Highest Rated Movies:')
     try:
         df = pd.read_csv('clean_movie_data.csv')
@@ -81,32 +75,29 @@ def basic_analysis():
     except pd.errors.EmptyDataError:
         raise FileHandlingError("Loaded data file is empty.")
     except Exception as e:
-        raise FileHandlingError(f"An error occurred while fetching the top 10 highest rated movies: {e}")
+        raise FileHandlingError(f"An error occurred while fetching the top 10 highest rated movies : {e}")
 
-    # Top 10 lowest rated movies
     st.subheader('Top 10 Lowest Rated Movies:')
     try:
         last_10 = df.sort_values('rating', axis=0, ascending=True).head(10)
         st.dataframe(last_10, hide_index=True)
     except Exception as e:
-        raise FileHandlingError(f"An error occurred while fetching the top 10 lowest rated movies: {e}")
+        raise FileHandlingError(f"An error occurred while fetching the top 10 lowest rated movies : {e}")
 
     st.markdown('<hr>', unsafe_allow_html=True)
 
-    # Data visualization introduction
     st.subheader('Data Visualization:')
     st.write(
         'Data visualization is a critical aspect of data analysis because it allows for the representation of complex data in a visual format. Visualizations make it easier to identify patterns, trends, and outliers in the data, facilitating better decision-making.'
     )
     st.markdown('<hr>', unsafe_allow_html=True)
 
-    # Plotting visualizations
     try:
         g1 = plot_runtime_distribution(df)
         st.pyplot(g1)
         st.write('fig.1 : Runtime Histogram')
     except PlottingError as e:
-        st.write(f"An error occurred while plotting runtime distribution: {e}")
+        st.write(f"An error occurred while plotting runtime distribution : {e}")
 
     st.markdown('<hr>', unsafe_allow_html=True)
 
@@ -115,7 +106,7 @@ def basic_analysis():
         st.pyplot(g2)
         st.write('fig.2 : Ratings Histogram')
     except PlottingError as e:
-        st.write(f"An error occurred while plotting ratings distribution: {e}")
+        st.write(f"An error occurred while plotting ratings distribution : {e}")
 
     st.markdown('<hr>', unsafe_allow_html=True)
 
@@ -124,7 +115,7 @@ def basic_analysis():
         st.pyplot(g3)
         st.write('fig.3 : Genre by Ratings Bar Graph')
     except PlottingError as e:
-        st.write(f"An error occurred while plotting genre ratings bar graph: {e}")
+        st.write(f"An error occurred while plotting genre ratings bar graph : {e}")
 
     st.markdown('<hr>', unsafe_allow_html=True)
 
@@ -134,7 +125,7 @@ def basic_analysis():
         st.pyplot(g8)
         st.write('fig.4 : Average Number of Raters by Genre Bar Graph')
     except PlottingError as e:
-        st.write(f"An error occurred while plotting raters by genre: {e}")
+        st.write(f"An error occurred while plotting raters by genre : {e}")
 
     st.markdown('<hr>', unsafe_allow_html=True)
 
@@ -143,7 +134,7 @@ def basic_analysis():
         st.pyplot(g4)
         st.write('fig.4 : Ratings by Number of Raters Scatter Plot')
     except PlottingError as e:
-        st.write(f"An error occurred while plotting ratings vs number of raters: {e}")
+        st.write(f"An error occurred while plotting ratings vs number of raters : {e}")
 
     st.markdown('<hr>', unsafe_allow_html=True)
 
@@ -152,7 +143,7 @@ def basic_analysis():
         st.pyplot(g5)
         st.write('fig.5 : Runtime by Year Scatter Plot')
     except PlottingError as e:
-        st.write(f"An error occurred while plotting runtime vs year: {e}")
+        st.write(f"An error occurred while plotting runtime vs year : {e}")
 
     st.markdown('<hr>', unsafe_allow_html=True)
 
@@ -161,7 +152,7 @@ def basic_analysis():
         st.pyplot(g6)
         st.write('fig.6 : Movies by Decade Bar Graph')
     except PlottingError as e:
-        st.write(f"An error occurred while plotting movies by decade: {e}")
+        st.write(f"An error occurred while plotting movies by decade : {e}")
 
     st.markdown('<hr>', unsafe_allow_html=True)
 
@@ -171,16 +162,14 @@ def basic_analysis():
         st.pyplot(g7)
         st.write('fig.7 : Number of Movies Growth by Genre Over Time Line Plot')
     except PlottingError as e:
-        st.write(f"An error occurred while plotting movies by genre over time: {e}")
+        st.write(f"An error occurred while plotting movies by genre over time : {e}")
 
-# Function for search
 def search():
     st.title('Search For Movies')
 
     st.header('Choose a genre to search for movies : ')
     selected_genre = st.selectbox('Select Genre:', {'Action', 'War', 'Sport', 'Thriller', 'Drama', 'Biography', 'Comedy', 'Animation', 'Adventure', 'Romance', 'Mystery', 'Crime', 'Music', 'Horror', 'Western', 'Sci-Fi', 'History'})
 
-    # Filter the dataframe based on selected_genre
     try:
         filtered_df = df[df['genres'].apply(lambda genres: selected_genre in genres)]
         if filtered_df.empty:
@@ -194,7 +183,6 @@ def search():
     unique_years = sorted(df['year'].unique())
     selected_year = st.selectbox('Select Year', unique_years)
 
-    # Filter the dataframe based on selected_genre and year
     try:
         filtered_df = df[
             (df['genres'].apply(lambda genres: selected_genre in genres)) &
@@ -209,11 +197,9 @@ def search():
     except Exception as e:
         raise PlottingError(f"An error occurred while searching for movies by genre and year : {e}")
 
-# Sidebar selection
 st.sidebar.title('Make Your Choice')
 ch = st.sidebar.selectbox('Select page : ', {'Movie Dataset Analysis', 'Search For Movies'})
 
-# Main content based on selection
 if ch == 'Movie Dataset Analysis':
     basic_analysis()
 elif ch == 'Search For Movies':

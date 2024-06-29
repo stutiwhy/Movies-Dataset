@@ -4,7 +4,7 @@ from file_handling import load_clean_data, save_clean_data
 
 def clean_data():
     def clean_genre_data(genre_list):
-        # Remove any empty strings and strip whitespaces from genres
+        # removing any empty strings and strip whitespaces from genres
         cleaned_genres = [genre.strip() for genre in genre_list if genre.strip()]
         return ', '.join(cleaned_genres)
 
@@ -50,7 +50,7 @@ def clean_data():
         
         df['run_length'] = df['run_length'].apply(convert_runtime_to_minutes)
         
-        # Function to convert release_date to datetime
+        # function to convert release_date to datetime
         def convert_release_date(date_str):
             if isinstance(date_str, str):
                 date_part = date_str.split('(')[0].strip()
@@ -58,38 +58,37 @@ def clean_data():
             else:
                 return pd.NaT
         
-        # Apply the date conversion function
+        # calling the date conversion function
         df['rel_date'] = df['release_date'].apply(convert_release_date)
 
         df['rel_date'] = pd.to_datetime(df['rel_date'], errors='coerce') 
         
-        # Drop the original release_date column
+        # dropping the original release_date column
         df.drop(['release_date'], axis=1, inplace=True)
         
-        # Clean genres column using clean_genre_data function
+        # cleaning genres column 
         df['genres'] = df['genres'].str.split(';').apply(clean_genre_data)
 
         df.dropna(inplace=True)
         
-        # Reorder columns
+        # reordering columns
         new_columns_order = ['name', 'rel_date', 'genres', 'rating', 'run_length', 'num_raters']
         df = df.reindex(columns=new_columns_order)
         
-        # Display the first few rows of the cleaned DataFrame
+        # display the first few rows of the cleaned DataFrame
         print(df.head())
         print(df.dtypes)
 
         print("Data cleaned successfully!")
 
-        # Save cleaned data to a new file (e.g., clean_movie_data.csv)
+        # saving clean files now
         save_clean_data(df, "clean_movie_data.csv")
-        print("Cleaned data saved successfully!")
+        print("Cleaned data saved successfully !")
 
     except FileNotFoundError as e:
-        raise FileHandlingError(f"An error occurred: File not found - {e}")
+        raise FileHandlingError(f"An error occurred : File not found - {e}")
 
     except Exception as e:
-        raise FileHandlingError(f"An error occurred: {e}")
+        raise FileHandlingError(f"An error occurred : {e}")
 
-# Call the function to clean data
 clean_data()
